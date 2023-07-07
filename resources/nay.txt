@@ -1,0 +1,87 @@
+animal
+aquamin
+automotive
+bait
+bottled water
+cancer
+cats
+channels
+China
+cigarette
+cigarettes
+coal
+cooking
+dairy
+diesel
+disposable
+dogs
+downstream
+drilling
+drugs
+egg
+ethylene
+European Union
+exhaust
+fish
+fisheries
+fishes
+fishing
+gas
+gas station
+gasoline
+gold
+grocery
+groundwater
+honey
+horse
+hunting
+hydraulic fracturing
+hydrogen
+insecticide
+kitty
+leather
+life science
+limestone
+livestock
+LNG
+mall
+marble
+meat
+meats
+midstream
+milk
+mouse
+movies
+natural gas
+offshore
+oil
+oilfield
+pest
+pest control
+pesticide
+petrol
+petroleum
+pets
+pfizer
+pharmaceutical
+pharmaceuticals
+pharmacy
+pipeline
+plastic
+poultry
+pre-clinical
+propane
+rabbit
+restaurant
+shale
+testing
+Texas
+travel
+truck
+trucks
+trucking
+turbine
+tv
+upstream
+weapons
+wool

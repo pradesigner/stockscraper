@@ -1,0 +1,31 @@
+Symbol	Description
+XTL	S&P 500 Telecom Sector SPDR
+XTN	S&P Transportation SPDR
+XTNT	Xtant Medical Holdings Inc
+XVV	Ishares ESG Screened S&P 500 ETF
+XVZ	Ipath S&P 500 Dynamic VIX ETN
+XWEB	S&P Internet ETF SPDR
+XXII	22nd Century Group Inc
+XYLD	Horizons S&P 500 Covered Call
+XYLG	Global X S&P 500 Covered Call & Growth ETF
+YANG	FTSE China Bear 3X Direxion
+YCB-A	Cbdmd Inc [Ycbd/Pa]
+YCBD	Cbdmd Inc
+YCL	Ultra Yen Proshares
+YCS	Ultrashort Yen Proshares
+YGRN	Microsectors -1X U.S. Big Oil Index ETN
+YINN	FTSE China Bull 3X Direxion
+YLD	Principal Edge Active Income ETF
+YOLO	Advisorshares Pure Cannabis ETF
+YXI	China 25 Short Proshares
+YYY	Yieldshares High Income ETF
+ZCAN	SPDR Solactive Canada ETF
+ZDEU	SPDR Solactive Germany ETF
+ZDGE	Zedge Inc Cl B
+ZGBR	SPDR Solactive United Kingdom ETF
+ZHOK	SPDR Solactive Hong Kong ETF
+ZIG	The Acquirers Fund ETF
+ZJPN	SPDR Solactive Japan ETF
+ZOM	Zomedica Pharmaceuticals Corp
+ZROZ	25+ Year Zero Cpn U.S. Trsy Idx ETF Pimco
+ZSL	Ultrashort Silver Proshares

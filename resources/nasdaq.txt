@@ -1,0 +1,1442 @@
+Symbol,Description
+AACQ,Artius Acquisition Inc Cl A
+AAME,Atlantic Amer Cp
+AAWW,Atlas Air Ww
+AAXN,Axon Inc
+ABCB,Ameris Bancorp
+ABCL,Abcellera Biologics Inc
+ABST,Absolute Software Cp
+ABTX,Allegiance Banc CS
+ACACU,Acies Acquisition Corp
+ACAM,Acamar Partners Acquisition Corp Cl A
+ACAMU,Acamar Partners Acquisition Corp Units
+ACBI,Atlantic Capital
+ACCD,Accolade Inc
+ACEV,Ace Convergence Acquisition Corp. Cl A
+ACEVU,Ace Convergence Acquisition Corp
+ACMR,Acm Research Inc
+ACNB,Acnb Corp
+ACTC,Arclight Clean Transition Corp. Cl A
+ACTCU,Arclight Clean Transition Corp
+ADES,Advanced Emissions Solutions Inc
+ADOC,Edoc Acquisition Corp Cl A
+ADOCR,Edoc Acquisition Corp Right
+ADP,Automatic Data Procs
+ADTN,Adtran Inc
+ADTX,Aditx Therapeutics Inc
+ADV,Advantage Solutions Inc
+ADVM,Adverum Biotechnlgs
+AEGN,Aegion Corp
+AEHL,Antelope Enterprise Hldg Ltd
+AEHR,Aehr Test Systems
+AEPPZ,American Electric Power Company Inc
+AESE,Allied Esports Entertainment Inc
+AEY,Addvantage Techs Group
+AEYE,Audioeye Inc
+AFIB,Acutus Medical Inc
+AFIN,American Finance Trust Inc Cl A
+AFINP,American Finance Trust Inc Pfd Ser A
+AGC,Altimeter Growth Corp Cl A
+AGCUU,Altimeter Growth Corp
+AGFS,Agrofresh Solutions
+AGNC,American Capital Age
+AGNCM,Agnc Investment Corp Cum Red Pfd Ser D Fixed To
+AGNCN,Agnc Investment Corp
+AGNCO,Agnc Investment Corp Fxdfr Prf Perpetual USD 25
+AGNCP,Agnc Investment Corp
+AHAC,Alpha Healthcare Acquisition Corp
+AHACU,Alpha Healthcare Acquisition Corp
+AHCO,Adapthealth Corp Cl. A
+AHPI,Allied Healthcare
+AIKI,Alkido Pharma Inc
+AINV,Apollo Investment Company
+AIRT,Air T Inc
+AIRTP,Air T Inc Funding Alpha Income Trust Preferred
+AKTS,Akoustis Technologies Inc
+AKU,Akumin Inc
+AKUS,Akouos Inc
+ALGN,Align Technology
+ALGS,Aligos Therapeutics Inc
+ALJJ,Alj Regional Hold
+ALLT,Allot Communications
+ALRS,Alerus Financial Corp
+ALTA,Altabancorp
+ALTR,Altair Engineering Inc Cl A
+ALTUU,Altitude Acquisition Corp
+ALVR,Allovir Inc
+ALXO,Alx Oncology Holdings Inc
+AMAL,Amalgamated Bk
+AMBA,Ambarella Inc
+AMCIU,Amci Acquisition Corp Unit
+AMHC,Amplitude Healthcare Acquisition Corp Cl
+AMHCU,Amplitude Healthcare Acquisition Corp
+AMNB,American Natl Bksh
+AMRB,American River Bkshs
+AMRS,Amyris Inc
+AMSC,Amer Superconductor
+AMSF,Amerisafe Inc
+AMST,Amesite Inc
+AMTB,Mercantil Bank Holding Cl A
+AMTBB,Mercantil Bank Holding Cl B
+AMTI,Applied Molecular Transport Inc
+ANAT,Amer Natl Insurance
+ANNX,Annexon Inc
+AOSL,Alpha and Omega Semi
+AOUT,American Outdoor Brands Inc
+APPN,Appian Corp Cl A
+APWC,Asia Pacific Wire & Cable
+APXT,Apex Technology Acquisition Corp Cl A
+APXTU,Apex Technology Acquisition Corp
+ARBGU,Aequi Acquisition Corp
+ARCE,Arco Platform Ltd Cl A
+AROW,Arrow Financial Corp
+ARTL,Artelo Biosciences Inc
+ARTW,Art S Way MFG Company
+ARYA,Arya Sciences Acquisition Corp III Cl A
+ASPS,Altisource Portfolio
+ASPU,Aspen Group Inc
+ASRV,Ameriserv Financial
+ASTC,Astrotech Corp
+ASUR,Asure Software
+ASYS,Amtech Systems Inc
+ATAX,Amer First Mf Inv
+ATCX,Atlas Technical Consultants Inc
+ATEX,Pdvwireless
+ATHA,Athira Pharma Inc
+ATLC,Atlanticus Hld Cp
+ATLO,Ames Natl Corp
+ATNF,180 Life Sciences Corp
+ATNI,Atn International
+ATOM,Atomera Inc
+ATRI,Atrion Corp
+ATRO,Astronics Cp
+ATRS,Antares Pharma
+ATSG,Air Transport
+AUB,Atlantic Union Bancshares Corp
+AUBAP,Atlantic Union Bankshares Corp
+AUBN,Auburn Natl Bncp
+AUVI,Applied Uv Inc
+AVCT,American Virtual Cloud Tech Inc
+AVGOP,Broadcom Inc 8% Prf Undated USD 1000 Ser A
+AVT,Avnet Inc
+AWH,Aspira Womans Health Inc
+AWRE,Aware Inc
+AXDX,Accelerate Diagnosti
+AXTI,Axt Inc
+AZYO,Aziyo Biologics Inc Cl A
+BAND,Bandwidth Inc
+BANF,Bancfirst Corp
+BANR,Banner Corp
+BANX,Stonecastle Fncl Cp
+BASI,Bioanalytical Syst
+BATRA,Liberty Braves CS A
+BATRK,Liberty Braves CS C
+BBCP,Concrete Pumping Holdings Inc
+BBGI,Beasley Brdcst Gr
+BBI,Brickell Biotech Inc
+BCAB,Bioatla Inc
+BCBP,Bcb Bancorp Inc
+BCDA,Biocardia Inc
+BCML,Bay Commercial Bk CA
+BCOV,Brightcove Inc
+BCOW,1895 Bancorp of Wisconsin Inc
+BCTG,Bctg Acquisition Corp
+BDGE,Bridge Bancorp Inc
+BDSX,Biodesix Inc
+BECN,Beacon Roofing Suppl
+BELFA,Bel Fuse Cl A
+BELFB,Bel Fuse Inc Cl B
+BFC,Bank First National Corp [Wisconsin]
+BFIN,Bankfinancial Corp
+BFST,Business First Bancshares Inc
+BGCP,Bgc Partners Cl A
+BHF,Brighthouse Financial Inc
+BHFAN,Brighthouse Financial Inc
+BHFAO,Brighthouse Financial Inc
+BHFAP,Brighthouse Financial Inc Dep Shs Repstg 1/1000T
+BHSEU,Bull Horn Holdings Corp
+BHTG,Biohitech Global Inc
+BIVI,Biovie Inc
+BKCC,Blackrock Cptl Invt
+BKSC,Bank of So Car Cp
+BL,Blackline Inc
+BLI,Berkeley Lights Inc
+BLIN,Bridgeline Digital
+BLKB,Blackbaud Inc
+BLSA,Bcls Acquisition Corp. Cl A
+BLUWU,Blue Water Acquisition Corp
+BMRC,Bank of Marin Bancrp
+BMTC,Bryn Mawr Bank Corp
+BNFT,Benefitfocus
+BOCH,Bank of Commerce Hld
+BOKF,Bok Financial Corp
+BOKFL,Bok Financial Corp
+BOMN,Boston Omaha Corp Cl A
+BOSC,Bos Better Online
+BOTJ,Bank of The Jame Fnl
+BOWX,Bowx Acquisition Corp. Cl A
+BOWXU,Bowx Acquisition Corp
+BOXL,Boxlight Corp Cl A
+BPFH,Boston Pvt Finl Hld
+BPOP,Popular Inc
+BPRN,Bank of Princeton
+BPYU,Brookfield Property REIT Inc
+BPYUP,Brookfield Property REIT Inc 6.375% Series A
+BRKL,Brookline Bancorp
+BROG,Brooge Holdings Ltd
+BRP,Brp Group Inc Cl A
+BRPA,Big Rock Partners Acquisition Corp
+BRPAU,Big Rock Partners Acquisition Corp
+BSBK,Bogota Financial Corp
+BSQR,Bsquare Corp
+BSRR,Sierra Bancorp
+BSVN,Bank7 Corp
+BSY,Bentley Systems Incorporated Cl B
+BTAQ,Burgundy Technology Acquisition Corp Cl A
+BTAQU,Burgundy Technology Acquisition Corp
+BTWNU,Bridgetown Holdings Limited Units
+BUSE,First Busey Corp
+BWACU,Better World Acquisition Corp
+BWB,Bridgewater Bancshares Inc
+BWFG,Bankwell Financial
+BXRX,Baudax Bio Inc
+BYFC,Broadway Fin Cp
+CAC,Camden Natl Cp
+CALB,California Bancorp
+CAMP,Calamp Corp
+CAPA,Highcape Capital Acquisition Corp Cl A
+CAPAU,Highcape Capital Acquisition Corp
+CARE,Carter Bankshares Inc
+CARV,Carver Bancorp
+CASA,Casa Systems Inc
+CASH,Meta Financial Group
+CASS,Cass Information Sys
+CATC,Cambridge Bancorp
+CATY,Cathay Genl Bncp
+CBAN,Colony Bankcorp Inc
+CBFV,Cb Financial Svc
+CBMB,Cbm Bancorp Inc
+CBNK,Capital Bancorp Inc
+CBSH,Commerce Bancshares
+CBTX,Cbtx Inc
+CCAP,Crescent Capital Bdc Inc
+CCB,Coastal Financial Corp
+CCBG,Capital City Bank Gr
+CCCC,C4 Therapeutics Inc
+CCD,Calams Dy Cnv IN
+CCNE,Cnb Financial Corp
+CCNEP,Cnb Financial Corp
+CCRN,Cross Ctry Hlthcr
+CDAK,Codiak Biosciences Inc
+CDLX,Cardlytics Inc
+CDMOP,Avid Bioservices Inc
+CDNA,Caredx Inc
+CDZI,Cadiz Inc
+CENTA,Central Garden & Pet
+CENX,Century Aluminum C
+CERE,Cerevel Therapeutics Hldg Inc
+CERT,Certara Inc
+CETX,Cemtrex Inc
+CETXP,Cemtrex Inc Series 1 Pfd
+CFACU,Cf Finance Acquisition Corp III
+CFB,Crossfirst Bankshares Inc
+CFBI,Community First Bancshares Inc
+CFBK,Central Fed Cp
+CFFI,C&F Financial Corp
+CFFN,Capitol Fed Finl Inc
+CFII,Cf Finance Acquisition Corp. II Cl A
+CFIIU,Cf Finance Acquisition Corp II
+CFMS,Conformis Inc CS
+CG,The Carlyle Group
+CGBD,Tcg Bdc Inc
+CGO,Calamos Glb Ttl Rtn
+CGRO,Collective Growth Corp Cl A
+CGROU,Collective Growth Corp
+CHCO,City Holding Company
+CHEK,Check-Cap Ltd Ord
+CHI,Calamos Cv Opp & Inc
+CHMG,Chemung Financial Cp
+CHNG,Change Healthcare Inc
+CHPM,Chp Merger Corp Cl A
+CHPMU,Chp Merger Corp
+CHSCL,CHS B Cum Pfd Srs 4
+CHSCM,CHS Pfd Clb Ser3
+CHSCN,CHS Inc Pfd B Srs 2
+CHSCO,CHS Inc Cl B Pfd
+CHW,Calamos Gbl Dyn Inc
+CHY,Calamos Cv & High IN
+CIDM,Cinedigm Corp
+CIIC,Ciig Merger Corp Cl A
+CIICU,Ciig Merger Corp Units
+CINF,Cincinnati Financial
+CIVB,Civista Bncshrs
+CIZN,Citizens Hld Company
+CLAR,Clarus Corp
+CLBK,Columbia Financial Inc
+CLCT,Collectors Universe
+CLDB,Cortland Bncp Crtld Ohio
+CLIR,Clearsign Combustion
+CLMT,Calumet Specialty Pr
+CLPT,Clearpoint Neuro Inc
+CLRO,Clearone Inc
+CLXT,Calyxt Inc
+CMCO,Columbus Mckinnon
+CMCT,Cim Commercial TR Cp
+CMCTP,Cim Commercial Trust Corp Series L
+CMLF,Cm Life Sciences Inc Cl A
+CMLFU,Cm Life Sciences Inc
+CMLS,Cumulus Media Inc Cl A
+CMPI,Checkmate Pharmaceuticals Inc
+CNBKA,Century Bancorp Inc
+CNDT,Conduent Inc
+CNFR,Conifer Holdings
+CNNB,Cincinnati Bancorp
+CNOB,Connectone Bancorp
+CNSL,Consolidated Communications Holdings Inc
+CNXC,Concentrix Corporation
+COFS,Choiceone Financial
+COGT,Cogent Biosciences Inc
+COHR,Coherent Inc
+COHU,Cohu Inc
+COLB,Columbia Banking Sys
+COMM,Commscope Holding Company
+CONXU,Conx Corp
+COWN,Cowen Group Inc
+CPSH,Cps Technologies
+CPSS,Consumer Portfol
+CPTA,Capitala Finance Crp
+CREE,Cree Inc
+CRNC,Cerence Inc
+CRNT,Ceragon Networks Ltd
+CRSA,Crescent Acquisition Corp Cl A
+CRSAU,Crescent Acquisition Corp Unit
+CRSR,Corsair Gaming Inc
+CRTD,Creatd Inc
+CRWD,Crowdstrike Holdings Inc
+CSII,Cardiovascular Syst
+CSOD,Cornerstone Ondemand
+CSPI,C S P Inc
+CSQ,Calamos Strgc Ttl Rt
+CSSE,Chicken Soup For The Soul Entertainment Inc
+CSSEP,Chicken Soup For The Soul Entertainment Inc 9.
+CSTR,Capstar Financial Holdings Inc
+CSWC,Capital Southwest
+CTBI,Community TR Bancp
+CTHR,Charles & Colvard
+CUBA,Herzfeld Caribbean
+CUTR,Cutera Inc
+CVBF,Cvb Financial Corp
+CVCY,Central Vly Cmty Bcp
+CVET,Covetrus Inc
+CVLB,Conversion Labs Inc
+CVLT,Commvault Systems
+CVLY,Codorus Valley Bncp
+CVV,CVD Equipment Corp
+CWBC,Community West Bncsh
+CYBR,Cyberark Soft Ord
+CYCCP,Cyclacel Pharmaceuti
+CYCN,Cyclerion Therapeutics Inc
+CYRN,Cyren Ltd
+CYRX,Cryoport Inc
+CYTH,Cyclo Therapeutics Inc
+CZNC,Citizens Nrthn Cp
+CZWI,Citizens Community
+DAIO,Data I O Cp
+DBDR,Roman Dbdr Tech Acquisition Corp. Cl A
+DBDRU,Roman Dbdr Tech Acquisition Corp
+DBX,Dropbox Inc
+DCBO,Docebo Inc
+DCOM,Dime Community Bncsh
+DCOMP,Dime Community Bancshares
+DCRB,Decarbonization Plus Acquisition Corp Cl A
+DCRBU,Decarbonization Plus Acquisition Corp
+DCT,Duck Creek Technologies Inc
+DFHT,Deerfield Healthcare Techn Acquisitions Corp. Cl
+DFHTU,Deerfield Healthcare Technology Acquisitions Cor
+DFPH,Dfp Healthcare Acquisitions Corp Cl A
+DFPHU,Dfp Healthcare Acquisitions Corp
+DGICA,Donegal Group Cl A
+DGICB,Donegal Group Cl B
+DGLY,Digital Ally Inc
+DGNS,Dragoneer Growth Opportunities Corp. II Cl A
+DHC,Diversified Healthcare Trust
+DHIL,Diamond Hill Inv
+DISCB,Discovery Comm B
+DISCK,Discovery Comm Inc
+DJCO,Daily Journal Cp
+DLPN,Dolphin Entertainment Inc
+DMRC,Digimarc Corp
+DMTK,Dermtech Inc
+DOMO,Domo Inc Cl B
+DRIO,Dario Health Corp
+DSAC,Duddell Street Acquisition Corp Cl A
+DSACU,Duddell Street Acquisition Corp
+DSKE,Daseke Inc
+DSPG,D S P Group Inc
+DUOT,Duos Technologies Group Inc
+DYAI,Dyadic International
+DYN,Dyne Therapeutics Inc
+DYNT,Dynatronics Cp
+DZSI,Dasan Zhone Solutions Inc
+EAR,Eargo Inc
+EBC,Eastern Bankshares Inc
+EBMT,Eagle Bancorp [Mt]
+EBSB,Meridian Bncp
+EBTC,Enterprise Bancorp
+EDTK,Skillful Craftsman Education Technology Ltd
+EDTXU,Edtechx Holdings Acquisition Corp. II
+EFOI,Energy Focus Inc
+EFSC,Enterprises Finl Svc
+EGBN,Eagle Bancorp Inc
+EGLE,Eagle Bulk Ship
+EHTH,Ehealth Inc
+EIGI,Endurance Int Group
+EKSO,Ekso Bionics Holdings Inc
+ELYS,Elys Game Tech Corp
+EMCF,Emclaire Finl Cor
+EMKR,Emcore Corp
+EML,Eastern Company
+EOSE,Eos Energy Enterprises Inc
+EPAY,Bottomline Tech IN
+EQBK,Equity Bncsrs Cm A
+EQOS,Diginex Ltd.
+ERES,East Resources Acquisition Company Cl A
+ERESU,East Resources Acquisition Company
+ESBK,Elmira Sav Bk
+ESLT,Elbit Systems Ltd
+ESQ,Esquire Financial Holdings Inc
+ESSA,Essa Bancorp Inc
+ESSC,East Stone Acquisition Corp
+ESSCU,East Stone Acquisition Corp
+ESTA,Establishment Labs Holdings Inc
+ESXB,Community Bankers
+ETAC,E.Merge Technology Acquisition Corp Cl A
+ETACU,E.Merge Technology Acquisition Corp
+EUCRU,Eucrates Biomedical Acquisition Corp
+EVER,Everquote Inc Cl A
+EVGN,Evogene Ltd Ord
+EVOL,Evolving Systems Inc
+EVOP,Evo Payments Inc Cl A
+EWBC,East West Bancorp
+EXAS,Exact Sciences Cor
+EXPC,Experience Investment Corp Cl A
+EXPCU,Experience Investment Corp
+EXPE,Expedia Group Inc
+EXPI,Exp Realty International
+EXTR,Extreme Networks
+EZPW,Ezcorp Inc
+FARO,Faro Tech Inc
+FATBP,Fat Brands Inc 8.25% Series B
+FBIOP,Fortress Biotech Inc 9.375% Series A Cumulativ
+FBIZ,First Business Finan
+FBMS,First Bancshs [Ms]
+FBNC,First Bancorp [Nc]
+FBRX,Forte Biosciences Inc
+FBSS,Fauquier Bankshares
+FCAC,Falcon Capital Acquisition Corp. Cl A
+FCACU,Falcon Capital Acquisition Corp
+FCAP,First Capital Inc
+FCBC,First Community Bksh
+FCBP,First Choice Bancorp
+FCCO,First Community Corp
+FCCY,1st Constitution Bcp
+FCNCA,First Citizens Bancs
+FCNCP,First Citizens Bancshares
+FCRD,First Eagle Alt Capital Bdc Inc
+FDBC,Fidelity D & D Bancorp Inc
+FDMT,4D Molecular Therapeutics Inc
+FDUS,Fidus Investment Cor
+FEIM,Frequency Elcts Inc
+FFBC,First Finl Bncp [Oh]
+FFBW,Ffbw Inc
+FFIC,Flushing Finl Corp
+FFIN,First Finl Bkshs Inc
+FFNW,First Financial Nort
+FFWM,First Foundation
+FGBI,First Gurty Banc
+FHB,First Hawaiian Inc
+FHTX,Foghorn Therapeutics Inc
+FIBK,First Interstate Ban
+FIII,Forum Merger III Corporation Cl A
+FIIIU,Forum Merger III Corp Units
+FISI,Financial Institut
+FISV,Fiserv Inc
+FITB,Fifth Third Bncp
+FITBI,Fifth Third Bancorp
+FITBO,Fifth Third Bancorp 4.95% Prf Perpetual USD 25 S
+FITBP,Fifth Third Bancorp Depositary Shares 1/40Th
+FIVN,Five9 Inc
+FLGT,Fulgent Genetics Inc
+FLIC,First of Long Isla
+FLNT,Fluent Inc
+FLUX,Flux Power Holdings Inc
+FMAO,Farmers & Merch Banc
+FMBH,First Mid Ill Bncshr
+FMBI,First Midwest Bncp
+FMBIO,First Midwest Bancorp Inc
+FMBIP,First Midwest Bancorp Inc
+FMNB,Farmers Natl Banc Cp
+FMTX,Forma Therapeutics Holdings Inc
+FNCB,FNCB Bancorp Inc
+FNHC,Federated Natl Hld
+FNLC,First Bancorp Inc
+FNWB,First Nw Banc
+FOCS,Focus Financial Partners Inc Cl A
+FORR,Forrester Resrch
+FRAF,Franklin Finl Svcs Corp
+FRBA,First Bank
+FRBK,Republic First Bcp
+FRG,Franchise Group Inc
+FRGAP,Franchise Group Inc 7.50% Series A
+FRHC,Freedom Holding Corp
+FRME,First Merchants Corp
+FRPH,Frp Holdings Inc
+FRSX,Foresight Autonomous Holdings Ltd ADR
+FRTA,Forterra Inc
+FSBW,FS Bancorp Inc
+FSDC,FS Development Corp Cl A
+FSEA,First Seacoast Bancorp
+FSFG,First Savings Financ
+FSLR,First Solar Inc
+FSRV,Finserv Acquisition Corp Cl A
+FSRVU,Finserv Acquisition Corp
+FSTX,F-Star Therapeutics Inc
+FTCVU,Fintech Acquisition Corp. V
+FTEK,Fuel Tech Inc
+FTHM,Fathom Holdings Inc
+FTIV,Fintech Acquisition Corp IV Cl A
+FTIVU,Fintech Acquisition Corp. IV
+FTOC,Ftac Olympus Acquisition Corp Cl A
+FTOCU,Ftac Olympus Acquisition Corp
+FULT,Fulton Financial Cor
+FULTP,Fulton Financial Corp
+FUNC,First United Corp
+FUSB,First US Bancshares Inc
+FUV,Arcimoto Inc
+FVAM,501 Acquisition Corp. Cl A
+FVCB,Fvcbankcorp Inc
+FWONA,Liberty Media F1 Series A
+FWONK,Liberty Media F1 Series K
+FXNC,First Natl Corp Strasburg VA
+GABC,German Amer Bncp Inc
+GAIN,Gladstone Investment
+GAINL,Gladstone Investment Corp Term Pfd Ser E %
+GAINM,Gladstone Investment Corp
+GBCI,Glacier Bancorp Inc
+GBDC,Golub Capital Bdc
+GBIO,Generation Bio CO
+GCBC,Greene County Bncp
+GCMG,Gcm Grosvenor Inc
+GDRX,Goodrx Holdings Inc Cl A
+GECC,Great Elm Capital Corp
+GFED,Guaranty Fedl Bcshs
+GFNCP,General Fn Cum Pfd C
+GHIV,Gores Holdings IV Inc Cl A
+GHIVU,Gores Holdings IV Inc
+GHVIU,Gores Holdings Vi Inc
+GIGM,Gigamedia Ltd
+GLAD,Gladstone Cap Corp
+GLBZ,Glen Burnie Bancorp
+GLSI,Greenwich Lifesciences Inc
+GLTO,Galecto Inc
+GMBL,Esports Entertainment Group Inc
+GNLN,Greenlane Holdings Inc Cl A
+GNMK,Genmark Diagnostics
+GNRS,Greenrose Acquisition Corp
+GNRSU,Greenrose Acquisition Corp
+GNTY,Guaranty Bancshares Inc
+GOCO,Gohealth Inc Cl A
+GOGO,Gogo Inc
+GOODM,Gladstone Commercial Corp
+GOODN,Gladstone Commercial Corp Prf Perpetual USD 25 S
+GOVX,Geovax Labs
+GP,Greenpower Motor Company Inc
+GPRO,Gopro Inc Cl A
+GRAY,Graybug Vision Inc
+GRCY,Greencity Acquisition Corp
+GRCYU,Greencity Acquisition Corp
+GRIN,Grindrod Shipping Holdings Ltd
+GRNV,Greenvision Acquisition Corp
+GRNVU,Greenvision Acquisition Corp
+GROW,U S Global Inv Inc
+GRSV,Gores Holdings V Inc
+GRSVU,Gores Holdings V Inc
+GSBC,Great Southern Bncp
+GSHD,Goosehead Insurance Inc Cl A
+GSIT,Gsi Technology Inc
+GT,Goodyear Tire Rubber
+GTYH,Gty Technology Holdings Inc
+GVP,GSE Systems
+GWAC,Good Works Acquisition Corp
+GWGH,Gwg Holdings
+GXGX,Gx Acquisiton Corp Cl A
+GXGXU,Gx Acquisiton Corp Unit
+GYRO,Gyrodyne Llc
+HAACU,Health Assurance Acquisition Corp Sail Securiti
+HAFC,Hanmi Financial Cp
+HALL,Hallmark Fin Svc
+HAYN,Haynes Intl Inc
+HBAN,Huntington Bcshs
+HBANN,Huntington Bancshares Inc ADR
+HBANO,Huntington Banc. Dep
+HBCP,Home Bancorp Inc
+HBIO,Harvard Bioscience
+HBMD,Howard Bancorp MD
+HBNC,Horizon Bancorp
+HBP,Huttig Bldg Products
+HBT,Hbt Financial Inc
+HCAP,Harvest Capital Cred
+HCAT,Health Catalyst Inc
+HDSN,Hudson Tech Inc
+HEC,Hudson Executive Investment Corp Cl A
+HECCU,Hudson Executive Investment Corp Units
+HEPA,Hepion Pharmaceuticals Inc
+HFBL,Home Federal
+HFEN,HF Enterprises Inc
+HFWA,Heritage Financial
+HGEN,Humanigen Inc
+HIFS,Hingham Inst For Svg
+HLIT,Harmonic Inc
+HLNE,Hamilton Lane Inc Cl A
+HLXA,Helix Acquisition Corp. Cl A
+HMHC,Houghton Mifflin Har
+HMNF,Hmn Financial Inc
+HMST,Homestreet Inc
+HMTV,Hemisphere Media A
+HNNA,Hennessy Advisors
+HOL,Holicity Inc Cl A
+HOLUU,Holicity Inc
+HOMB,Home Bancshares Inc
+HONE,Harborone Bancorp Inc
+HOPE,Hope Bancorp Inc
+HQI,Hirequest Inc
+HQY,Healthequity
+HRMY,Harmony Biosciences Holdings Inc
+HROW,Harrow Health Inc
+HRZN,Horizon Technology F
+HSAQ,Health Sciences Acquisitions Corp 2
+HSON,Hudson Global
+HSTO,Histogen Inc
+HTBI,Hometrust Bancshares
+HTBK,Heritage Commerce
+HTIA,Healthcare TR Inc
+HTLF,Heartland Finl USA
+HTLFP,Heartland Financial USA Inc
+HTOOW,Fusion Fuel Green Plc WT
+HVBC,Hv Bancorp Inc
+HWBK,Hawthorn Bancshares
+HWC,Hancock Whitney Corp
+HWCC,Houston Wire Cable
+HYFM,Hydrofarm Holdings Group Inc
+HYMC,Hycroft Mining Holding Corp
+HYMCW,Hycroft Mining Holding Corp Wts
+HYRE,Hyrecar Inc
+IBKR,Interactive Brokers
+IBOC,Intl Bancshares
+ICAD,Icad Inc
+ICBK,County Bancorp
+ICCC,Immucell Cp
+ICCH,Icc Holdings Inc
+ICMB,Investcorp Credit Management Bdc Inc
+IDCC,Interdigital Inc
+IDN,Intellicheck Mobilisia
+IDXG,Interpace Diag Group
+IEP,Icahn Enterprises
+IGAC,IG Acquisition Corp Cl A
+IGACU,IG Acquisition Corp
+IGIC,International General Insurance Hldg Inc
+IHRT,Iheartmedia Inc
+IIIIU,Information Services Group Inc.
+IIIV,I3 Verticals Inc Cl A
+IIN,Intricon Corp
+IIVI,I I V I Inc
+IIVIP,Ii-Vi Inc
+IMAC,Imac Holdings Inc
+IMMR,Immersion Corp
+IMNM,Immunome Inc
+IMUX,Immunic Inc
+INAQ,Insu Acquisition Corp. II Cl A
+INAQU,Insu Acquisition Corp II
+INBK,First Internet Bcp
+INBX,Inhibrx Inc
+INFN,Infinera Corp
+INM,Inmed Pharmaceuticals Inc
+INOD,Innodata Inc
+INPX,Inpixon
+INSE,Inspired Entertainment Inc
+INSG,Inseego Corp
+INTG,Intergroup Cp The
+INTZ,Intrusion Inc
+INVE,Identiv Inc
+INVO,Invo Bioscience Inc
+INZY,Inozyme Pharma Inc
+IPDN,Professional Diversity Network Inc
+IPHI,Inphi Corp
+IPWR,Ideal Power Inc
+IRIX,Iridex Cp
+IROQ,If Bancorp Inc
+IRTC,Irhythm Technologies Inc
+ISBC,Investors Bancorp
+ISEE,Iveric Bio Inc
+ISTR,Investar Holding
+ITI,Iteris Inc
+ITIC,Investors Title Company
+ITMR,Itamar Medical Ltd ADR
+ITOS,Iteos Therapeutics Inc
+JAMF,Jamf Holding Corp
+JAN,Janone Inc
+JYAC,Jiya Acquisition Corp. Cl A
+KBNT,Kubient Inc
+KDNY,Chinook Therapeutics Inc
+KELYB,Kelly Services Inc Cl B
+KEQU,Kewaunee Scientifi
+KERN,Akerna Corp Cl A
+KFFB,Kentucky First Fed
+KINS,Kingstone Cos Inc
+KINZU,Kins Technology Group Inc
+KNSL,Kinsale Capital Group Inc
+KNTE,Kinnate Biopharma Inc
+KOPN,Kopin Cp
+KOSS,Koss Cp
+KRBP,Kiromic Biopharma Inc
+KRNY,Kearny Financial
+KRON,Kronos Bio Inc
+KSMT,Kismet Acquisition One Corp
+KSMTU,Kismet Acquisition One Corp
+KTRA,Kintara Therapeutics Inc
+KYMR,Kymera Therapeutics Inc
+LACQ,Leisure Acquisition Corp
+LACQU,Leisure Acquisition Corp Unit
+LANDO,Gladstone Land Corporation 6.00% Sr B
+LANDP,Gladstone Land Corp
+LARK,Landmark Bancorp Inc
+LASR,Nlight Inc
+LATN,Union Acquisition Corp II
+LATNU,Union Acquisition Corp II Units
+LAUR,Laureate Education Inc
+LAZR,Luminar Technologies Inc
+LBAI,Lakeland Bancorp Inc
+LBC,Luther Burbank Corp
+LBRDA,Liberty Broadbd A
+LBRDK,Liberty Broadbd C
+LCAP,Lionheart Acquisition Corp. II Cl A
+LCAPU,Lionheart Acquisition Corp II
+LCAPW,Lionheart Acquisition Corp. II WT
+LCNB,Lcnb Corp
+LCUT,Lifetime Brands Inc
+LCY,Landcadia Holdings III Inc Cl A
+LCYAU,Landcadia Holdings III Inc
+LEDS,Semileds Corp
+LEVL,Level One Bancorp Inc
+LEVLP,Level One Bancorp Inc ADR
+LFTRU,Lefteris Acquisition Corp
+LILAK,Liberty Latin America Cl C
+LIND,Lindblad Expd Hld
+LIQT,Liqtech International Inc
+LIVE,Live Ventures
+LIVX,Livexlive Media Inc
+LIXT,Lixte Biotech Hlds
+LKFN,Lakeland Finl Corp
+LLNW,Limelight Networks
+LMB,Limbach Holdings Inc
+LMFA,Lm Funding America Inc
+LMPX,Lmp Automotive Holdings Inc
+LMST,Limestone Bancorp Inc
+LNDC,Landec Cp
+LNSR,Lensar Inc
+LOAN,Manhattan Bridge
+LOB,Live Oak Bancsh
+LPLA,Lpl Financial Hld
+LPRO,Open Lending Corp Cl A
+LPSN,Liveperson Inc
+LQDT,Liquidity Services
+LRMR,Larimar Therapeutics Inc
+LSAQ,Lifesci Acquisition II Corp
+LSBK,Lake Shore Bancorp
+LSXMB,Liberty Srs XM CS B
+LSXMK,Liberty Srs XM CS C
+LTBR,Lightbridge Corp
+LTRN,Lantern Pharma Inc
+LTRPA,Liberty Tripadv A
+LTRPB,Liberty Tripadv B
+LTRX,Lantronix Inc
+LUMO,Lumos Pharma Inc
+LUNG,Pulmonx Corp
+LUXAU,Lux Health Tech Acquisition Corp. Units
+LYRA,Lyra Therapeutics Inc
+MAAC,Montes Archimedes Acquisition Corp. Cl A
+MAACU,Montes Archimedes Acquisition Corp
+MACU,Mallard Acquisition Corp
+MACUU,Mallard Acquisition Corp
+MARA,Marathon Patent Grou
+MAT,Mattel Inc
+MATW,Matthews Intl Corp
+MAYS,J W Mays Inc
+MBCN,Middlefield Banc
+MBII,Marrone Bio Innov
+MBIN,Merchants Bancorp
+MBINO,Merchants Bancorp Depositary Shares
+MBNKP,Medallion Bank Fixed-To-Floating Rate Non-Cumula
+MBWM,Mercantile Bank Corp
+MCAC,Mountain Crest Acquisition Corp
+MCACU,Mountain Crest Acquisition Corp
+MCBC,Macatawa Bank Corp
+MCBS,Metrocity Bankshares Inc
+MCFE,Mcafee Corp. Cl A
+MCHX,Marchex Inc
+MCMJ,Merida Merger Corp I
+MDB,Mongodb Inc Cl A
+MDCA,Mdc Partners Cl A
+MDIA,Mediaco Holding Inc Cl A
+MDNA,Medicenna Therapeutics Corp
+MDRR,Medalist Diversified REIT Inc
+MDRRP,Medalist Diversified REIT Inc Series A
+MDRX,Allscripts Hlthcare
+MDVL,Medavail Hldg Inc
+MEDS,Trxade Group Inc
+MFIN,Medallion Fin Cp
+MFINL,Medallion Fin Notes
+MFNC,Mackinac Financial
+MGI,Moneygram Intl
+MGNI,Magnite Inc
+MGYR,Magyar Bancorp Inc
+MICT,Micronet Enertec Tec
+MIK,The Michaels Comp
+MITK,Mitek Systems Inc
+MKGI,Monaker Group Inc
+MLAB,Mesa Labs Inc
+MLAC,Malacca Straits Acquisition Company Ltd Cl A
+MLACU,Malacca Straits Acquisition Company Ltd Unit
+MLVF,Malvern Bncp
+MMAC,Mma Capital Mngt
+MMYT,Makemytrip Ltd
+MNSB,Mainstreet Bank
+MNSBP,Mainstreet Bancshares Inc ADR
+MNTX,Manitex Intl Inc
+MOFG,Midwestone Fnl Gp
+MOSY,Mosys Inc
+MOTNU,Motion Acquisition Corp
+MPAA,Motorcar Parts Amer
+MPB,Mid Penn Bancorp Inc
+MRAM,Everspin Technologies Inc
+MRBK,Meridian Bank
+MRCC,Monroe Capital Corp
+MRLN,Marlin Business Serv
+MRVI,Maravai Lifesciences Holdings Inc Cl A
+MSBI,Midland Sts BNC
+MSON,Misonix Inc
+MSVB,Mid-Southn Svg Bk IN
+MTBC,Mtbc Inc
+MTBCP,Mtbc 11% Sr A Prf ST
+MTCR,Metacrine Inc
+MTSI,Macom Technology S
+MTSL,Mer Telemanagement Solutions Ltd
+MVBF,Mvb Financial Corp
+MWK,Mohawk Group Holdings Inc
+MYFW,First Western Financial Inc
+MYGN,Myriad Genetics Inc
+MYSZ,My Size Inc
+NAKD,Naked Brand Group Inc
+NARI,Inari Medical Inc
+NAVI,Navient Cp
+NBEV,New Age Beverages Corp
+NBN,Northeast Bncp
+NBSE,Neu Base Therapeutics Inc
+NBTB,NBT Bancorp Inc
+NBTX,Nanobiotix S.A. Adss
+NCBS,Nicolet Bnkshr
+NCMI,National Cinemedia
+NCNO,Ncino Inc
+NEON,Neonode Inc
+NEPH,Nephros Inc
+NEWT,Newtek Bus Svcs
+NFBK,Northfield Bncrp Del
+NGAC,Nextgen Acquisition Corporation Cl A
+NGACU,Nextgen Acquisition Corporation Units
+NGHCN,National General Holdings Corp
+NGHCO,National Gnl Hld Ds
+NGHCP,National Gen Srs A
+NGMS,Neogames S.A.
+NH,Nanthealth Inc
+NHIC,Newhold Investment Corp. Cl A
+NHICU,Newhold Investment Corp
+NHLD,National Holdings
+NHLDW,National Holdings Corp WT
+NICK,Nicholas Fincl Inc
+NISN,Nisun Int Ent Dev Grp CO Ltd
+NK,Nantkwest Inc CS
+NKSH,Natl Bankshares Inc
+NKTX,Nkarta Inc
+NLOK,Nortonlifelock Inc
+NLTX,Neoleukin Therapeutics Inc
+NMCI,Navios Maritime Containers L.P.
+NMFC,New Mountain Finance Corp
+NMFCL,New Mountain Finance Corp 5.75% Notes
+NMIH,Nmi Holdings Inc
+NMMC,North Mountain Merger Corp. Cl A
+NMMCU,North Mountain Merger Corp
+NMTR,9 Meters Biopharma Inc
+NNBR,NN Inc
+NNDM,Nano Dimension Ads
+NNOX,Nano-X Imaging Ltd
+NOACU,Natural Order Acquisition Corp
+NODK,Ni Holdings Inc
+NOVS,Novus Capital Corp
+NOVSU,Novus Capital Corp Units
+NPAUU,New Providence Acquisition Corp
+NRBO,Neurobo Pharmaceuticals Inc
+NRIM,Northrim Bancorp Inc
+NRIX,Nurix Therapeutics Inc
+NSEC,Natl Security Gp
+NSTG,Nanostring Tech
+NSYS,Nortech Systems IN
+NTCT,Netscout Systems
+NTNX,Nutanix Inc
+NTRA,Natera Inc
+NTRS,Northern Trust Corp
+NTRSO,Northern Trust Prf Perpetual USD Dpsh Rp1/1000Th
+NUAN,Nuance Communicatns
+NURO,Neurometrix Inc
+NUZE,Nuzee Inc
+NVEC,Nve Corp
+NVFY,Nova Lifestyle Inc
+NWBI,Northwest Bancshares
+NWFL,Norwood Financial Cp
+NWLI,Natl Wstrn Life Gp A
+NWS,News Cp Cl B
+NWSA,News Cp Cl A
+NXPI,Nxp Semiconductors
+NYMT,New York Mtge Trust
+NYMTM,New York Mortgage Trust Inc Fxdfr Prf Perpetual
+NYMTN,New York Mortgage Trust Inc 8.00% Series D
+NYMTO,New York Mort 7.875
+NYMTP,New York Mrtg 7.75 B
+OBNK,Origin Bancorp Inc
+OCC,Optical Cable Corp
+OCCI,Ofs Credit Company Inc
+OCCIP,Ofs Credit CO Inc Pfd Ser A
+OCFC,Oceanfirst Financial Corp
+OCFCP,Oceanfirst Financial Corp Depositary Shares
+OCG,Oriental Culture Holding Ltd
+OCGN,Ocugen Inc
+OCSI,Oaktree Strategic Income Corp
+OCSL,Oaktree Specialty Lending Corp
+OCUP,Ocuphire Pharma Inc
+OFED,Oconee Fed Fin Corp
+OFLX,Omega Flex Inc
+OFS,Ofs Capital Corp
+OLB,Olb Group Inc
+OLMA,Olema Pharmaceuticals Inc
+OM,Outset Medical Inc
+OMEX,Odyssey Marine Expl
+ONB,Old National Bncp
+ONCR,Oncorus Inc
+ONCT,Oncternal Therapeutics Inc
+ONDS,Ondas Holdings Inc
+ONEM,1Life Healthcare Inc
+OPBK,Open Bank
+OPCH,Option Care Health Inc
+OPGN,Opgen Inc
+OPHC,Optimumbank Hlds
+OPINI,Office Properties Income Trust
+OPOF,Old Point Finl Cp
+OPRT,Oportun Financial Corp
+OPRX,Optimizerx Corp
+ORBC,Orbcomm Inc
+ORIC,Oric Pharmaceuticals Inc
+ORRF,Orrstown Finl Svcs
+OSBC,Old Second Bancorp
+OSPN,Onespan Inc
+OSS,One Stop Systems Inc
+OSW,Onespaworld Holdings Ltd
+OTRAU,Otr Acquisition Corp
+OTRK,Ontrak Inc
+OTRKP,Ontrak Inc 9.50% Series A Cumulative Perpetual
+OVBC,Ohio Valley Banc Cp
+OVLY,Oak Valley Bancp CA
+OXLC,Oxford Lane Capital
+OXLCM,Oxford Lane Capital Corp Pfd Ser 2024
+OXLCO,Oxford Lane Cap 7.5
+OXLCP,Oxford Lane Capital Corp 6.25% Prf Redeem 28/02/
+OXSQ,Oxford Square Capital Corp
+OZK,Bank Ozk
+OZON,Ozon Holdings Plc Ads
+PACW,Pacwest Bancorp
+PAE,Pae Inc Cl A
+PAIC,Petra Acquisition Inc
+PAICU,Petra Acquisition Inc Units
+PAND,Pandion Therapeutics Inc
+PAVMW,Pavmed Inc WT
+PAYA,Paya Holdings Inc
+PAYS,Paysign Inc
+PAYX,Paychex Inc
+PBCT,People's United Finl
+PBCTP,Peoples Utd Finl Inc
+PBFS,Pioneer Bancorp Inc
+PBHC,Pathfinder Bcp MD
+PBIP,Prudential Bancorp
+PBLA,Panbela Therapeutics Inc
+PCB,Pacific City Finl Cp
+PCSA,Processa Pharmaceuticals Inc
+PCSB,Pcsb Financial Corp
+PCTY,Paylocity Hld Corp
+PCVX,Vaxcyte Inc
+PDEX,Pro-Dex Inc
+PDFS,Pdf Solutions Inc
+PDLB,Pdl Community Bancorp
+PDSB,Pds Biotechnology Corp
+PEBK,Peoples Bancorp NC
+PEBO,Peoples Bancorp Inc
+PFBC,Preferred Bank LA
+PFBI,Premier Finl Bncp
+PFC,Premier Financial Corp
+PFG,Principal Financial Group Inc
+PFHD,Professional Holding Corp
+PFIS,Peoples Finl Svcs Company
+PFLT,Pennantpark Fltng Rt
+PFMT,Performant Financial
+PFPT,Proofpoint Inc
+PFSW,Pfsweb Inc
+PGC,Peapack Gladstone FI
+PGEN,Precigen Inc
+PGNY,Progyny Inc
+PHICU,Population Health Investment Co. Inc
+PHIOW,Phio Pharmaceuticals Corp WT
+PHUN,Phunware Inc
+PI,Impinj Inc
+PKBK,Parke Bancorp Inc
+PLBC,Plumas Bancorp
+PLMR,Palomar Holdings Inc
+PLRX,Pliant Therapeutics Inc
+PMBC,Pacific Mercantile
+PMVP,Pmv Pharmaceuticals Inc
+PNBK,Patriot Natl Bncp
+PNFP,Pinnacle Finl Ptnrs
+PNFPP,Pinnacle Financial Partners Inc
+PNNT,Pennantpark Investme
+POAI,Predictive Oncology Inc
+POWW,Ammo Inc
+PPBI,Pacific Premier Bncp
+PRAX,Praxis Precision Medicines Inc
+PRFX,Painreform Ltd
+PRGX,Prgx Global Inc
+PRLD,Prelude Therapeutics Incorporated
+PROG,Progenity Inc
+PROV,Provident Financial
+PRPH,Prophase Labs Inc
+PRPL,Purple Innovation Inc
+PRTC,Puretech Health Plc American Depositary Shares
+PRTH,Priority Techno Holdings Inc
+PRTS,U.S. Auto Parts Netw
+PS,Pluralsight Inc Cl A
+PSAC,Property Solutions Acquisition Corp
+PSACU,Property Solutions Acquisition Corp
+PSEC,Prospect Capital Cp
+PSTV,Plus Therapeutics Inc
+PSTX,Poseida Therapeutics Inc
+PTICU,Proptech Investment Corporation II
+PTNR,Partner Comm CO Ltd
+PTPI,Petros Pharmaceuticals Inc
+PTRS,Partners Bancorp
+PTVCA,Protective Insurance Corp Cl A
+PTVCB,Protective Insurance Corp Cl B
+PUBM,Pubmatic Inc Cl A
+PVBC,Provident Bancorp CS
+PWFL,Powerfleet Inc
+PWOD,Penns Woods Bancorp
+PXLW,Pixelworks Inc
+PXSAP,Pyxis Tankers Inc 7.75% Series A
+PYPD,Polypid Ltd
+PYPL,Paypal Holdings
+QADA,Qad Inc
+QADB,Q A D Inc Cl B
+QCRH,Qcr Holdings Inc
+QELL,Qell Acquisition Corp. Cl A
+QELLU,Qell Acquisition Corp
+QLGN,Qualigen Therapeutics Inc
+QMCO,Quantum Corp
+QQQX,Nuveen Nasdaq 100
+QRHC,Quest Resource
+QRTEB,Qurate Retail Inc Series B
+QRTEP,Qurate Retail Inc 8.0% Fixed Rate Cumulative Re
+QTNT,Quotient Ltd Ord
+QUIK,Quicklogic Corp
+QUMU,Qumu Corp
+RACA,Therapeutics Acquisition Corp Cl A
+RADI,Radius Global Infrastructure Inc
+RAIL,Freightcar America
+RAND,Rand Capital Cp
+RBB,Rbb Bancorp
+RBBN,Ribbon Communications Inc
+RBCAA,Republic Bancorp Inc
+RBCN,Rubicon Technology
+RBKB,Rhinebeck Bancorp Inc
+RBNC,Reliant Bancorp Inc
+RCEL,Avita Medical Ltd
+RCHG,Recharge Acquisition Corp. Cl A
+RCHGU,Recharge Acquisition Corp
+RCMT,R C M Tech Inc
+RDCM,Radcom Ltd
+RDFN,Redfin Corp
+RDI,Reading Intl Cl A
+RDIB,Reading International Inc Cl B
+RDNT,Radnet Inc
+RDVT,Red Violet Inc
+REFR,Research Frontiers
+REKR,Rekor Systems Inc
+RELL,Richardson Electrncs
+RESN,Resonant Inc
+RILYL,B. Riley Financial Inc ADR
+RILYP,B. Riley Financial Inc
+RIVE,Riverview Financial Corp
+RKDA,Arcadia Bio
+RLAY,Relay Therapeutics Inc
+RLMD,Relmada Therapeutics Inc
+RMBI,Richmond Mutual Bancorp Inc
+RMBL,Rumbleon Inc
+RMBS,Rambus Inc
+RMGBU,Rmg Acquisition Corp II
+RMRM,Rmr Real Estate Income Fund
+RNA,Avidity Biosciences Inc
+RNDB,Randolph Bancorp Inc
+RNET,Rignet Inc
+RNLX,Renalytix Ai Plc ADR
+RNST,Renasant Corp
+RNWK,Realnetworks Inc
+ROCCU,Roth Ch Acquisition II Co.
+ROCH,Roth Ch Acquisition I CO
+ROCHU,Roth Ch Acquisition I CO
+ROOT,Root Inc
+RPAY,Repay Holdings Corp Cl A
+RPD,Rapid7 Inc
+RRBI,Red River Bancshares Inc
+RSSS,Derycz Scientific
+RSVAU,Rodgers Silicon Valley Acquisition Corp
+RUSHB,Rush Entpr Cl B
+RVPH,Reviva Pharmaceuticals Hldg Inc
+RVSB,Riverview Bancorp
+RWLK,Rewalk Roboti Ord Sh
+RZLT,Rezolute Inc
+SABR,Sabre Corp
+SABRP,Sabre Corp
+SAFT,Safety Ins Group Inc
+SAII,Software Acquisition Group Inc II Cl A
+SAIIU,Software Acquisition Group Inc II
+SAL,Salisbury Bancorp
+SALM,Salem Media Grp Inc
+SAMG,Silvercrest Ast Cm A
+SASR,Sandy Spring Bancorp
+SATS,Echostar Corp
+SAVA,Cassava Sciences Inc
+SBCF,Seacoast Banking Cp
+SBFG,Sb Financial Group
+SBNY,Signature Bank
+SBSI,Southside Bancshares
+SBT,Sterling Bancorp Inc [Southfield Mi]
+SBTX,Silverback Therapeutics Inc
+SCHL,Scholastic Cp
+SCHN,Schnitzer Steel A
+SCOR,Comscore Inc
+SCPS,Scopus Biopharma Inc
+SCSC,Scansource Inc
+SCWX,Secureworks Corp CS
+SDC,Smiledirectclub Inc
+SEAC,Sea Change Intl IN
+SEER,Seer Inc Cl A
+SEIC,Sei Investments Company
+SELF,Global Self Storage
+SFBC,Sound Financial
+SFBS,Servisfirst Bancs
+SFET,Safe-T Group Ltd ADR
+SFNC,Simmons First Natl
+SFST,Southern First Bancs
+SGA,Saga Communications
+SGAM,Seaport Global Acquisition Corp Cl A
+SGAMU,Seaport Global Acquisition Corp
+SGH,Smart Global Holdings Inc
+SGLB,Sigma Labs Inc
+SGMA,Sigmatron Intl Inc
+SGRY,Surgery Partners CS
+SGTX,Sigilon Therapeutics Inc
+SHBI,Shore Bancshares Inc
+SHC,Sotera Health Company
+SHSP,Sharpspring Inc
+SHYF,The Shyft Group Inc
+SIEN,Sientra Inc
+SIGI,Selective Ins Group
+SIGIP,Selective Insurance Group Inc
+SINO,Sino-Global Shipping
+SIOX,Sio Gene Therapies Inc
+SITM,Sitime Corp
+SIVBP,Svb Financial Group 5.25% Prf Perpetual USD 25 1
+SLCT,Select Bancorp Inc
+SLGG,Super League Gaming Inc
+SLM,SLM Corp
+SLMBP,SLM Cp Srs B Pfd
+SLP,Simulations Plus Inc
+SLRX,Salarius Pharmaceuticals Inc
+SMBC,Southern MO Bancorp
+SMBK,Smartfinancial Inc
+SMED,Sharps Compliance
+SMID,Smith-Midland Corp
+SMMF,Summit Financial Gp
+SMTI,Sanara Medtech Inc
+SNCA,Seneca Biopharm Inc
+SNCR,Synchronoss Technolo
+SNFCA,Security Natl Finl
+SNRHU,Senior Connect Acquisition Corp. I
+SOHOB,Sotherly Hotels Inc 8.0% Series B Cumulative Re
+SOHON,Sotherly Hotels Inc Perp Pfd Ser D
+SOHOO,Sotherly Hotels LP
+SONA,Southern National Bk
+SONN,Sonnet Biotherapeutics Holdings Inc
+SP,SP Plus Corp
+SPCB,Supercom Ltd
+SPFI,South Plains Financial Inc
+SPOK,Spok Holdings Inc
+SPRB,Spruce Biosciences Inc
+SPT,Sprout Social Inc Cl A
+SQFT,Presidio Property Trust Inc
+SRAC,Stable Road Acquisition Corp Cl A
+SRACU,Stable Road Acquisition Corp
+SRAX,Social Reality Inc
+SRCE,1st Source Corp
+SREV,Servicesrce Intl Inc
+SRGA,Surgalign Hldg Inc
+SRSAU,Sarissa Capital Acquisition Corp
+SSB,South State Cp
+SSBI,Summit State Bank
+SSKN,Strata Skin Scien
+SSP,E.W. Scripps Company
+SSPK,Silver Spike Acquisition Corp Cl A
+SSPKU,Silver Spike Acquisition Corp Units
+SSSS,Sutter Rock Capital Corp
+SSTI,Shotspotter Inc
+SSYS,Stratasys Ltd
+STAF,Staffing 360 Solutions Inc
+STBA,S&T Bancorp Inc
+STCN,Steel Connect Inc
+STEP,Stepstone Group Inc Cl A
+STFC,State Auto Finl Corp
+STND,Standard Financial
+STRM,Streamline Health So
+STRT,Strattec Security
+STTK,Shattuck Labs Inc
+STWO,Acon S2 Acquisition Corp. Cl A
+STWOU,Acon S2 Acquisition Corp
+STXB,Spirit of Texas Bancshares Inc
+SUMO,Sumo Logic Inc
+SUMR,Summer Infant Inc
+SUNS,Solar Senior Capital
+SV,Spring Valley Acquisition Corp. Class A Ordinary
+SVAC,Starboard Value Acquisition Corp. Cl A
+SVACU,Starboard Value Acquisition Corp
+SVBI,Severn Bancorp Inc
+SVC,Service Properties Trust
+SVMK,Svmk Inc
+SVSVU,Spring Valley Acquisition Corp
+SVVC,Firsthand Technology
+SWAV,Shockwave Medical Inc
+SWBI,Smith & Wesson Brands Inc
+SWKH,Swk Holdings Corp
+SYBT,Stock Yards Bancorp
+SYNC,Synacor Inc
+SYPR,Sypris Solutions
+TACT,Transact Tech Inc
+TARA,Artara Therapeutics Inc
+TARS,Tarsus Pharmaceuticals Inc
+TBBK,The Bancorp Inc
+TBK,Triumph Bancorp
+TBKCP,Triumph Bancorp Inc
+TBNK,Territorial Bancorp
+TCBI,Texas Capital Bncsh
+TCBIL,Texas Cap 6.5 Sr NTS
+TCBIP,Texas Capital
+TCBK,Trico Bancshares
+TCCO,Technical Commctn Cp
+TCF,TCF Financial Corp
+TCFC,The Community Fin Cp
+TCFCP,TCF Financial Corp
+TCPC,TCP Capital Corp
+TDAC,Trident Acquisitions Corp
+TDACU,Trident Acquisitions Corp. Units
+TECTP,Tectonic Financial Inc 9.00% Fixed-To-Floating
+TEKKU,Tekkorp Digital Acquisition Corp
+TENB,Tenable Holdings Inc
+TESS,Tessco Tech Inc
+TFSL,Tfs Financial Corp
+TH,Target Hospitality Corp
+THBRU,Thunder Bridge Acquisition II Ltd Units
+THCA,Tuscan Holdings Corp II
+THCAU,Tuscan Holdings Corp II Unit
+THCB,Tuscan Holdings Corp
+THCBU,Tuscan Holdings Corp Unit
+THFF,First Finl Corp [In]
+THMO,Thermogenesis Holdings Inc
+THRY,Thryv Holdings Inc
+TIGO,Millicom International Cellular S.A.
+TIPT,Tiptree Fncl Cl A
+TLMD,Telemed Inc
+TLS,Telos Corp
+TMPMU,Turmeric Acquisition Corp
+TMTS,Spartacus Acquisition Corporation Cl A
+TMTSU,Spartacus Acquisition Corp
+TNDM,Tandem Diabetes Care
+TOMZ,Tomi Environmental Solutions Inc
+TOWN,Towne Bank
+TPCO,Tribune Publishing Company
+TPIC,Tpi Composites Inc
+TREE,Lendingtree Inc
+TRHC,Tabula Rasa Healthcare Inc
+TRIP,Tripadvisor Inc
+TRIT,Triterras Inc Cl A
+TRMK,Trustmark Corp
+TRMT,Tremont Mortgage Trust
+TROW,T Rowe Price Group
+TRST,Trustco Bank Corp NY
+1,Truecar Inc
+TRUP,Trupanion Inc
+TSBK,Timberland Bancorp
+TSC,Tristate Capital Hld
+TSCAP,Tristate Capital Holdings Inc Dep Shs Repstg 1/4
+TSCBP,Tristate Capital Holdings Inc Fxdfr Prf Perpet
+TSHA,Taysha Gene Therapies Inc
+TSIAU,Ts Innovation Acquisitions Corp
+TSRI,T S R Inc
+TURN,180 Degree Capital Corp
+TVACU,Thayer Ventures Acquisition Corporation Units
+TVTY,Tivity Health
+TW,Tradeweb Markets Inc
+TWCT,Twc Tech Holdings II Corp. Cl A
+TWCTU,Twc Tech Holdings II Corp
+TWIN,Twin Disc Inc
+TWNKW,Gores Holdings WT
+TWOU,2U Inc
+TXG,10X Genomics Inc
+TZOO,Travelzoo Inc
+UBCP,United Bncp Inc
+UBFO,United Security Bcsh
+UBOH,United Bancshares
+UBSI,United Bkshs Inc
+UCBI,United Comm Banks
+UCBIO,United Communty Banks Inc
+UCTT,Ultra Clean Holdings
+UEPS,Net 1 Ueps Techs Inc
+UFCS,United Fire Group
+UG,United Guardian Inc
+UIHC,United Insurance Hld
+UK,Ucommune Intl Ltd
+UMBF,Ump Financial Corp
+UMPQ,Umpqua Holdings Corp
+UNAM,Unico American Cp
+UNB,Union Bankshares Inc
+UNIT,Uniti Group Inc
+UNTY,Unity Bancorp Inc
+UONEK,Urban One Inc
+UPLD,Upland Software Inc
+UPST,Upstart Holdings Inc
+UPWK,Upwork Inc
+USAK,U S A Truck Inc
+USAP,Universal Stainles
+USAT,USA Technologies Inc
+USAU,U.S. Gold Corp
+USIO,Usio Inc
+UVSP,Univest Corp of Penn
+VACQ,Vector Acquisition Corporation Cl A
+VACQU,Vector Acquisition Corp
+VALU,Value Line Inc
+VBFC,Village Bank & Trust
+VBTX,Veritex Holdings
+VCTR,Victory Capital Holdings Inc Cl A
+VCVCU,10X Capital Venture Acquisition Corp
+VECO,Veeco Instrument
+VERI,Veritone Inc
+VERX,Vertex Inc Cl A
+VERY,Vericity Inc
+VG,Vonage Holdings
+VIACA,Viacomcbs Inc Cl A
+VIH,Vpc Impact Acquisition Holdings Cl A
+VIHAU,Vpc Impact Acquisition Holdings
+VIRT,Virtu Financial Cm A
+VISL,Vislink Technologies Inc
+VLY,Valley National Bancorp
+VLYPO,Valley National Bancorp Pfd Series B
+VLYPP,Valley National Bancorp Pfd Series A
+VMAC,Vistas Media Acquisition Company Inc Cl A
+VMACU,Vistas Media Acquisition Company Inc
+VMAR,Vision Marine Technologies Inc
+VMD,Viemed Healthcare Inc
+VOXX,Voxx Intl Corp
+VRAY,Viewray Inc
+VRM,Vroom Inc
+VRME,Verifyme Inc
+VRTS,Virtus Inv Partners
+VSPR,Vesper Healthcare Acquisition Corp. Cl A
+VSPRU,Vesper Healthcare Acquisition Corp
+VSTA,Vasta Platform Limited Cl A
+VTNR,Vertex Energy
+VTRS,Viatris Inc
+VTRU,Vitru Ltd
+VTSI,Virtra Systems Inc
+VVOS,Vivos Therapeutics Inc
+VYNE,Vyne Therapeutics Inc
+WABC,Westamerica Bancorp
+WAFD,Washington Federal
+WASH,Washington TR Bncorp
+WATT,Energous Corp
+WDC,Western Digital Cp
+WETF,Wisdomtree Invstmnts
+WHF,Whitehorse Finance
+WHLM,Wilhelmina Intl
+WHLR,Wheeler Real Estate
+WHLRD,Wheeler Real Estate Investment Trust Inc
+WHLRP,Wheeler REIT B Pfd
+WISA,Summit Wireless Technologies Inc.
+WISH,Contextlogic Inc Cl A
+WIX,Wix.com Ltd
+WMG,Warner Music Group Corp Cl A
+WNEB,Western New England Bancorp Inc
+WORX,Scworx Corp
+WRAP,Wrap Technologies Inc
+WRLD,World Acceptance Cp
+WSBC,Wesbanco Inc
+WSBCP,Wesbanco Inc ADR
+WSBF,Waterstone Financial
+WSFS,WSFS Financial Corp
+WTBA,West Bancorp
+WTFC,Wintrust Finl Corp
+WTFCM,Wintrust Fin Pref D
+WTFCP,Wintrust Financial Corp Depositary Shares
+WVFC,Wvs Financial Corp
+WVVIP,Willamette Valley Vineyards IN
+XAIR,Beyond Air Inc
+XCUR,Exicure Inc
+XELA,Exela Technologies Inc
+XFOR,X4 Pharmaceuticals Inc
+XONE,The Exone Company
+XP,XP Inc Cl A
+XPER,Xperi Holding Corp
+YGYIP,Youngevity International Inc 9.75% Series D Cum
+YORW,York Water Company
+YQ,17 Education & Technology Group Inc American Dep
+YRCW,YRC Worldwide
+YSAC,Yellowstone Acquisition Company Cl A
+YSACU,Yellowstone Acquisition Company Units
+YTEN,Yield10 Bioscience Inc
+YTRA,Yatra Online Inc
+ZAGG,Zagg Inc
+ZEUS,Olympic Steel Inc
+ZGNX,Zogenix Inc
+ZI,Zoominfo Technologies Inc Cl A
+ZION,Zions Bancorp
+ZIONN,Zions Bancorporation N.A.
+ZIONO,Zions Bancorporation N.A.
+ZIONP,Zions Bancorporation N.A.
+ZIOP,Ziopharm Oncology IN
+ZIXI,Zix Corp
+ZNTEU,Zanite Acquisition Corp
+ZNTL,Zentalis Pharmaceuticals Inc
+ZS,Zscaler Inc
+ZSAN,Zosano Pharma
+ZVO,Zovio Inc
+ZYNE,Zynerba Pharma CS

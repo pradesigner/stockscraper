@@ -1,0 +1,105 @@
+Symbol,Description
+AAMC,Altisource Asset
+ACY,Aerocentury Corp
+AINC,Ashford Inc
+AMPE,Ampio Pharmaceuticals
+AMS,American Shared Hospital Services
+ARMP,Armata Pharmaceuticals Inc
+ATNM,Actinium Pharmaceuticals Inc
+BCV,Bancroft Convertible Fund
+BDR,Blonder Tongue Laboratories
+BHB,Bar Harbor Bankshares
+BIOX,Bioceres Crop Solutions Corp
+BKTI,Bk Technologies Inc
+BRBS,Blue Ridge Bankshare
+BTN,Ballantyne Strong Inc
+CDOR,Condor Hospitality T
+CET,Central Securities Corp
+CEV,Eaton Vance California Muni Income Trust
+CHAQ,Chardan Healthcare Acquisition 2 Corp
+CIK,Credit Suisse Asset Management
+CLM,Cornerstone Strategic Value Fund
+CMT,Core Molding Technologies Inc
+COHN,Cohen & CO Inc
+CRF,Cornerstone Strategic Return Fund
+CTEK,Cynergis Tek Inc
+CTO,Consolidated-Tomoka Land Company
+CVR,Chicago Rivet & Machine Company
+CVU,CPI Aerostructures
+DMF,Dreyfus Muni Income
+DPW,Dpw Holdings Inc
+DSS,Document Security Systems
+DXR,Daxor Corp
+EAD,Wells Fargo Advantage
+ECF,Ellsworth Convertible Growth and Income
+ELLO,Ellomay Capital Ltd
+EMAN,Emagin Corp
+ERC,Wells Fargo Advantage Multi-Sector
+ERH,Wells Fargo Advantage Utilities and High
+ESBA,Empire State Realty Op LP
+EVBN,Evans Bancorp
+EVV,Eaton Vance Ltd Duration
+EVY,Eaton Vance New York Muni Income Trust
+EXN,Excellon Resources
+FAX,Aberdeen Asia-Pacific
+FISK,Empire State Realty Op LP Se
+FSP,Franklin Street Properties
+FTF,Franklin Templeton Ltd Duration
+FURY,Fury Gold Mines Limited
+GGN,Gamco Global Gold Natural Resources
+GGO,Gabelli Go Anywhere Trust
+GLDG,Goldmining Inc
+GLO,Clough Global Opportunities Fund
+GLQ,Clough Global Equity Fund
+GLU,Gabelli Global Utility
+GLV,Clough Global Allocation Fund
+GRF,Eagle Capital Growth Fund
+GSAT,Globalstar
+HMG,Hmg/Courtland Properties
+HNW,Pioneer Diversified High Income Trust
+IAF,Aberdeen Australia Equity Fund Inc
+ID,Parts ID Inc
+IMH,Impac Mortgage Holdings
+INS,Intelligent Systems Corp
+IOR,Income Opportunity Realty Trust
+ISDR,Issuer Direct Corp
+JOB,General Employment Enterprises
+KLR,Kaleyra Inc
+LCTX,Lineage Cell Therapeutics Inc
+LEU,Centrus Energy Corp
+LODE,Comstock Mining Inc
+MSN,Emerson Radio Corp
+NBA,New Beginnings Acquisition Corp
+NBH,Neuberger Berman Intermediate Fund Inc
+NBO,Neuberger Berman New York Intermediate Fund Inc
+NBW,Neuberger Berman California Intermediate Fund IN
+NEN,New England Realty Associates Ltd Partnershi
+NHS,Neuberger Berman High Yield Strategies
+NML,Neuberger Berman MLP Income Fun
+NRO,Neuberger Berman Real Estate Securities
+NTIP,Network-1 Sec Solu
+NTN,Ntn Buzztime
+OBLG,Oblong Inc
+OGCP,Empire State Realty Op LP Se
+PRK,Park National Corp
+PTK,Ptk Acquisition Corp
+PW,Power REIT
+RCG,Renaissance Capital Growth & Income Fund III
+SACH,Sachem Capital Corp
+SSY,Sunlink Health Systems
+STXS,Stereotaxis Inc
+TMBR,Timber Pharmaceuticals Inc
+TMP,Tompkinstrustco
+TPHS,Trinity Pl Hlds Inc
+UFAB,Unique Fabricating Inc
+UTG,Reaves Utility
+UUU,Universal Security Instruments
+VCF,Delaware Colorado Muni Income Fund Inc
+VFL,Delaware Florida Insured Muni
+VGZ,Vista Gold Corp
+VKI,Invesco Advantage Muni Income Trust II
+VMM,Delaware Minnesota Muni II
+VOLT,Volt Information Services Inc
+WTT,Wireless Telecom Group Inc
+YCBD,Cbdmd Inc
+ZOM,Zomedica Pharmaceuticals Corp

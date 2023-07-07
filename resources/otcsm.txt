@@ -1,0 +1,10 @@
+Symbol	Description
+OILY	Sino American Oil Company
+PTOI	Plastic2Oil, Inc.
+WOGI	World Oil Group, Inc.
+SSOF	665 Energy, Inc.
+OJOC	Ojai Oil Company
+MGAG	Mortgage Oil Corp.
+CNBX	Cannabics Pharmaceuticals Inc.
+LGBI	Cannabiz Mobile, Inc.
+CNLK	Cannalink, Inc.

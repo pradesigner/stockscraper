@@ -1,0 +1,6166 @@
+Symbol	Description
+OILY	Sino American Oil Company
+PTOI	Plastic2Oil, Inc.
+WOGI	World Oil Group, Inc.
+SSOF	665 Energy, Inc.
+OJOC	Ojai Oil Company
+MGAG	Mortgage Oil Corp.
+CNBX	Cannabics Pharmaceuticals Inc.
+LGBI	Cannabiz Mobile, Inc.
+CNLK	Cannalink, Inc.
+KGKG	Kona Gold Beverage, Inc.
+GEGP	Gold Entertainment Group, Inc.
+GCYO	NIL
+GSBX	Golden State Bancorp
+GVYB	Golden VY Bancshares Inc.
+AGOL	Andina Gold Corp.
+GSPT	Golden Star Enterprises Ltd.
+GOGY	Golden Grail Technology Corp.
+EGDD	Eastern Goldfields, Inc.
+GTVH	Golden Triangle Ventures, Inc.
+GRPS	Gold River Productions, Inc.
+LKAI	LKA Gold Incorporated
+GGSM	Gold and GemStone Mining Inc.
+GLNS	GOLDEN STAR RESOURCES CORPORATI
+DVLP	Golden Developing Solutions, Inc.
+GSCE	BNPP E Energy & Metals EnhRoll ETF EUR C
+GVDI	Golden Valley Development, Inc
+IGLDD	Golden Lines Ltd.
+SLGD	Scott's Liquid Gold-Inc.
+PLKT	Solar Gold Ltd.
+AZGFF	Azteca Gold Corp.
+GLSSP	NIL
+GPBI	Golden Pacific Bancorp, Inc.
+NVSGF	Nevada Sunrise Gold Corporation
+ZWBC	Goldkey Corporation
+ANGVF	Angus Gold Inc.
+ARGTF	Artemis Gold Inc.
+AUSGF	NIL
+BELGF	Bellevue Gold Limited
+CCRRF	Green River Gold Corp.
+CTIMF	P2 Gold Inc.
+EVGUF	Evergold Corp.
+FBSGF	Fabled Silver Gold Corp.
+GDDCF	GoldSpot Discoveries Corp.
+GMRMF	NIL
+GPMMF	Golden Prospect Precious Metals Ltd.
+GRLGF	Greatland Gold plc
+GRXMF	Marvel Gold Limited
+OMGGF	OMAI GOLD MINES CORP
+RCGCF	RosCan Gold Corporation
+RVSGF	NIL
+VLGDF	Value Gold ETF
+WHGDF	Whitehorse Gold Corp.
+XJNGF	Xinjiang Goldwind Science & Technology Co., Ltd.
+AFBG	American Fiber Green Products, Inc.
+CFIN	Citizens Financial Corporation
+APQT	Appliqate Inc.
+DNAX	DNA Brands, Inc.
+HSTG	Holographic Storage Ltd.
+INND	InnerScope Hearing Technologies, Inc.
+NRGT	NIL
+PRKI	Perk International, Inc.
+SEEK	TheDirectory.com, Inc
+STCB	Starco Brands, Inc.
+JZZI	JZZ Technologies, Inc.
+BNET	Bion Environmental Technologies, Inc.
+GVBT	
+IGNE	Igene Biotechnology, Inc.
+ITRO	Itronics Inc.
+KWBT	Kiwa Bio-Tech Products Group Corporation
+SSEHW	NIL
+NCRA	Nocera, Inc.
+VRTY	Verity Corp.
+BIQIF	BIQI International Holding Corporation
+AAPJ	AAP, Inc.
+AGGL	AgTech Global International, Inc.
+AYAG	AMAYA Global Holdings Corp.
+EGBB	Earth Gen-Biofuel, Inc.
+FRAZ	Francisco Industries, Inc.
+GCEH	Global Clean Energy Holdings, Inc.
+MNII	Manati Industries, Inc.
+NBGV	NewBridge Global Ventures, Inc.
+NNUTU	Hawaiian Macadamia Nut Orchards, L.P.
+PRPM	ProTek Capital, Inc.
+VFRM	Veritas Farms, Inc.
+WSRC	Western Sierra Resource Corporation
+AGYP	Allied Energy Corporation
+BWAV	Betawave Corporation
+CVAT	Cavitation Technologies, Inc.
+GRPX	GreenPlex Services, Inc.
+STEV	Stevia Corp.
+WHLT	Chase Packaging Corporation
+ZGSI	Zero Gravity Solutions, Inc.
+SKPN	SkyShop Logistics, Inc.
+PJET	Priority Aviation, Inc.
+GLUX	Great Lakes Aviation, Ltd.
+BEEN	Better Environment Concepts, Inc.
+GRCO	Greenbelt Resources Corporation
+USDR	UAS Drone Corp.
+AAIIQ	Alabama Aircraft Industries, Inc
+GYOG	Green Energy Enterprises, Inc.
+HTTI	UAV Corp.
+MNDP	Mundus Group, Inc.
+UITA	Utilicraft Aerospace Industries Inc.
+XERI	Xeriant, Inc.
+ATROB	Astronics Corporation
+BRSI	Ballistic Recovery Systems Inc.
+IPTK	AS-IP Tech, Inc.
+CLKA	Clikia Corp.
+DROP	Fuse Science, Inc.
+SKAS	Saker Aviation Services, Inc.
+BKHPF	Bank Hapoalim B.M.
+BKHYY	Bank Hapoalim B.M.
+BRTHF	Brother Industries, Ltd.
+LNVGF	Lenovo Group Limited
+LRLCF	L'Oréal S.A.
+CWTC	Clearwave Telecommunications, Inc.
+GNCC	Genco Corporation
+BFNH	BioForce Nanosciences Holdings, Inc.
+BMGP	Biomagnetics Diagnostics Corp.
+LCTC	Lifeloc Technologies, Inc.
+PBIO	Pressure BioSciences, Inc.
+RGDXQ	Response Genetics, Inc
+SCND	Scientific Industries, Inc.
+FPLF	First Pet Life, Inc.
+PRDL	Profitable Developments, Inc.
+ADOB	NIL
+BSHI	Boss Holdings, Inc.
+CRTL	Cartel Blue, Inc.
+DKGR	Universal Apparel & Textile Company
+DSWR	NIL
+GLPH	Gala Pharmaceutical, Inc.
+IBGR	Nexus Energy Services, Inc.
+LOTE	Lot78, Inc.
+LYJN	Lyric Jeans, Inc.
+SILO	Silo Pharma Inc.
+STAU	Star Nutrition, Inc.
+SWWI	Simon Worldwide, Inc.
+SRSK	Star Struck, Ltd.
+CBJCL	
+CBTRP	CORPORATE BACKED CALL TR CTFS 7
+CCYPQ	CORPORATE BACKED TRUST CERTIFIC
+COTRP	Corts Trust for J.C. Penney Debentures
+KTBA	Corts Trust for BellSouth Debentures
+SSRAP	NIL
+CAHI	Carrier Alliance Holdings, Inc.
+FFLO	Free Flow, Inc.
+PREC	Prestige Cars International, Inc.
+MTRT	The Metal Arts Company, Inc.
+BENH	Bio-En Holdings Corp
+GDMK	Global Diversified Marketing Group, Inc.
+NTWN	Newtown Lane Marketing, Incorporated
+ABYB	NIL
+ALBY	Community Capital Bancshares, Inc.
+ALPIB	Alpine Banks of Colorado
+CBAF	CITBA Financial Corporation
+CBBI	CBB Bancorp, Inc.
+CBCB	NIL
+CBSU	Central Bank Corporation
+CCFC	CCSB Financial Corp.
+CNBN	CNB Bank Shares, Inc.
+CPKF	Chesapeake Financial Shares, Inc.
+CZNL	Citizens National Corporation
+EFSG	Enterprise Financial Services Group, Inc.
+FFMR	First Farmers Financial Corporation
+FGFH	Foresight Financial Group, Inc.
+FINN	First National of Nebraska, Inc.
+GBFH	NIL
+GOVB	Gouverneur Bancorp, Inc.
+GUAA	Guaranty Bancorp, Inc.
+HCBC	High Country Bancorp, Inc.
+IOFB	Iowa First Bancshares Corp.
+KISB	Kish Bancorp, Inc.
+KTHN	Katahdin Bankshares Corp.
+MPCB	Mountain Pacific Bancorp, Inc.
+MYBF	Muncy Bank Financial, Inc.
+NABA	NIL
+NUBC	Northumberland Bancorp
+OCBI	Orange County Bancorp, Inc.
+PBAM	Private Bancorp of America, Inc.
+PFLC	Pacific Financial Corporation
+PLBN	Pilot Bancshares, Inc.
+RCBC	River City Bank
+TMEB	Terme Bancorp, Inc.
+TRUX	Truxton Corporation
+TWCF	Town and Country Financial Corporation
+TYCB	Calvin B. Taylor Bankshares, Inc.
+UNIB	University Bancorp, Inc.
+UNIF	U & I Financial Corp.
+VLLX	Valley Republic Bancorp
+VTYB	The Victory Bancorp, Inc.
+WTBFA	W.T.B. Financial Corporation
+WTBFB	W.T.B. Financial Corporation
+GVSI	Good Vibrations Shoes Inc.
+MAKE	A.D. Makepeace Company
+OCESO	NIL
+OCESP	Ocean Spray Cranberries, Inc. PFD 4%
+BBDA	Bebida Beverage Company
+BTTR	Better Choice Company Inc.
+CIRX	CirTran Corporation
+CLCL	Calcol, Inc.
+CUBV	CUBA Beverage Company
+CWGL	Crimson Wine Group, Ltd.
+DRNK	NOHO, Inc.
+FBEC	FBEC Worldwide, Inc.
+FHBC	Fernhill Beverage, Inc.
+FMBV	Full Motion Beverage, Inc.
+ICNB	Iconic Brands, Inc.
+JSDA	Jones Soda Co.
+KRED	KonaRed Corporation
+LBCC	Long Blockchain Corp.
+LFER	Life On Earth, Inc.
+MLHC	M Line Holdings, Inc.
+NBVG	NutriPure Beverages, Inc.
+NGCG	New Generation Consumer Group, Inc.
+ORNC	Oranco, Inc.
+PACV	Pacific Ventures Group, Inc.
+PPBV	Purple Beverage Company, Inc.
+RLBD	Real Brands, Inc.
+RMHB	Rocky Mountain High Brands, Inc.
+RVRC	Revium Recovery Inc.
+SPBV	Sports Pouch Beverage Co., Inc.
+STZU	Sun Tzu Corporation
+VGID	V Group, Inc.
+WDKA	Panache Beverage Inc.
+HSITF	Hadasit Bio-Holdings Ltd
+BIEI	Premier Biomedical, Inc.
+CELZ	Creative Medical Technology Holdings, Inc.
+CPMV	Mosaic ImmunoEngineering Inc.
+CRXM	Gene Biotherapeutics, Inc.
+ENZN	Enzon Pharmaceuticals, Inc.
+GGNNW	NIL
+GPLB	NIL
+GTHR	GeneThera, Inc.
+LBLTF	Lattice Biologics Ltd.
+NTII	Neurobiological Technologies, Inc.
+PCNT	Point of Care Nano-Technology, Inc.
+PMCB	PharmaCyte Biotech, Inc.
+PPMD	Protide Pharmaceuticals, Inc.
+QRON	Qrons Inc.
+TNGNQ	Tengion, Inc.
+TTNPW	NIL
+USBC	US BioTec, Inc.
+VIAP	VIA Pharmaceuticals, Inc.
+XFORW	NIL
+XFOWW	NIL
+XTNTW	XTANT MEDICAL HLDGS INC
+RYNL	Reynaldo's Mexican Food Company, LLC
+BRNE	Borneo Resource Investments Ltd.
+DOMR	Dominion Resources Black Warrior Trust
+FGCN	Flagship Global Corporation
+PNGZF	Paringa Resources Limited
+ARRHW	NIL
+CERX	Colombia Energy Resources, Inc.
+CNTWW	CONTURA ENERGY INC
+ROYE	Royal Energy Resources, Inc.
+ABKB	American Basketball Association, Inc.
+ACEZ	Ariel Clean Energy, Inc.
+ALDA	Atlantica, Inc.
+ANAV	Alpha Network Alliance Ventures Inc.
+ATIN	ATI Nationwide Holding Corp.
+AVNI	Arvana Inc.
+AWWI	Alpha Wastewater, Inc.
+BDPT	BioAdaptives, Inc.
+BISA	Baltic International USA, Inc.
+BOTH	Bioethics, Ltd.
+BZRD	Blubuzzard, Inc.
+CCAQ	NIL
+CNCL	NIL
+CPAI	Champion Pain Care Corporation
+CRMBQ	Crumbs Bake Shop, Inc.
+ECRD	Ecard Inc.
+FCIC	FCCC, Inc.
+GDVM	Global Developments, Inc.
+GZCC	Guozi Zhongyu Capital Holdings Company
+HSTI	High Sierra Technologies, Inc.
+IHTI	Integrative Health Technologies, Inc.
+IMTS	Interactive Motorsports and Entertainment Corp.
+IRNS	Ironstone Group, Inc.
+ITDN	Interdyne Company
+KAVL	Kaival Brands Innovations Group, Inc.
+LICT	LICT Corporation
+LMGR	Light Management Group, Inc.
+LTHO	Legacy Technology Holdings, Inc.
+LZGI	NIL
+MEGH	Megalith Corporation
+MGPC	Moregain Pictures, Inc.
+MPEG	Innovacom Inc.
+MUSS	Multi Solutions II, Inc.
+NDYN	Vinings Holdings Inc.
+NODC	Nodechain, Inc.
+OHAQ	Oracle Healthcare Acquisition Corp.
+PAPA	WO Group, Inc.
+PHBR	PhoneBrasil International, Inc.
+PSBC	Pacific State Bancorp
+QMIS	QMIS Finance Securities Corporation
+RDGA	Ridgefield Acquisition Corp.
+SDON	Sandston Corporation
+SSCR	SMSA Crane Acquisition Corp.
+STGGQ	STG Group, Inc.
+STQN	Strategic Acquisitions, Inc.
+TCRI	TechCom, Inc.
+THLM	Lehman (T.H.) & Co., Inc.
+UPDC	UPD Holding Corp.
+XMET	XXStream Entertainment, Inc.
+YTFD	Yacht Finders, Inc.
+ZMDC	USA Zhimingde International Group Corporation
+EDSFF	Exceed Company Ltd.
+BRMT	Bare Metal Standard, Inc.
+CDTI	CDTi Advanced Materials, Inc.
+KNOS	Kronos Advanced Technologies Inc.
+PIAC	Princeton Capital Corporation
+UVFT	UV Flu Technologies, Inc.
+KALY	Kali, Inc.
+DMFG	Decker Manufacturing Corporation
+PERT	Permanent Technologies, Inc.
+BNTT	Bnet Media Group, Inc.
+FMPR	Fame Productions, Inc.
+GWOX	The Goodheart-Willcox Company, Inc.
+HHSE	Hannover House, Inc.
+IDWM	IDW Media Holdings, Inc.
+ISTC	Instructivision, Inc.
+MAPL	The Maple Press Company
+SADL	William H. Sadlier, Inc.
+APRU	Apple Rush Company, Inc.
+INKW	Greene Concepts, Inc.
+QENC	Queench, Inc.
+SWRI	Seawright Holdings, Inc.
+CILZ	Carolina Mills, Inc.
+NWPN	The Now Corporation
+AESO	Atlantic Energy Solutions, Inc.
+GNGR	Gunther Grant, Inc.
+GSDT	GSDT Fintech Group Inc.
+IDGC	ID Global Corporation
+NMNX	NIL
+RSHN	RushNet, Inc.
+RWGI	Rodedawg International Industries, Inc.
+SHGR	NIL
+ACGI	The Amacore Group, Inc.
+ACTL	Artec Global Media, Inc.
+ADHC	American Diversified Holdings Corporation
+ATMH	All Things Mobile Analytic Inc.
+ATMO	AmericaTowne Holdings, Inc.
+BCII	Blockchain Industries, Inc.
+BDCM	Broadcast Marketing Group, Inc.
+BSGC	BigString Corporation
+BWMY	BorrowMoney.com, Inc.
+BYZN	Byzen Digital Inc.
+CBEV	Capital Beverage Corporation
+CBKLP	CoBank, ACB
+CBKPP	CoBank, ACB
+CCCP	NIL
+CKNQP	CoBank, ACB
+CLCI	CLIC Technology, Inc.
+CLNH	Clinigence Holdings, Inc.
+CNCG	Concierge Technologies, Inc.
+CNFN	CFN Enterprises Inc.
+CVCS	Charter Corporate Services, Inc.
+CWRK	CurrencyWorks Inc.
+CYCA	Cytta Corp.
+CYIO	CYIOS Corporation
+DCLT	Data Call Technologies, Inc.
+DTSL	Delivery Technology Solutions, Inc.
+DYNA	Dynastar Holdings, Inc.
+EDXC	CBD Unlimited, Inc.
+ETEC	Emtec, Inc.
+ETII	EnviroTechnologies International, Inc
+EUOT	Eurotech, Ltd.
+FDMF	Freedom Energy Holdings, Inc.
+FHTF	FHT Future Technology Ltd
+FLES	The 4Less Group, Inc.
+FTWS	Flitways Technology Inc.
+GEGI	Genesis Electronics Group, Inc.
+GPSI	General Payment Systems, Inc.
+GRLF	Green Leaf Innovations, Inc.
+GSPH	Geospatial Corporation
+HDLS	Hub Deals Corp.
+ICLD	InterCloud Systems, Inc.
+IMTV	Imagination TV, Inc.
+INOH	In Ovations Holdings, Inc.
+INVU	Investview, Inc.
+IOTC	Iota Communications, Inc.
+ISHM	InfoSearch Media, Inc.
+ITCJ	Infinite Technology Corp.
+ITEX	ITEX Corporation
+ITNM	International Monetary Systems, Ltd.
+JANL	Janel Corporation
+KHZM	Madison Ave Media, Inc.
+LBRG	Ladybug Resource Group, Inc.
+LGIQ	Logiq, Inc.
+LIVC	Live Current Media Inc.
+LOCMQ	Local Corporation
+LOGQ	Logicquest Technology, Inc.
+LVWD	LiveWorld, Inc.
+MBDE	Morris Business Development Company
+MDWK	MDwerks, Inc.
+MJNE	MJ Holdings, Inc.
+MOMT	MoneyOnMobile, Inc.
+MSEZ	Media Sentiment, Inc.
+NXSL	NexTech FAS Technologies, Inc.
+ONOV	Castellum Inc.
+OSIN	Optimum Source International, Ltd.
+PALT	Paltalk, Inc.
+PAYD	PAID, Inc.
+PCLI	Protocall Technologies Inc.
+PFMS	PaperFree Medical Solutions, Inc.
+PNNX	Pennexx Foods, Inc.
+PPJE	PPJ Healthcare Enterprises, Inc.
+PPPS	RTCORE Inc
+PPRG	Patient Portal Technologies, Inc.
+PRTHU	Priority Technology Holdings, Inc.
+PRTHW	NIL
+PRZM	Prism Technologies Group, Inc.
+PSYC	Global Trac Solutions Inc.
+PSYS	Paradigm System Solutions Inc.
+PTIX	Protagenic Therapeutics, Inc.
+PURY	PureRay Corporation
+QMCI	QuoteMedia, Inc.
+QUAN	Quantum International Corp.
+RBDC	RBID.com, Inc.
+RDWD	Redwood Group International, Inc.
+RIHT	Rightscorp, Inc.
+RIVU	Rivulet Media, Inc.
+RMNIW	Rimini Street, Inc.
+SCTN	Schimatic Cash Transactions Network.com, Inc.
+SEVA	Seaway Valley Capital Corporation
+SHMN	SOHM, Inc.
+SITOQ	SITO Mobile, Ltd.
+SPRZ	SPRIZA INC
+SRCOD	Sparta Commercial Services, Inc.
+SSET	Starstream Entertainment, Inc.
+STTH	Stealth Technologies, Inc.
+TCHH	Trustcash Holdings, Inc.
+TCPP	Trinity Capital Partners, Inc.
+TNPH	Tian'an Pharmaceutical Co., Ltd.
+TRXA	Trex Acquisition Corp.
+UMCN	UMC, Inc.
+UMFG	UMF Group Inc.
+UMHL	Umatrin Holding Limited
+USAQ	USA Equities Corp.
+VBBV	NIL
+VGTL	VGTel, Inc.
+VOIS	GAMERICA Holdings and Acquisitions Corp.
+VSST	Voice Assist, Inc.
+WQNI	WQN, Inc.
+WSTM	HRsoft, Inc.
+XALL	Xalles Holdings Inc.
+XELAU	Exela Technologies, Inc.
+XELAW	Exela Technologies, Inc.
+XSVT	Xsovt Brands, Inc.
+ZIPL	ZipLink, Inc.
+ZNCM	Zunicom, Inc.
+ZRVT	Zurvita Holdings, Inc.
+ZYJT	Zhong Ya International Limited
+BABAF	Alibaba Group Holding Limited
+BQST	BioQuest Corp.
+CCLX	CableClix (USA), Inc.
+LBRDB	Liberty Broadband Corporation
+OTTV	Viva Entertainment Group Inc.
+RLTR	Reeltime Rentals, Inc.
+UBUH	NIL
+VIDA	Vidaroo Corp
+BELR	Bell Rose Capital Inc.
+GPTX	Global Payment Technologies Inc.
+NCRRP	NCR Corporation 5.5% PFD CNV A
+USATP	USA Technologies, Inc.
+BLLB	Bell Buckle Holdings, Inc.
+SENEL	NIL
+SENEM	Seneca Foods Corporation PFD $12.00
+HNFSA	Hanover Foods Corporation
+HNFSB	Hanover Foods Corporation
+AMNC	Amincor, Inc.
+AMNCB	Amincor, Inc.
+BRFH	Barfresh Food Group, Inc.
+CHLE	Centennial Specialty Foods Corp.
+COFE	Cafe Holdings Inc.
+NGRP	Ngen Technologies Holdings Corp.
+ROKR	True Blue Holdings, Inc.
+ABWN	Airborne Wireless Network
+ALID	Allied Corp.
+BABL	Buildablock Corp.
+EMGE	Emergent Health Corp
+ENAB	Enable Holdings, Inc.
+IPSI	Innovative Payment Solutions, Inc.
+ISAT	ISA Internationale, Inc.
+KLTI	KlausTech, Inc.
+NHLE	Nhale, Inc.
+OSTBP	Overstock.com, Inc.
+OSTKO	Overstock.com, Inc.
+RBNZF	NIL
+RBZHF	Reebonz Holding Limited
+RBZWF	NIL
+RSTN	RDE, Inc.
+WINH	WINHA INTL GROUP LTD
+YGYIP	Youngevity International, Inc.
+GGLT	Giant Group, Ltd.
+AGTT	Angstrom Technologies, Inc.
+CLLA	Clayton & Lambert Manufacturing Co.
+FLMP	Flame Seal Products, Inc.
+HERC	H.E.R.C. Products Inc.
+HYDI	Hydromer, Inc.
+BLGO	BioLargo, Inc.
+ESPIQ	ESP Resources, Inc.
+LQMT	Liquidmetal Technologies, Inc.
+AWON	A1 Group, Inc.
+BTZI	BOTS, Inc.
+VHUB	Vapor Hub International Inc.
+MPIR	Empire Diversified Energy, Inc.
+NNRI	NNRF Inc.
+BCDS	Blaqclouds Inc.
+EIHC	Environmental Infrastructure Holdings Corp
+FIND	Findex.com, Inc.
+CPWY	Clean Energy Pathways, Inc.
+MMMW	Mass Megawatts Wind Power, Inc.
+CGAM	Concorde Gaming Corporation
+CCHZ	Career College Holding Co., Inc.
+AEEI	American Environmental Energy, Inc.
+MCPB	Mt. Carmel Public Utility Co.
+ADKT	The Adirondack Trust Company
+APLO	Apollo Bancorp, Inc.
+BBBK	Baker Boyer Bancorp
+BEOB	BEO Bancorp
+BHRB	Burke & Herbert Bank & Trust Company
+BLHK	blueharbor bank
+BYLB	Boyle Bancorp, Inc.
+CABB	California Business Bank
+CBCZ	Comunibanc Corp.
+CFST	Communities First Financial Corporation
+CHOB	Charter Oak Bank
+CITZ	Citizens Bancshares Corporation
+CMUV	CMUV Bancorp
+CNBL	Citizens National Bancshares of Bossier, Inc.
+CRCA	2
+CRSB	Cornerstone Community Bancorp
+CTYP	Community Bankers' Corporation
+CWBK	CW Bancorp
+CYVF	Crystal Valley Financial Corporation
+EFIN	Eastern Michigan Financial Corporation
+ELMA	Elmer Bancorp, Inc.
+FAFL	First Americano Financial Corp. (Elizabeth, NJ)
+FBPA	The Farmers Bank of Appomattox
+FBTT	First Bankers Trustshares, Inc.
+FCCT	First Community Corporation
+FCCTO	First Community Corporation PFD SER B
+FCCTP	First Community Corporation PFD SER A
+FDVA	The Freedom Bank of Virginia
+FHLB	Friendly Hills Bank
+FIEB	First IC Corporation
+FMBL	Farmers & Merchants Bank of Long Beach
+FSNJ	FIRST STATE BANK CRANFORD NJ
+FSWA	First Sound Bank
+HCBN	HCB Financial Corp.
+HCBP	Harvest Community Bank
+JFWV	Jefferson Security Bank
+LIBC	Liberty Bancorp (South San Francisco, CA)
+MBKL	MBT Bancshares, Inc.
+MCHT	Mauch Chunk Trust Financial Corp.
+MNMB	Merchants & Marine Bancorp, Inc.
+MVLY	Mission Valley Bancorp
+NODB	North Dallas Bank & Trust Co.
+PBCO	People's Bank of Commerce
+SVBT	SVB & T Corporation
+UBNC	UB Bancorp
+WCBH	WCB Holdings, Inc.
+CSTI	Costar Technologies, Inc.
+TIKRF	Tikcro Technologies Ltd.
+CTYX	Curative Biotechnology, Inc.
+DGEN	Deltagen Inc.
+FNAM	Evolutionary Genomics, Inc.
+INTI	Inhibitor Therapeutics, Inc.
+ISHI	Islet Holdings, Inc.
+ITMC	Itoco Inc.
+LFPI	LifePoint, Inc.
+MRPI	Mera Pharmaceuticals, Inc.
+NNLX	NanoLogix, Inc.
+USRM	U.S. Stem Cell, Inc.
+VIVK	Vivakor, Inc.
+VSBC	VitaSpring Biomedical Co. Ltd.
+XENO	Xeno Transplants Corporation
+CHMP	Champion Industries, Inc.
+DTRL	The Detroit Legal News Company
+GMEV	GME Innotainment, Inc.
+GPHBF	G6 Materials Corp.
+HYBG	HYB Holding Corp.
+LKSDQ	LSC Communications, Inc.
+LMTI	Laser Master International, Inc.
+SVAD	Silverton Adventures, Inc.
+TMOL	Trimol Group, Inc.
+DPUI	NIL
+BCHG	Grayscale Bitcoin Cash Trust
+BITW	Bitwise 10 Crypto Index Fund
+ETCG	Grayscale Ethereum Classic Trust (ETC)
+ETHE	Grayscale Ethereum Trust (ETH)
+GDLC	Grayscale Digital Large Cap Fund LLC
+LTCN	Grayscale Litecoin Trust
+OBTC	NIL
+AKOM	Aerkomm Inc.
+BCOMF	B Communications Ltd
+BKSD	BluePrint Technologies, Inc.
+DIRV	DirectView Holdings, Inc.
+GEENQ	Global Eagle Entertainment Inc.
+GRNF	GRN Holding Corporation
+HMMR	Hammer Fiber Optics Holdings Corp.
+INNX	Infinite Networks Corporation
+KTEL	KonaTel, Inc.
+LTUM	Lithium Corporation
+NTLK	NetTalk.com, Inc.
+OTOW	O2 Secure Wireless, Inc.
+RAIO	Radioio, Inc.
+SGRB	SigmaBroadband Co.
+SGTB	Kuboo, Inc.
+TWER	Towerstream Corporation
+WOWI	Metro One Telecommunications, Inc.
+WWII	World Of Wireless International Telecom, Inc.
+WWSG	Worldwide Strategies Incorporated
+INTEQ	Intelsat S.A.
+RITT	RiT Technologies Ltd.
+SDSS	Suspect Detection Systems Inc.
+ABILF	Ability Inc.
+ALRT	ALR Technologies Inc.
+AMPG	AmpliTech Group, Inc.
+AXCG	Eyes on the Go, Inc.
+BIMO	BioNeutra International, Ltd.
+CRTG	The Coretec Group Inc.
+CTXV	CTX Virtual Technologies, Inc.
+EAXR	Ealixir, Inc.
+EKCS	Electronic Control Security Inc.
+ERFB	ERF Wireless, Inc.
+FAKC	FaceKey Corporation
+IHSI	Intelligent Highway Solutions, Inc.
+IWAL	iWallet Corporation
+MDGC	MediaG3, Inc.
+PFGBQ	PFO Global, Inc.
+QNXC	QENEX Communications, Inc.
+REKRP	Rekor Systems, Inc.
+REKRW	NIL
+RSKIA	George Risk Industries, Inc.
+SKVY	Sentry Technology Corp.
+TRCK	Track Group, Inc.
+UNIV	UNIVERSAL INFOTAINMENT SYSTEM C
+VCON	Vicon Industries, Inc.
+WMHI	World Mobile Holdings, Inc.
+EXEO	Exeo Entertainment, Inc.
+CRWE	Crown Equity Holdings Inc.
+INTB	INTELLIGENT BUYING INC
+MRDH	Meridian Holdings, Inc.
+AVSR	Avistar Communications Corp.
+EZEN	Ezenia!, Inc.
+IDEA	Invent Ventures, Inc.
+TQLB	Torque Lifestyle Brands, Inc.
+ESYL	Easylink Solutions Corp.
+ATIG	Atlantis Internet Group Corp.
+EVTNF	Eviation Aircraft Ltd.
+ALLN	Allin Corporation
+APYI	Aspyra Inc.
+AXXA	Exxe Group Inc.
+BLGI	BLGI, Inc.
+CMFV	ComF5 International, Inc.
+DRWN	Quantum Medical Transport, Inc.
+EBYH	Strainsforpains, Inc.
+FIGM	Future International Group Corp.
+GOSY	GeckoSystems International Corporation
+HLCN	Holoco Inc.
+ICCO	InterCare DX, Inc.
+IFXY	Infrax Systems, Inc.
+JMDP	JMD Properties Inc.
+LUDG	Ludwig Enterprises, Inc.
+NEOM	NeoMedia Technologies, Inc.
+OMQS	OMNIQ Corp.
+ONLI	
+PTOP	Peer to Peer Network
+SGTN	Soligen Technologies, Inc.
+SOFT	SofTech, Inc.
+STSC	Start Scientific, Inc.
+TSCC	Technology Solutions Company
+VIPK	VIP ComLink, Inc.
+VMCS	VisualMED Clinical Solutions Corp.
+WEBB	Web Blockchain Media Inc.
+BRQSW	Borqs Technologies, Inc.
+ADTR	Alliance Media Holdings Inc.
+HAUP	Hauppauge Digital Inc.
+IGOI	iGo, Inc.
+LINK	Interlink Electronics, Inc.
+NVNT	Novint Technologies, Inc.
+PSWR	Prism Software Corporation
+RCHN	Rouchon Industries, Inc.
+VRTK	Vartech Systems Inc.
+BSPR	Bigsupersearch.com, Inc.
+DEMO	Democrasoft Holdings, Inc.
+LGTT	LIGATT Security International, Inc.
+NXPCD	Tele Group Corp.
+ONCI	On4 Communications, Inc.
+UAMM	UA Multimedia, Inc.
+WSFT	WikiSoft Corp.
+CBEX	Cambex Corporation
+DIGI	digitiliti, Inc.
+EINF	Enterprise Informatics, Inc.
+NIHL	New Infinity Holdings, Ltd.
+RBSY	Roboserver Systems Corp.
+APVS	Applied Visual Sciences, Inc.
+CNWT	Cistera Networks, Inc.
+CSOC	Caduceus Software Systems Corp.
+DCSX	Direct Communication Solutions, Inc.
+DYNE	DynTek, Inc.
+EMQU	EM Quantum Technologies Inc.
+ERMG	ERecord Management, Inc.
+HSTA	Hestia Insight Inc.
+INOW	InfoNow Corporation
+ISOL	1mage Software, Inc.
+PRLO	Prologic Management Systems, Inc.
+SEDN	SED International Holdings, Inc.
+SPDC	Speed Commerce, Inc.
+BCND	Beacon Redevelopment Industrial Corporation
+ASCK	Auscrete Corporation
+SNTE	Sante Technology Holdings Inc.
+MCEM	The Monarch Cement Company
+ABCED	ABCO Energy, Inc.
+BBCPW	NIL
+BOPO	BioPower Operations Corporation
+EDHD	EDD Helms Group, Inc.
+FQFC	Fuquan Financial Company
+FRCN	Firemans Contractors, Inc.
+HAZH	HAZ Holdings, Inc.
+LMBHW	NIL
+RELT	Reliant Holdings, Inc.
+RENU	RenuEn Corporation
+RGSEQ	Real Goods Solar, Inc.
+SIRC	Solar Integrated Roofing Corporation
+VIHD	Vision Hydrogen Corporation
+OSRS	Osiris Corporation
+IHGP	Interact Holdings Group, Inc.
+PGNT	Paragon Technologies, Inc.
+BMXC	Bemax Inc.
+PNLT	Paneltech International Holdings, Inc.
+CRGP	Calissio Resources Group, Inc.
+UTRX	Unitronix Corporation
+CRPE	Columbian Rope Co.
+CRMZ	CreditRiskMonitor.com, Inc.
+EHOS	Ehouse Global, Inc.
+BSND	Boston Sand & Gravel Co.
+AHAG	Alpha Technologies Group, Inc.
+AMRR	American Metals Recovery and Recycling Inc.
+TRRE	Terra Energy Resources, Ltd.
+AIMH	Aimrite Holdings Corporation
+BLBX	Blackboxstocks Inc.
+BMTM	Bright Mountain Media, Inc.
+BRNW	BrainyBrawn, Inc.
+CBRI	CMTSU Liquidation, Inc.
+CGSO	Centergistic Solutions Inc.
+CICN	Cicero Inc.
+EHVVF	EHAVE, Inc.
+ELCO	Elcom International Inc.
+ENCC	Encompass Compliance Corporation
+ENHT	enherent Corp.
+EWRC	eWorld Companies, Inc.
+FUIG	Fusion Interactive Corp.
+GRWC	Grow Capital, Inc.
+JTBK	Jetblack Corp.
+KGNR	Kange Corp.
+NVES	Nvest Inc.
+OMWDF	Omega World, Inc.
+RCRT	Recruiter.com Group, Inc.
+RETC	12 ReTech Corporation
+RSCI	Redwood Scientific Technologies, Inc.
+SANP	Santo Mining Corporation
+SSVC	Secured Services, Inc.
+SYSX	Sysorex, Inc.
+TMMI	TMM, Inc.
+TRIQ	TraqIQ, Inc.
+TRWO	TransWorld Holdings, Inc.
+VBHI	Verde Bio Holdings, Inc.
+VCLD	Verecloud, Inc.
+VISM	Visium Technologies, Inc.
+RODN	NIL
+BKDKP	Stanley Black & Decker, Inc.
+DAAT	DAC Technologies Group International, Inc.
+QEPC	Q.E.P. Co., Inc.
+SCXLB	The L.S. Starrett Company
+DFODQ	Dean Foods Company
+NLBS	NutraLife BioSciences, Inc.
+NNRX	Nutranomics, Inc.
+SPUP	Sipup Corporation
+TDNT	Trident Brands Incorporated
+UNMK	Tritent International Agriculture, Inc.
+SKMT	NIL
+ADGO	Advantego  Corporation
+ALDS	APPlife Digital Solutions, Inc.
+BFCH	BitFrontier Capital Holdings, Inc.
+BHLD	NIL
+BTIM	Boatim Inc.
+BYOC	Beyond Commerce, Inc.
+CBTC	XTRA Bitcoin Inc.
+CLHI	CLST Holdings, Inc.
+CLOK	Cipherloc Corporation
+CRWG	CrowdGather, Inc.
+CSVI	Computer Services, Inc.
+DTGI	Digerati Technologies, Inc.
+DTRK	DATATRAK International, Inc.
+DTST	Data Storage Corporation
+EPGC	Ecom Products Group Corporation
+FBSE	Fastbase, Inc.
+FCCN	Spectral Capital Corporation
+FSSN	FISION Corporation
+GDET	GD Entertainment & Technology, Inc.
+GMER	Good Gaming, Inc.
+GRCK	Grey Cloak Tech Inc.
+GTYHW	NIL
+HFUS	Hartford Great Health Corp.
+HHER	Her Imports
+HUTN	HUTN, Inc.
+ITLL	Intelligent Cloud Resources Inc.
+ITUP	Interups, Inc.
+LFAP	LGBTQ Loyalty Holdings, Inc.
+LFIN	Longfin Corp.
+LKST	LookSmart Group, Inc.
+LOGX	PeerLogix, Inc.
+MDTC	Media Technologies Inc.
+MRMD	MariMed Inc.
+MVEN	TheMaven, Inc.
+NDVN	nDivision Inc.
+PROM	Propel Media, Inc.
+REPO	National Asset Recovery Corp.
+RTON	Right On Brands, Inc.
+SAAX	Nouveau Ventures Inc.
+SANT	Santeon Group, Inc.
+SHRG	Sharing Services Global Corporation
+SNWR	Sanwire Corporation
+SOLS	Sollensys Corp.
+SWISF	Globex Data Ltd.
+SYPT	Scrypt, Inc.
+SYTE	Enterprise Diversified, Inc.
+VTLR	VirtualArmour International Inc.
+WBSI	WebSafety, Inc.
+WETG	WeTrade Group Inc.
+WLYW	Wally World Media, Inc.
+WYCC	Worry Free Holdings Company
+FNTOF	NIL
+NOTR	NIL
+EGKPF	EAGLE BULK SHIPPING INC
+GNKWF	Genco Shipping & Trading Limited
+JMTM	James Maritime Holdings, Inc.
+OGSRW	OVERSEAS SHIPHOLDING GROUP INC
+ONSS	Onassis Holdings Corp.
+HOFSQ	Hermitage Offshore Services Ltd.
+ADLI	American Medical Technologies Inc.
+INLB	Item 9 Labs Corp.
+LANZ	Lancer Orthodontics, Inc.
+UDHI	Union Dental Holdings, Inc.
+BONTQ	The Bon-Ton Stores, Inc.
+CPPRQ	Old COPPER Company, Inc.
+SHLDQ	Sears Holdings Corporation
+ARGL	Argyle Security, Inc.
+CLTS	Earth Life Sciences Inc.
+GWSN	Gulf West Security Network, Inc.
+HLIX	Helix Technologies, Inc.
+BGMD	BG Medicine, Inc.
+BZYR	Burzynski Research Institute, Inc.
+FORU	ForU Holdings, Inc.
+FPMI	FluoroPharma Medical, Inc.
+GWHP	Global WholeHealth Partners Corporation
+HMGN	Hemagen Diagnostics, Inc.
+IVRO	InVitro International
+ONDR	
+WYPH	WayPoint Biomedical Holdings, Inc.
+HRTH	Harte Hanks, Inc.
+NGMC	Next Generation Management Corp.
+HCEI	Healthy Coffee International, Inc.
+SITS	Southern ITS International, Inc.
+ISWH	ISW Holdings Inc.
+AXRX	Amexdrug Corporation
+BIOAF	Bioasis Technologies Inc.
+BTCA	
+CANB	Can B Corp.
+COSM	Cosmos Holdings Inc.
+DKSC	Dakshidin Corporation, Inc.
+EWLU	Merion, Inc.
+GSAC	GelStat Corp.
+JOEY	Joey New York, Inc.
+LEPX	Lepota Inc.
+LHSIF	Liberty Health Sciences Inc.
+MDAV	Davi Luxury Brand Group, Inc.
+MZEIQ	Medizone International, Inc.
+NXGB	NxGen Brands Inc.
+PDRX	PD-Rx Pharmaceuticals, Inc.
+SCRCQ	ScripsAmerica, Inc.
+SMPP	Strategic Management and Opportunity Corporation
+UNVC	Univec, Inc.
+HCCA	Healthcare Corporation of America
+HEWA	HealthWarehouse.com, Inc.
+IKMA	IntelaKare Marketing, Inc.
+RXMD	Progressive Care, Inc.
+TXSP	Taxus Pharmaceuticals Holdings, Inc.
+ARAT	Arax Holdings Corp.
+ARHI	American Restaurant Holdings, Inc.
+BDVB	Bagger Dave's Burger Tavern, Inc.
+BTBD	NIL
+CBHR	California Beach Restaurants, Inc.
+CORG	Cordia Corporation
+GAMN	Great American Food Chain, Inc. (The)
+GCFB	Granite City Food & Brewery, Ltd.
+GFGU	GetFugu, Inc.
+GMPR	Gourmet Provisions International Corporation
+ICTPU	American Restaurant Partners, L.P.
+KAHL	Kahala Brands, Ltd.
+KONAQ	Kona Grill, Inc.
+MHGU	Meritage Hospitality Group Inc.
+MHGUP	Meritage Hospitality Group Inc. PFD CV SER B
+MSGP	MedSmart Group Inc.
+NMSCA	Nutrition Management Services Company
+STRZ	Star Buffet, Inc.
+SWRL	U-Swirl, Inc.
+AFDG	African Discovery Group, Inc.
+AILIH	Ameren Illinois Company
+AILIM	Ameren Illinois Company
+AILIN	Ameren Illinois Company
+AILIO	Ameren Illinois Company PFD 4.26%
+AILIP	Ameren Illinois Company PFD 4.20%
+AILLI	Ameren Illinois Company
+AILLL	Ameren Illinois Company
+AILLM	Ameren Illinois Company
+AILLN	Ameren Illinois Company
+AILLO	Ameren Illinois Company
+AILLP	Ameren Illinois Company PFD 4%
+AILNP	Ameren Illinois Company PFD 7.75%
+CPWR	Ocean Thermal Energy Corporation
+CTPPO	Central Maine Power Company PFD 6%
+PNMXO	Public Service Company of New Mexico PFD 4.58%
+PPRW	Premier Power Renewable Energy, Inc.
+TRTI	Transtech Industries, Inc.
+GOFF	Goff, Corp.
+BIIO	Bionovate Technologies Corp.
+BOTY	Lingerie Fighting Championships, Inc.
+CAPC	Capstone Companies, Inc.
+LGTS	LIGHTSPACE CORPORATION
+LSCG	Lighting Science Group Corporation
+PVDG	Poverty Dignified, Inc.
+SQFL	SQL Technologies Corp.
+TAER	Tarsier Ltd.
+USLG	US Lighting Group, Inc.
+XNNHQ	Xenonics Holdings, Inc.
+ZNRG	Znergy, Inc.
+ALPVN	Alabama Power Company
+APRCP	Alabama Power Company
+APRDM	Alabama Power Company
+APRDN	Alabama Power Company
+APRDO	Alabama Power Company
+APRDP	Alabama Power Company
+ARVY	Alliance Recovery Corporation
+AWSL	Atlantic Wind & Solar, Inc.
+BANGN	Emera Maine PFD 7%
+BLXX	Blox, Inc.
+BRZL	Scepter Holdings, Inc.
+CGEI	CGE Energy Inc.
+CMNR	Commerce Energy Group, Inc.
+CNLHN	The Connecticut Light and Power Company
+CNLHO	The Connecticut Light and Power Company
+CNLHP	The Connecticut Light and Power Company
+CNLPL	The Connecticut Light and Power Company
+CNLPM	The Connecticut Light and Power Company
+CNLTL	The Connecticut Light and Power Company
+CNLTN	The Connecticut Light and Power Company
+CNLTP	The Connecticut Light and Power Company
+CNPWM	The Connecticut Light and Power Company
+CNPWP	The Connecticut Light and Power Company
+CNTHN	The Connecticut Light and Power Company
+CNTHO	The Connecticut Light and Power Company
+CNTHP	The Connecticut Light and Power Company
+ESNC	EnSync, Inc.
+GEGR	Gaensel Energy Group, Inc.
+HAWEL	Hawaiian Electric Company, Inc. PFD SER E 5%
+HAWEM	Hawaiian Electric Company, Inc. PFD SER D 5%
+HAWEN	Hawaiian Electric Company, Inc. PFD C 4.25%
+HAWLI	Hawaiian Electric Company, Inc. PFD J 4.75%
+HAWLL	Hawaiian Electric Company, Inc. PFD K 4.65%
+HAWLM	Hawaiian Electric Company, Inc. PFD H 5.250%
+HAWLN	Hawaiian Electric Company, Inc. PFD SER I 5%
+IPWLK	Indianapolis Power & Light Company
+IPWLN	Indianapolis Power & Light Company PFD 4.80% CDT
+IPWLP	Indianapolis Power & Light Company PFD 4%
+MSSEL	Massachusetts Electric Company
+NCEN	Nacel Energy Corporation
+NEVE	NEVO ENERGY INC
+NEWEN	New England Power Company PFD 6%
+NMPWP	Niagara Mohawk Power Corporation PFD 3.40%
+NRGSP	The Narragansett Electric Company PFD 4.50%
+NSARO	NSTAR Electric Company
+NSARP	NSTAR Electric Company PFD 4.25%
+PPWLM	PacifiCorp
+PPWLO	PacifiCorp
+PREX	PROGRESS ENERGY INC
+PRHL	Premier Holding Corporation
+PSWW	Principal Solar, Inc.
+SUME	Summer Energy Holdings, Inc.
+UELMO	Union Electric Company
+UEPCN	Union Electric Company
+UEPCO	Union Electric Company
+UEPCP	Union Electric Company
+UEPEM	Union Electric Company
+UEPEN	Union Electric Company
+UEPEO	Union Electric Company
+UEPEP	Union Electric Company
+WELPM	Wisconsin Electric Power Company PFD 6%
+WELPP	Wisconsin Electric Power Company PFD 3.60%
+EENR	ELITE ENERGIES INC
+EMPS	EMP Solutions Inc.
+CSLI	Critical Solutions, Inc.
+SIMA	Sonics & Materials, Inc.
+WELX	Winland Holdings Corporation
+NMOC	Nemo Motors Corp
+ORYX	Oryx Technology Corp.
+SCIA	SCI Engineered Materials, Inc.
+TMGY	Terminus Energy, Inc.
+TPIL	TPI International, Inc.
+WAXS	World Access, Inc.
+CKNTF	Cell Kinetics Ltd.
+ADMT	ADM Tronics Unlimited, Inc.
+BIEL	BioElectronics Corporation
+CBSC	CB Scientific, Inc.
+CHFSW	CHF SOLUTIONS INC
+ECTE	Echo Therapeutics, Inc.
+ESMC	Escalon Medical Corp.
+GTHP	Guided Therapeutics, Inc.
+HRTT	Heart Tronics, Inc.
+MFST	Medifirst Solutions, Inc
+NIMU	Non-Invasive Monitoring Systems, Inc.
+NWCI	NewCardio, Inc.
+NXNN	Nexeon MedSystems Inc.
+PEYE	Precision Optics Corporation, Inc.
+PMDL	Pace Medical, Inc.
+POSC	Positron Corporation
+RSLS	ReShape Lifesciences Inc.
+SCIE	SpectraScience, Inc.
+SEVT	Summit Environmental Corporation, Inc.
+SMLR	Semler Scientific, Inc.
+ULGX	Urologix, Inc.
+VASO	Vaso Corporation
+XCRP	Xcorporeal, Inc.
+FCGN	FCG Inc.
+EQTL	Equitech International Corporation
+GPGC	Global Poletrusion Group Corp
+GTRL	Get Real USA, Inc.
+HSCC	Homeland Security Corporation
+KRFG	King Resources, Inc.
+LNGT	Laser Energetics, Inc.
+MYHI	Mountain High Acquisitions Corp.
+PSFT	Powersafe Technology Corp.
+VTXB	Vortex Brands Co.
+ACSEF	ACS Motion Control, Ltd.
+ENVS	Enova Systems, Inc.
+INTP	Integrated Pharmaceuticals, Inc.
+KULR	KULR Technology Group, Inc.
+TIKK	Tel-Instrument Electronics Corp.
+VIDE	Video Display Corporation
+WIRX	Wireless Xcessories Group, Inc.
+ATCN	Atec, Inc.
+AXTG	Axis Technologies Group, Inc.
+CRKN	Crown Electrokinetics Corp. Common Stock
+CXCQ	Cardxx Inc.
+ESNR	Electronic Sensor Technology, Inc.
+GCLL	GreenCell, Inc.
+INRD	Inrad Optics, Inc.
+MFCO	Microwave Filter Company, Inc.
+NVGT	Novagant Corp.
+SIMC	Simclar, Inc.
+UNXLQ	Uni-Pixel, Inc.
+VRTC	Veritec, Inc.
+HLOC	Helo Corp.
+INFG	Infinite Graphics Incorporated
+NYXO	Nyxio Technologies Corporation
+SFIV	Sector 5, Inc.
+IEHC	IEH Corporation
+BLLI	Bell Industries, Inc.
+EACO	EACO Corporation
+FSTJ	First America Resources Corporation
+IGCIW	India Globalization Capital, Inc.
+IMGX	Image Metrics, Inc.
+JACO	Jaco Electronics Inc.
+MHHC	MHHC Enterprises Inc.
+SIMP	Simply, Inc.
+SPRS	Surge Components, Inc.
+MCTH	Medical Connections Holdings, Inc.
+NZIH	NZJ Holdings Inc.
+STJO	St. Joseph, Inc.
+XCPL	XCPCNL Business Services Corporation
+ACFN	Acorn Energy, Inc.
+GLFH	Galenfeha, Inc.
+IAHL	IAHL Corp.
+ICNM	Icon Media Holdings, Inc.
+RESS	Renewable Energy Solution Systems, Inc.
+SAFS	Safer Shot, Inc.
+TRTK	TORTEC GROUP CORPORATION
+APGI	American Power Group Corporation
+ASPW	Arista Power, Inc.
+HLXW	Helix Wind, Corp.
+MHYR	MANTHEY REDMOND CORP
+NVOS	Novo Integrated Sciences, Inc.
+PSIX	Power Solutions International, Inc.
+RGUS	REGI U.S., Inc.
+TRTC	Terra Tech Corp.
+EWKS	Earthworks Entertainment, Inc.
+AGIN	American Graphite Technologies, Inc.
+BICB	BioCube, Inc.
+INVL	NIL
+ALYE	Aly Energy Services, Inc.
+ASAV	ASI Aviation, Inc.
+CHTM	Chatham Corporation
+KSQR	Kendall Square Research Corp
+MUEL	Paul Mueller Company
+ADSV	Allied Security Innovations, Inc.
+VULC	Vulcan International Corporation
+DBMG	DBM Global Inc.
+ATCV	ATC Venture Group Inc.
+HCCDZ	NIL
+LPPI	LEEP, Inc.
+MTWD	Metwood, Inc.
+TLDN	Telidyne Inc.
+TPCS	TechPrecision Corporation
+CITY	
+CQER	SecurCapital Holdings Corp.
+PRVU	PreVu, Inc.
+AGSO	AgriSolar Solutions, Inc.
+DRCR	Dear Cashmere Holding Company
+MJHI	MJ Harvest, Inc.
+USDF	US-Dadi Fertilizer Industry International, Inc.
+BGEPF	Bunge Limited
+NRPR	Nutri Pharmaceuticals Research, Inc.
+FMCC	Freddie Mac
+FMCCG	Freddie Mac
+FMCCH	Freddie Mac
+FMCCI	Freddie Mac
+FMCCJ	Freddie Mac
+FMCCK	Freddie Mac
+FMCCL	Freddie Mac
+FMCCM	Freddie Mac
+FMCCN	Freddie Mac
+FMCCO	Freddie Mac
+FMCCP	Freddie Mac
+FMCCS	Freddie Mac
+FMCCT	Freddie Mac
+FMCKI	Freddie Mac
+FMCKJ	Freddie Mac
+FMCKK	Federal Home Loan Mortgage Corporation PFD
+FMCKL	Freddie Mac
+FMCKM	Freddie Mac
+FMCKN	Freddie Mac
+FMCKO	Freddie Mac
+FMCKP	Freddie Mac
+FNMA	Federal National Mortgage Association
+FNMAG	Federal National Mortgage Association
+FNMAH	Federal National Mortgage Association
+FNMAI	Federal National Mortgage Association
+FNMAJ	Federal National Mortgage Association
+FNMAK	Federal National Mortgage Association
+FNMAL	Federal National Mortgage Association
+FNMAM	Federal National Mortgage Association
+FNMAN	Federal National Mortgage Association
+FNMAO	Federal National Mortgage Association
+FNMAP	Federal National Mortgage Association
+FNMAS	Federal National Mortgage Association
+FNMAT	Federal National Mortgage Association
+FNMFM	Federal National Mortgage Association
+FNMFN	Federal National Mortgage Association
+FNMFO	Federal National Mortgage Association
+FREGP	Freddie Mac
+FREJN	Freddie Mac
+FREJO	Federal Home Loan Mortgage Corporation PFD 5.1% SAL
+FREJP	Federal Home Loan Mortgage Corporation PFD 5.30%
+FGFI	First Greenwich Financial, Inc.
+ABBB	Auburn Bancorp, Inc.
+AFBA	Allied First Bancorp Inc.
+AMFC	AMB Financial Corp.
+BAFI	Bancaffiliated Inc.
+BCSO	Bancorp. of Southern Indiana
+BCTF	Bancorp 34, Inc.
+BSPB	NIL
+BVFL	BV Financial, Inc.
+CABT	Coastal Bank & Trust
+CCSB	Community Savings Bancorp, Inc.
+CCVS	Citizens Commerce Bancshares, Inc.
+CECL	NIL
+CIBN	Community Investors Bancorp, Inc.
+CNBA	Chester Bancorp, Inc.
+CRZY	Crazy Woman Creek Bancorp Incorporated
+CTUY	Century Next Financial Corporation
+CULL	Cullman Bancorp, Inc.
+EFBI	Eagle Financial Bancorp, Inc.
+EGDW	Edgewater Bancorp, Inc.
+EQFN	Equitable Financial Corp.
+ESBS	ES Bancshares, Inc.
+FBPI	First Bancorp of Indiana, Inc.
+FDLB	Fidelity Federal Bancorp
+FFWC	FFW Corporation
+FNFI	First Niles Financial, Inc.
+FNFPA	First Niles Financial, Inc. PFD SER A
+FNRN	First Northern Community Bancorp
+FSGB	1st Federal Savings Bank of SC, Inc.
+GTPS	Great American Bancorp, Inc.
+GVFF	Greenville Federal Financial Corporation
+GWBK	Gateway Bank, F.S.B.
+HRGG	Heritage NOLA Bancorp, Inc.
+LOGN	Logansport Financial Corp.
+MCBK	Madison County Financial, Inc.
+MCPH	Midland Capital Holdings Corp.
+MFDB	Mutual Federal Bancorp, Inc.
+MSFN	MainStreet Financial Corporation
+NASB	NASB Financial, Inc.
+NECB	Northeast Community Bancorp, Inc.
+NTWB	NIL
+NWIN	NorthWest Indiana Bancorp
+OTTW	Ottawa Bancorp, Inc.
+PPSF	Peoples-Sidney Financial Corporation
+SCBS	Southern Community Bancshares, Inc.
+SCYT	Security Bancorp, Inc.
+SFBI	SFSB, Inc.
+SFBK	SFB Bancorp, Inc.
+SNNF	Seneca Financial Corp.
+SRNN	The Southern Banc Company, Inc.
+STBI	Sturgis Bancorp, Inc.
+SUGR	Sugar Creek Financial Corp.
+SZBI	SouthFirst Bancshares Inc.
+UNTN	United Tennessee Bankshares, Inc.
+WAYN	Wayne Savings Bancshares, Inc.
+WCFB	WCF Bancorp, Inc.
+WMPN	William Penn Bancorp, Inc.
+NIOBF	NioCorp Developments Ltd.
+NOXL	Noxel Corp.
+AVGC	
+KYNC	KYN Capital Group, Inc.
+AAMTF	Armada Mercantile Ltd.
+ALMC	Alimco Financial Corporation
+ARST	Arista Financial Corp.
+AWKS	AmeriWorks, Inc.
+BNGI	Bangi Inc.
+BWVI	Blue Water Ventures International, Inc.
+CAFI	Consumer Automotive Finance, Inc.
+CAPP	Capstone Financial Group, Inc.
+CCUR	CCUR Holdings, Inc.
+CDIX	Cardiff Lexington Corporation
+CFSU	Complete Financial Solutions, Inc.
+CHAM	Champion Investments, Inc.
+CIVX	CTR Investments & Consulting, Inc.
+CNGI	Concordis Group Incorporated
+CRDX	NIL
+EPOR	Epic Corp.
+EPORP	Epic Corp. 5% PFD CNV SER A
+FGCO	Financial Gravity Companies, Inc.
+GFDV	General Finance & Development, Inc.
+GOOI	Gooi Global, Inc.
+HXPR	Hispanic Express, Inc.
+MCBP	Michigan Community Bancorp Ltd.
+MGOM	Migom Global Corp.
+MITI	Mitesco Inc.
+MLCG	ML Capital Group, Inc.
+MUTM	Mutual Merchant Services, Inc.
+NCPL	Netcapital Inc.
+SCFR	GamesGamesGames Technology, Inc.
+SCGX	Saxon Capital Group, Inc.
+WINSF	Wins Finance Holdings Inc.
+WSHE	GreenLink International Inc.
+WTECQ	Westech Capital Corp.
+ZGCO	The Ziegler Companies, Inc.
+STGC	StartEngine Crowdfunding, Inc.
+SIPN	SIPP International Industries, Inc.
+AFFS	AmTrust Financial Services, Inc.
+AFFT	AMTRUST FINANCIAL SERVICES INC
+AFHBL	Atlas Financial Holdings, Inc.
+AFHIF	Atlas Financial Holdings, Inc.
+AFSIA	AmTrust Financial Services, Inc.
+AFSIB	AmTrust Financial Services, Inc.
+AFSIC	AmTrust Financial Services, Inc.
+AFSIM	AmTrust Financial Services, Inc.
+AFSIN	AMTRUST FINANCIAL SERVICES INC
+AFSIP	AmTrust Financial Services, Inc.
+ASAM	ASSURANCEAMERICA CORPORATION
+FACO	First Acceptance Corporation
+HCIIP	NIL
+KFSYF	Kingsway Financial Services Inc.
+PPHI	Positive Physicians Holdings, Inc.
+FRPC	First Republic Corp. of America
+SELR	Steele Oceanic Corporation
+SHMP	NaturalShrimp Incorporated
+ASNHF	Avidus Management Group Inc.
+AVIX	Avix Technologies, Inc.
+GVHIB	Global Vision Holdings, Inc.
+IFBC	Italian Food & Beverage Corp.
+LQWC	LifeQuest World Corporation
+SYVN	Sycamore Ventures, Inc.
+ZIVO	ZIVO Bioscience, Inc.
+ANFIF	Amira Nature Foods Ltd.
+UMAX	UMAX Group Corp.
+DWIS	Dinewise, Inc.
+ELGL	Element Global, Inc.
+NUTTQ	Nutroganics, Inc.
+RBNW	Renewable Energy and Power, Inc.
+AURI	Auri, Inc.
+INSO	Industry Source Consulting, Inc.
+ARWD	Arrow Resources Development, Inc.
+CAEN	California-Engels Mining Company
+KEWL	Keweenaw Land Association, Limited
+SHCC	Shi Corporation
+COWI	CoroWare, Inc.
+NXTN	Next10, Inc.
+RRTS	Roadrunner Transportation Systems, Inc.
+SGRZ	Stonepath Group Inc.
+HNTUF	Hunter Maritime Acquisition Corp.
+HNTWF	Hunter Maritime Acquisition Corp.
+HUNTF	Hunter Maritime Acquisition Corp.
+GLHD	PSH Group Holding, Inc.
+NBRY	Newberry Specialty Bakers, Inc.
+PURT	Purthanol Resources Limited
+ATHC	Accelerated Technologies Holding Corp.
+BAOB	The Baraboo Bancorporation, Inc.
+FDTC	FNDS3000 Corp.
+GPLA	GamePlan, Inc.
+OHPB	Ohana Pacific Bank
+QCCO	QC Holdings, Inc.
+ITLK	Interlink Products International, Inc.
+RGLG	UHF Logistics Group, Inc.
+EPGG	Empire Global Gaming, Inc.
+JAKP	NIL
+NNUP	Nocopi Technologies, Inc.
+OART	The Ohio Art Company, Inc.
+OCBM	Preferred Commerce, Inc.
+RNWR	808 Renewable Energy Corporation
+NEXTW	NextDecade Corporation
+STCC	Sterling Consolidated Corp.
+BBLC	Blockchain Loyalty Corp.
+KSSH	Kingfish Holding Corporation
+SFHI	Sports Field Holdings, Inc.
+AVEW	AVEW Holdings Inc.
+PPCQ	Premier Pacific Construction, Inc.
+PRXG	Pernix Group, Inc.
+RNVT	Renovate Neighborhoods, Inc.
+CANL	CannLabs, Inc.
+FQCC	Fuquan Capital Management, Inc.
+AFAP	AFA Protective Systems, Inc.
+ETCC	Environmental Tectonics Corporation
+IBAL	International Baler Corporation
+PGID	Peregrine Industries, Inc.
+RCIT	Reelcause, Inc.
+UVSS	Universal Systems, Inc.
+SYEV	Seychelle Environmental Technologies, Inc.
+GTECW	Greenland Technologies Holding Corporation
+FPCG	First Physicians Capital Group, Inc.
+GRST	Ethema Health Corporation
+NRTSF	Nobilis Health Corp.
+RNVA	Rennova Health, Inc.
+RNVAW	Rennova Health, Inc.
+UHID	Universal Health Services, Inc.
+DYSL	Dynasil Corporation of America
+AHNR	Athena Silver Corporation
+AIVN	American International Ventures, Inc.
+ARAO	AuraSource, Inc.
+ASKE	Alaska Pacific Energy Corp.
+BKEN	Bakken Energy Corp.
+BMXI	Brookmount Explorations Inc.
+CGAC	Code Green Apparel Corp.
+CGCO	Commerce Group Corp.
+CTGO	Contango Ore, Inc.
+DTII	Defense Technologies International Corp.
+FERN	Fernhill Corporation
+FMNJ	Franklin Mining, Inc.
+FTRS	Mission Mining Company
+GRYEF	AU Min Africa PTY, LTD.
+HGHH	NIL
+HYMWW	
+IMGL	Image International Group, Inc.
+IMII	Inception Mining, Inc.
+LNBY	NIL
+LSMG	Lode-Star Mining Inc.
+MNGG	Mining Global Inc.
+MPML	MPM Technologies, Inc.
+NGRC	National Graphite Corp.
+NJMC	New Jersey Mining Company
+NMCX	NMC, Inc.
+NMEX	Northern Minerals & Exploration Ltd.
+PLYN	Palayan Resources, Inc.
+PMMEF	Premium Exploration, Inc.
+PRKV	ParkVida Group, Inc.
+PSGR	Pershing Resources Company, Inc.
+PTTN	Patten Energy Solutions Group, Inc.
+REEMF	Rare Element Resources Ltd.
+SDRC	Sidney Resources Corp.
+SHNL	Shentang International, Inc.
+SILS	Silver Scott Mines, Inc.
+STAL	Star Alliance International Corp.
+TLRS	Timberline Resources Corporation
+TMRC	Texas Mineral Resources Corp.
+USCS	USCorp
+XLRM	XLR Medical Corp.
+AAPT	All American Pet Company, Inc.
+NHMD	Nate's Food Co.
+HOJI	NIL
+MCHA	Matchaah Holdings, Inc.
+NUVM	NuVim, Inc.
+ANCE	Restance, Inc.
+IVFH	Innovative Food Holdings, Inc.
+TWGL	20/20 Global, Inc.
+VRUSD	Verus International, Inc.
+ANCSQ	American Consumers, Inc.
+XXFPL	FFP Partners, L.P.
+PMBY	POSTD Merchant Banque
+PAOS	Amerinac Holding Corp.
+FMYR	Family Room Entertainment Corporation
+FEDC	Federal Casters Corp.
+AMSU	Amanasu Environment Corporation
+CESX	CES Synergies, Inc.
+DGWR	Deep Green Waste & Recycling, Inc.
+EMHI	East Morgan Holdings, Inc.
+GEVI	General Environmental Management, Inc.
+KGHI	Kaiser Group Holdings, Inc.
+PGTK	Pacific Green Technologies Inc.
+QHYG	QHY Group
+SENR	Strategic Environmental & Energy Resources, Inc.
+ARHH	Assure Holdings Corp.
+ERBB	American Green, Inc.
+GTBIF	Green Thumb Industries Inc.
+MCDA	KMA Holding, Inc.
+NAFS	North America Frac Sand, Inc.
+NMXS	Net Medical Xpress Solutions, Inc.
+OLFC	Olfactory Biosciences Corp.
+SCAL	Stem Cell Authority, Ltd.
+MCCK	Mestek, Inc.
+SESI	SES Solar Inc.
+UNSS	UNIVERSAL SOLAR TECHNOLOGY INC
+ARMT	
+DLMI	Diamond Lake Minerals, Inc.
+MJWL	Majic Wheels Corp.
+PRPS	Propellus Inc.
+WLMS	Williams Industrial Services Group Inc.
+ALTD	Altitude International, Inc.
+CRRSQ	Corporate Resource Services, Inc.
+DFCO	Dalrada Financial Corporation
+FRSI	First Rate Staffing Corporation
+GSHN	Gushen, Inc.
+IGEN	IGEN Networks Corp.
+LPTV	Loop Media, Inc.
+LTNC	Labor Smart, Inc.
+PPMT	Profit Planners Management, Inc.
+RSGX	
+PKMS	NIL
+TRNLY	The Trendlines Group Ltd.
+BAYPD	Bayport International Holdings, Inc.
+BFHJ	Beneficial Holdings, Inc.
+BGRP	Bluestem Group Inc.
+BRYN	Bryn Resources Inc.
+BURCA	Burnham Holdings, Inc.
+BURCB	Burnham Holdings, Inc.
+BURCP	Burnham Holdings, Inc. PFD 6%
+BYSD	Bayside Corporation
+BZTG	Buzz Technologies, Inc.
+CNHA	Conihasset Capital Partners, Inc.
+CNNA	Cann American Corp.
+CRSS	Crossroads Systems, Inc.
+DATI	Digital Asset Monetary Network, Inc.
+DNDT	DND Technologies, Inc.
+FAGI	Full Alliance Group, Inc.
+FRMO	FRMO Corporation
+GLBH	Globaltech Holdings, Inc.
+GLOH	Glow Holdings, Inc.
+GMNI	Gemini Group Global Corp.
+HAFG	Holistic Asset Finance Group Co., Ltd.
+HALB	Alaric Corporation
+HLMB	Swiftsure International, Inc.
+HNRC	Houston Natural Resources Corp.
+HXPN	Harris Exploration, Inc.
+HYBE	Hybrid Energy Holdings, Inc.
+HZHI	Horizons Holdings International, Corp.
+IGEX	Indo Global Exchange(s) PTE, Ltd.
+ITKH	iTeknik Holding Corporation
+JAGR	Green Street Capital Corp.
+LEON	Leone Asset Management, Inc.
+LGBS	Legends Business Group, Inc.
+LHGI	Lighthouse Global Holdings Inc.
+LRDR	Laredo Resources Corp.
+MGLO	The MEDIA GLOBO Corporation
+OODH	Orion Diversified Holding Co. Inc.
+PAOG	PAO Group, Inc.
+PIOE	P10 Holdings, Inc.
+PLFF	Orpheum Property, Inc.
+PSRU	Valiant Eagle Inc.
+RGGI	Resgreen Group International Inc.
+RGSG	Resources Global Services Group
+RJDG	RJD Green, Inc.
+RNWF	Renewal Fuels, Inc.
+SBOX	SuperBox, Inc.
+SCBZ	Scoobeez Global, Inc.
+SFIN	Safetek International, Inc.
+SLJB	Sulja Bros Building Supplies Ltd.
+SNMN	SNM Global Holdings, Inc.
+SOHI	Sortis Holdings, Inc.
+SPQS	SportsQuest, Inc.
+SPRV	Web To Door, Inc.
+TMSH	TransGlobal Assets Inc.
+TNKE	Tanke, Inc.
+TYTN	Tytan Holdings, Inc.
+UATG	Umbra Applied Technologies Group, Inc.
+UPIN	Universal Power Industry Corporation
+URHG	United Resource Holdings Group, Inc.
+VGLS	VG Life Sciences Inc.
+VLXC	Veltex Corporation
+VMNT	Vemanti Group, Inc.
+WMDH	WMD Holdings Group, Inc.
+XRXH	XRX International Entertainment Holding Group, Inc.
+AVNY	Manaris (2010) Corp.
+FRCH	
+ASSF	Assisted 4 Living, Inc.
+BBAL	New York Health Care, Inc.
+CTHZ	Cancer Treatment Holdings, Inc.
+EUBG	Entrepreneur Universe Bright Group
+EWLL	eWellness Healthcare Corporation
+FWAV	Fourth Wave Energy, Inc.
+MAHN	Mid-Atlantic Home Health Network, Inc.
+CHCR	Advanzeon Solutions, Inc.
+ARHN	Archon Corporation
+CAGU	The Castle Group, Inc.
+CNDL	Candlewood Hotel Company, Inc.
+DHCC	Diamondhead Casino Corporation
+HIGR	Hi-Great Group Holding Co.
+ROBK	Rotate Black, Inc.
+SKTP	Skytop Lodge Corporation
+SKTPP	Skytop Lodge Corporation
+SQCC	Square Chain Corp.
+IDVV	International Endeavors Corp
+APWL	Advanced Powerline Technologies, Inc.
+BUNM	Burned Media, Ltd.
+BZIC	Beamz Interactive, Inc.
+GTMM	The Guitammer Company
+KMGH	Kemiao Garment Holding Group
+PMOZ	PrismOne Group, Inc.
+ROFO	Rockford Corporation
+SONR	Sonar Radio Corp.
+HMBG	NIL
+LUVU	Luvu Brands, Inc.
+MZKR	Mikrocoze Inc.
+ROWC	The Rowe Companies, Inc.
+HRCR	Hershey Creamery Company, Inc.
+JALA	Be Active Holdings, Inc.
+NHVP	Northeast Development Corp., Inc.
+BRCOQ	Beard Co. (The)
+TORM	TOR Minerals International, Inc.
+TRNFD	Taronis Fuels, Inc.
+TRUL	Trulite, Inc.
+FAME	Flamemaster Corporation
+RNWB	The Renewable Corporation
+PRAC	Productivity Technologies Corp.
+TXHG	TX Holdings, Inc.
+MVNT	Movement Industries Corporation
+ALKN	Alkane, Inc.
+ALLM	Alliance Bioenergy Plus, Inc.
+AVLP	Avalanche International, Corp.
+BCLE	Bio-Clean International, Inc.
+BDGY	Bridgeway National Corp.
+CLTH	Cleantech Biofuels, Inc.
+EQTE	EQM Technologies & Energy, Inc.
+GCEI	Global Clean Energy, Inc.
+GGRN	Global Green Solutions Inc.
+HESG	Health Sciences Group, Inc.
+ICNN	Incoming, Inc.
+KRBF	Kreido Biofuels, Inc.
+LAXAF	Laxai Pharma, Ltd.
+LXAM	Lux Amber, Corp.
+MACE	Mace Security International, Inc.
+MEIL	Methes Energies International Ltd.
+MMBF	Momentum Biofuels, Inc.
+NECA	New America Energy Corp.
+NOUV	Nouveau Life Pharmaceuticals, Inc.
+NSLSF	Enssolutions Group Inc.
+OCLN	OriginClear, Inc.
+PTLF	Petlife Pharmaceuticals, Inc.
+RWFC	Renewable Fuel Corp.
+SRNW	Stratos Renewables Corporation
+SUIC	Sino United Worldwide Consolidated Ltd.
+SWEE	SweeGen, Inc.
+WAYS	Wave Sync Corp.
+WNDW	SolarWindow Technologies, Inc.
+EESE	Energy and Environmental Services, Inc.
+IALS	Qest Corporation
+NUEC	NuEarth Corporation
+GZIC	GZ6G Technologies Corp.
+HITD	Houston InterWeb Design, Inc.
+IMTL	Image Protect, Inc.
+PIFR	Premier information Management, Inc.
+RFCS	Refocus Group, Inc.
+GIGA	Giga-tronics Incorporated
+QDLC	Quadlogic Controls Corporation
+RLBY	Reliability Incorporated
+ACPS	AC Partners Inc.
+ARINA	Arista Investors Corp.
+HRAA	Health Revenue Assurance Holdings, Inc.
+MAAL	The Marketing Alliance, Inc.
+RELI	Reliance Global Group, Inc.
+SUND	Sundance Strategies, Inc.
+PKIN	Pekin Life Insurance Company
+HLRD	The Hilliard Corporation
+ISML	Ism International Inc.
+BKFG	BKF Capital Group, Inc.
+GLAE	GlassBridge Enterprises, Inc.
+ITPC	Intrepid Capital Corporation
+IWSH	Wright Investors' Service Holdings, Inc.
+LGCP	Legion Capital Corporation
+LMIBL	LEGG MASON INC 5.45% BDS 15/09/
+LMICL	LEGG MASON INC 6.375% NTS 15/03
+RAGL	RA Global Services, Inc.
+SCNG	Strattner Financial Group Corp.
+SKAJ	NIL
+TETAA	Teton Advisors, Inc
+TETAB	Teton Advisors, Inc
+WSSE	Wall Street Capital, Inc.
+BXLC	Bexil Corporation
+ELRNF	Elron Electronic Industries Ltd.
+BLMC	Biloxi Marsh Lands Corporation
+EQKR	
+FPWM	Charlestowne Premium Beverages Inc.
+FSAM	Fifth Street Asset Management Inc.
+FTGI	Finotec Group, Inc.
+HIRU	Hiru Corporation
+IFLM	Independent Film Development Corporation
+MCVT	Mill City Ventures III, Ltd.
+MDCN	Medican Enterprises, Inc.
+MJARF	MJardin Group, Inc.
+MNTR	Mentor Capital, Inc.
+SGNI	StemGen, Inc.
+BMIN	Britannia Mining Inc.
+GWIO	Great Western Iron Ore Properties, Inc
+TAMG	Transnational Group, Inc.
+EATR	Eastern Asteria, Inc.
+FJHL	Fovea Jewelry Holdings, Ltd.
+SPGZ	Spectrum Group International, Inc.
+ODMO	ODIMO INC
+GMZP	GEMZ Corporation
+MDNL	Maiden Lane Jewelry, Ltd.
+PNDZF	Pandora A/S
+BRGO	Bergio International, Inc.
+OJSY	OJsys, Inc.
+RSCF	Reflect Scientific, Inc.
+RVBR	Markray Corp.
+IDAM	Idarado Mining Company
+MERG	Merger Mines Corporation
+TLFA	Tandy Leather Factory, Inc.
+CPTP	Capital Properties, Inc.
+RADIW	Radius Global Infrastructure, Inc.
+CWID	Country-Wide Insurance Company
+EMGCQ	Emergent Capital, Inc.
+FGLHF	FGL Holdings
+FLFG	Federal Life Group, Inc.
+KCLI	Kansas City Life Insurance Company
+LINS	Life Insurance Company Of Alabama
+LINSA	Life Insurance Company Of Alabama
+OICT	Oicintra, Inc.
+UTGN	UTG, Inc.
+BSTK	Brite-Strike Tactical Illumination Products, Inc.
+SIPC	Sipp Industries, Inc.
+STKR	ProPhotonix Limited
+LFLS	Loans4Less.Com, Inc.
+SAKH	Sakha Enterprises Corp
+GNPG	Green Planet Group, Inc.
+HMTC	Homasote Company
+WOFA	Wisdom Homes of America, Inc.
+RGBD	Regional Brands Inc.
+NFPC	Northfield Precision Instrument Corp.
+EXMT	Anything Technologies Media, Inc.
+HOPS	Between Dandelions Inc.
+MENB	Mendocino Brewing Company, Inc.
+TSGTF	Tsingtao Brewery Company Limited
+APTY	APT Systems, Inc.
+AWWC	Access Worldwide Communications, Inc.
+BLNC	Balance Labs, Inc.
+BMMCF	Kbridge Energy Corp.
+CDIIQ	CD International Enterprises, Inc.
+CISO	Cerberus Cyber Sentinel Corporation
+CWIR	Central Wireless, Inc.
+CYAP	Cyber Apps World Inc.
+DCAC	Daniels Corporate Advisory Company, Inc.
+DIGP	DigiPath, Inc.
+DRVD	Driven Deliveries, Inc.
+EFSH	1847 Holdings LLC
+ELVG	Elvictor Group, Inc.
+FNDM	Fund.com Inc.
+FRTG	Frontera Group, Inc.
+GRBX	GreenBox POS
+GTCH	GBT Technologies Inc.
+GTTL	NIL
+GXXM	GEX Management, Inc.
+HBUV	Hubilu Venture Corporation
+HMNU	Human Unitec International, Inc.
+HPIL	HPIL Holding
+HTBC	379
+IJJP	IJJ Corporation
+INNI	Innovaro, Inc.
+JADA	Jade Art Group Inc.
+MRJT	3D MakerJet, Inc.
+MTPR	MetaPower International, Inc.
+NUKK	Nukkleus Inc.
+ODYC	Odyne Corporation
+PBSV	Pharma-Bio Serv, Inc.
+PFWIQ	Petrone Worldwide, Inc.
+PGSC	Progressive Green Solutions, Inc.
+PNHT	NIL
+RLAB	Real American Capital Corp.
+ROKK	Rokk3r Inc.
+RTNB	root9B Holdings, Inc.
+SHWZ	Medicine Man Technologies, Inc.
+SIXD	6D Global Technologies, Inc.
+STWC	STWC Holdings, Inc.
+TCAI	NIL
+UNQL	Unique Logistics International Inc.
+VTMC	Valentine Mark Corporation
+WOWU	WOWI, Inc.
+WWIN	AllyMe Group, Inc.
+ACGX	Alliance Creative Group, Inc.
+AHIX	Aluf Holdings, Inc.
+ANDI	Andiamo Corporation
+APLD	Applied Science Products, Inc.
+BRRN	Born Inc.
+ECMH	Encompass Holdings, Inc.
+GCGX	Global Consortium Inc.
+GTII	Global Tech Industries Group, Inc.
+HLLK	Hallmark Venture Group, Inc.
+LPTI	Longport, Inc.
+SKYI	Sky Century Investment, Inc.
+SQTI	NIL
+TAYO	Taylor Consulting, Inc.
+FLXP	Flex-Power Inc.
+GRHY	Green Hygienics, Inc.
+HTSC	Here to Serve Holding Corp.
+SMEV	Simulated Environment Concepts, Inc.
+UNDR	UnderSea Recovery Corporation
+EXRG	EcoLogix Resource Group, Inc.
+FLXT	Flexpoint Sensor Systems, Inc.
+KNWN	Know Labs, Inc.
+MEEC	Midwest Energy Emissions Corp.
+MKRS	Mikros Systems Corporation
+MKTY	Mechanical Technology, Incorporated
+MPHMF	Callitas Health Inc.
+SIGL	Signal Advance, Inc.
+UCLE	US Nuclear Corp.
+VNTH	Nano Mobile Healthcare, Inc.
+ESFS	Eco Safe Systems USA, Inc.
+BBRW	BrewBilt Manufacturing Inc.
+CBBT	Cerebain Biotech Corp.
+EXHI	Exlites Holdings International, Inc.
+FZMD	Fuse Medical, Inc.
+MCIC	Multicorp International, Inc.
+NHLG	National Healthcare Logistics Inc.
+NTME	NetMed, Inc.
+AGHC	Aeon Global Health Corp.
+DMTKW	NIL
+FCHS	First Choice Healthcare Solutions, Inc.
+GNLKQ	GeneLink, Inc.
+ICBU	iMD Companies, Inc.
+LBWR	Labwire, Inc.
+MEDD	Medical Imaging Corp.
+NNBP	Nanobac Pharmaceuticals, Incorporated
+PCHM	PharmChem, Inc.
+PGUZ	Pegasus Pharmaceuticals Inc.
+ANAS	Alternaturals, Inc.
+AQSP	Acquired Sales Corp.
+BOMH	Boomer Holdings Inc.
+CRLBF	Cresco Labs Inc.
+CRLWF	Cresco Labs Inc.
+CURLF	Curaleaf Holdings, Inc.
+ECGS	Eco-Growth Strategies Inc.
+ERGO	Entia Biosciences, Inc.
+EXDI	Exactus, Inc.
+FTLF	FitLife Brands, Inc.
+GFOO	Genufood Energy Enzymes Corp.
+GLUC	Glucose Health, Inc.
+GRLB	GL Brands, Inc.
+HENC	Hero Technologies Inc.
+HRVSF	Harvest Health & Recreation Inc.
+IFUS	Impact Fusion International, Inc.
+MEDH	MedX Holdings, Inc.
+NBCO	Neon Bloom, Inc.
+NCDP	Nicodrops, Inc.
+NDTP	NDT Pharmaceuticals Inc.
+NPHC	Nutra Pharma Corp.
+NTRR	Neutra Corp.
+ONBI	ONE Bio Corp.
+OPGX	Optigenex Inc.
+PHLI	PacificHealth Laboratories, Inc.
+PLNHF	Planet 13 Holdings Inc.
+POTN	PotNetwork Holdings, Inc.
+PPII	Coenzyme-A Inc.
+QNTA	Quanta, Inc.
+RCPIQ	Rock Creek Pharmaceuticals, Inc.
+SNYR	Synergy CHC Corp.
+SPOI	SPO Networks, Inc.
+STSN	Stemsation International, Inc.
+TAUG	Tauriga Sciences, Inc.
+UBQU	Ubiquitech Software Corp.
+WNRS	Winners, Inc.
+ZOEIF	Zoetic International Plc
+AMSA	American Seniors Association Holding Group, Inc.
+ITNF	Internet Infinity, Inc.
+AVPI	AVP, Inc.
+BTDG	B2Digital, Incorporated
+CLUBQ	Town Sports International Holdings, Inc.
+JUDOD	NIL
+OSWWF	NIL
+MCRAA	McRae Industries, Inc.
+MCRAB	McRae Industries, Inc.
+ABDR	Ambassador Food Services Corp.
+GEIN	Genesys Industries, Inc.
+SHLOQ	Shiloh Industries, Inc.
+ABML	American Battery Metals Corporation
+ABTI	Alterola Biotech, Inc.
+ACNE	Alice Consolidated Mines, Inc.
+AMLM	American Lithium Minerals, Inc.
+ARRT	Artisan Consumer Goods, Inc.
+ARSN	Aureus Incorporated
+ASXH	NIL
+ATCC	Ameritrust Corporation
+AUMC	AURYN Mining Corporation
+AZIL	Aziel Corporation
+BGEM	Blue Gem Enterprise
+CCMN	Callahan Consolidated Mines, Inc.
+CFTN	Clifton Mining Company
+CGLD	Buscar Company
+CGRA	CGrowth Capital, Inc.
+CHCX	CTGX Mining, Inc.
+CHMN	Chester Mining Company
+CWSS	Creative Waste Solutions, Inc.
+DKMR	Xtreme Fighting Championships, Inc.
+DSCR	Discovery Minerals Ltd.
+DTRC	Dakota Territory Resource Corp.
+DYNR	DynaResource, Inc.
+ECGI	ECGI Holdings, Inc.
+ECPN	El Capitan Precious Metals, Inc.
+ESGI	Ensurge, Inc.
+ETER	Enterra Corporation
+EXPL	Endurance Exploration Group, Inc.
+FBCD	FBC Holding, Inc.
+FRMA	Firma Holdings Corp.
+FUST	Fuse Group Holding Inc.
+FUTS	Future Science Holdings Inc.
+GCHK	GreenChek Technology Inc.
+GJST	GEO JS Tech Group Corp.
+GMOLQ	General Moly, Inc.
+GRNL	Greenlite Ventures Inc.
+GRYN	Green Hygienics Holdings Inc.
+GSTX	Graphene & Solar Technologies Limited
+HKGT	
+HNTM	HuntMountain Resources Ltd.
+ICTY	EyeCity.com, Inc.
+IFAM	Infrastructure Materials Corp.
+ILST	International Star, Inc.
+IRCC	Indigenous Roots Corp.
+ISLV	International Silver, Inc.
+JPEX	JPX Global, Inc.
+LAKF	LAKE FOREST MINERALS INC
+LBSR	Liberty Star Uranium & Metals Corp.
+LFEX	Lucky Friday Extn Mining Co.
+LVCA	Lake Victoria Mining Company, Inc.
+MDMN	Medinah Minerals, Inc.
+MDMP	MDM Permian, Inc.
+MTLI	Metaline Contact Mines
+MTMW	Matmown, Inc.
+NBRI	North Bay Resources Inc.
+NILA	Nilam Resources Inc.
+NUNZ	Nunzia Pharmaceutical Corporation
+PGVI	Promithian Global Ventures, Inc.
+PHRX	Pharmagen, Inc.
+PNGM	Pengram Corporation
+QTMM	Quantum Materials Corp.
+REHB	Channel Holdings Inc.
+RFXRF	Running Fox Resource Corp.
+RITE	MineralRite Corporation
+RYMM	Royal Mines and Minerals Corp
+SDNI	Scandia, Inc.
+SGOO	Snoogoo Corp.
+SIVE	Silver Verde May Mining Co., Inc.
+SLTN	Silverton Energy, Inc.
+SRCH	Searchlight Minerals Corp.
+TMBXF	Tombstone Exploration Corporation
+TRRI	Trinity Resources Inc.
+VBVT	Viabuilt Ventures Inc.
+VRVR	Virtual Interactive Technologies Corp.
+WCYN	West Canyon Energy Corp.
+WKLN	Walker Lane Exploration, Inc.
+XLTD	Excoin Ltd
+AVOT	American Video Teleconferencing Corp.
+DGIX	Dyna Group International Inc.
+CTAMD	A.M. Castle & Co.
+MRCR	Moro Corporation
+MSBHF	Mitsubishi Corporation
+BONL	Bonal International, Inc.
+ECOX	Eco Innovation Group, Inc.\t
+KIRY	Kiewit Royalty Trust
+AMNL	Applied Minerals, Inc.
+DLCR	Kibush Capital Corporation
+JETMF	Global Crossing Airlines Group Inc.
+JRVS	iMine Corporation
+MYSN	Myson Group, Inc.
+PDDTF	Piedmont Lithium Limited
+PMPG	Premier Products Group, Inc.
+SMPR	Standard Metals Processing, Inc.
+CLEV	Concrete Leveling Systems, Inc.
+GOGR	Go Green Global Technologies Corp.
+PCTL	PCT Ltd
+PRPI	Perpetual Industries Inc.
+SIGN	Signet International Holdings, Inc.
+AMTCQ	Ameritrans Capital Corp.
+AMTPQ	Ameritrans Capital Corp. PFD PRT 9.375%
+CCGN	Consumer Capital Group, Inc
+CTON	Second Street Capital, Inc.
+FCRM	Franklin Credit Management Corporation
+MBDC	Massachusetts Business Development Corp.
+PCSO	Protective Capital Structures Corp.
+RAHGF	Roan Holdings Group Co., Ltd.
+RONWF	Roan Holdings Group Co., Ltd.
+PVNNF	P.V. Nano Cell Ltd.
+ATMS	Artemis Therapeutics Inc.
+ENCR	Ener-Core, Inc.
+ETCK	EnerTeck Corporation
+GLYE	GlyEco, Inc.
+HCGS	HighCom Global Security, Inc.
+NFTI	Nofire Technologies, Inc.
+PURE	PURE Bioscience, Inc.
+AUSI	Aura Systems, Inc.
+AXPWQ	Axion Power International, Inc.
+BYRN	Byrna Technologies Inc.
+DDDA	Digital Day Agency, Inc.
+FCELB	FuelCell Energy, Inc.
+HOKUQ	Hoku Corporation
+JUHL	Juhl Energy, Inc.
+LTHUQ	Lithium Technology Corporation
+LTSC	Lightscape Technologies, Inc.
+MCELQ	Millennium Cell, Inc.
+MHTX	Manhattan Scientifics, Inc.
+NEOV	NeoVolta Inc.
+SOTK	Sono-Tek Corporation
+UCIX	Umbra Companies Inc.
+XDSL	mPhase Technologies, Inc.
+XGEN	NexGen Holdings Corp.
+ARCW	ARC Group Worldwide, Inc.
+ORMTQ	Ormet Corporation
+TDYT	Thermodynetics Inc.
+FLRE	Flameret, Inc.
+IVDN	Innovative Designs, Inc.
+SKSK	Skookum Safety Solutions Corp.
+USGA	US Global Nanospace, Inc.
+VADP	Vado Corp.
+CUBG	C-Cube Genetics, Inc.
+GWTI	Greenway Technologies, Inc.
+HOTF	Hot Mama's Foods, Inc.
+JAMN	Jammin Java Corp.
+LATF	Latteno Food Corp.
+PRCF	Protein Reactor Combined Fuels Inc
+DSUS	Drone Services USA, Inc.
+FONU	FonU2, Inc.
+ACCR	Access-Power & Co., Inc.
+AMEN	AMEN Properties, Inc.
+ENKS	Enerkon Solar International, Inc.
+GNCP	GNCC Capital, Inc.
+IBRC	iBrands Corp.
+BMMX	Biomimix, Inc.
+DGDM	Digital Development Partners, Inc.
+DLYT	Dais Corporation
+ECRP	Chee Corp.
+KIDBQ	Kid Brands, Inc.
+OWVI	One World Ventures, Inc.
+PURA	Puration, Inc.
+QEBR	Virtual Medical International, Inc.
+SMME	SmartMetric, Inc.
+SUTI	SUTIMCo International, Inc.
+TNLX	Trans-Lux Corporation
+WTII	Water Technologies International, Inc.
+AMCCF	AMCOR PLC CDI 1:1
+SHWK	Seahawk Deep Ocean Technology, Inc.
+AEXE	Aim Exploration Inc.
+BORK	Bourque Industries, Inc.
+CTDT	Centaurus Diamond Technologies, Inc.
+MMMM	Quad M Solutions, Inc.
+OTMN	The O.T. Mining Corporation
+HHGI	Hawaiian Hospitality Group, Inc.
+ACTX	Advanced Container Technologies, Inc.
+LWLG	Lightwave Logic, Inc.
+WLAB	White Label Liquid, Inc.
+NANX	Nanophase Technologies Corporation
+PBAJ	Petro U.S.A. Inc.
+XLPI	XcelPlus International, Inc.
+AFTC	Alternative Fuel Technologies, Inc.
+AMBG	AMBG Inc.
+OMHI	OM Holdings International, Inc.
+WRGL	Warrior Girl Corp.
+AMLH	American Leisure Holdings, Inc.
+AUSAF	Australis Capital Inc.
+BWTL	Bowlin Travel Centers, Inc.
+CCHWF	Columbia Care Inc.
+SMKC	Smoke Cartel, Inc.
+WDRP	Wanderport Corporation
+ADFS	American Defense Systems, Inc.
+BPSR	Organicell Regenerative Medicine, Inc.
+EDGS	NIL
+MVXM	Moveix Inc.
+USPS	Ultimate Sports, Inc.
+DVLY	Deer Valley Corporation
+NOBH	Nobility Homes, Inc.
+SKYF	Sky440, Inc.
+ACFL	AMC Financial Holdings Inc.
+RCTC	Ready Credit Corporation
+GFMH	Goliath Film and Media Holdings
+VNUE	VNUE, Inc.
+BRSE	Broadside Enterprises, Inc.
+BTOW	Belltower Entertainment Corp.
+EMPM	Empire Post Media, Inc.
+FIFG	First Foods Group, Inc.
+HYWI	Hollywood Intermediate, Inc.
+IPNFF	ImagineAR Inc.
+MLWN	Malwin Ventures, Inc.
+MMTS	Multi-Media Tutorial Services, Inc.
+MOCI	Modern Cinema Group, Inc.
+MVES	The Movie Studio, Inc.
+NLMP	National Lampoon Inc.
+QYBX	Qian Yuan Baixing, Inc.\t
+RWMI	RegalWorks Media, Inc.
+SAPX	Seven Arts Entertainment, Inc.
+SEGI	Sycamore Entertainment Group, Inc.
+SLCH	Spotlight Capital Holdings, Inc.
+TCHC	Tech Central, Inc.
+WRIT	WRIT Media Group, Inc.
+AMFL	American Films, Inc.
+ADOM	ADOMANI, Inc.
+AMIN	American International Industries, Inc.
+ATVK	Ameritek Ventures, Inc.
+AXLE	T.J.T., Inc.
+BDIC	Blow & Drive Interlock Corporation
+CRGS	CurAegis Technologies, Inc.
+EGOC	Energy 1 Corporation
+ESWW	Environmental Solutions Worldwide, Inc.
+EVCC	Environmental Control Corp.
+HKBT	HK Battery Technology, Inc.
+HZNM	Horizon Minerals Corp.
+OMTK	Omnitek Engineering Corp.
+PFTI	Puradyn Filter Technologies, Inc.
+PLNTQ	Proliance International, Inc.
+RAFI	Regency Affiliates, Inc.
+SNSGF	Sense Technologies, Inc.
+UFMG	Universal Mfg. Co.
+USAM	U.S. Automotive Manufacturing, Inc.
+GTXMQ	Garrett Motion Inc.
+ATWT	ATWEC Technologies, Inc.
+FDOC	Fuel Doctor Holdings, Inc.
+MWWC	Marketing Worldwide Corp
+CSBI	Carroll Shelby International, Inc.
+ELIO	Elio Motors, Inc.
+GACR	Green Automotive Company
+GKIT	Greenkraft, Inc.
+MTLQU	Motors Liquidation Company GUC Trust
+ANSU	Amanasu Techno Holdings Corporation
+CMOT	Curtiss Motorcycles Company, Inc.
+CQCQ	MakingORG, Inc.
+CZNI	Cruzani, Inc.
+MTVX	APT Moto Vox Group Inc
+TRBX	TRB Systems International Inc.
+AIPG	AI Technology Group Inc.
+TLDE	Tld3 Entertainment Group, Inc.
+QRSM	QRS Music Technologies, Inc.
+ABTO	AB&T Financial Corp.
+AMBK	American Bank Incorporated
+AQFH	Aquesta Financial Holdings, Inc.
+ASCN	Absecon Bancorp
+BACRP	Bank of America Corporation PFD SER B 7%
+BCAL	Southern Calif Bancorp
+BKOR	Oak Ridge Financial Services, Inc.
+BNCC	BNCCORP, Inc.
+BOAPL	Bank of America Corporation
+BORT	Bank of Botetourt
+BSPA	Ballston Spa Bancorp, Inc.
+CBKM	Consumers Bancorp, Inc.
+CCBC	Chino Commercial Bancorp
+CCNB	Coastal Carolina Bancshares, Inc.
+CESO	NIL
+CFGW	Community Financial Group, Inc. (Spokane, WA)
+CFIC	Cornerstone Financial Corporation
+CFNB	California First National Bancorp
+CMHF	Community Heritage Financial, Inc.
+CMTV	Community Bancorp
+CNBB	CNB Community Bancorp, Inc.
+CNBP	Cornerstone Bancorp Inc.
+CNBW	CNB Corp.
+CNBZ	CNB Corporation
+CNND	Canandaigua National Corporation
+CYBA	Canyon Bancorp
+CYFL	Century Financial Corporation
+DWNX	Delhi Bank Corp.
+ENBP	ENB Financial Corp
+FBAK	First National Bank Alaska
+FBIP	FNB Bancorp, Inc.
+FBVI	FCN Banc Corp.
+FCOB	1st Colonial Bancorp, Inc.
+FCPB	First Capital Bancshares, Inc.
+FFDF	FFD Financial Corporation
+FIDS	FNB, Inc.
+FIEC	Frontier National Corp.
+FIGR	The First National Bank of Groton
+FIISO	Financial Institutions, Inc. 8.48% SRB1 PFD B
+FIISP	NIL
+FLEW	Fleetwood Bank Corporation
+FMCB	Farmers & Merchants Bancorp
+FMFB	NIL
+FMFP	First Community Financial Corporation
+FMIA	First Miami Bancorp, Inc.
+FNBE	
+FNBT	FineMark Holdings, Inc.
+FNHM	FNBH Bancorp, Inc.
+FRFC	First Robinson Financial Corporation
+FSDK	The First Citizens National Bank of Upper Sandusky
+FSRL	First Reliance Bancshares, Inc.
+GABK	Grand Bank Corp.
+HARL	Harleysville Financial Corporation
+HBIN	NIL
+HFBA	HFB Financial Corporation
+HLAN	Heartland BancCorp
+HONT	Honat Bancorp, Inc.
+IBWC	IBW Financial Corporation
+JTNB	JTNB Bancorp, Inc.
+KLIB	Killbuck Bancshares, Inc.
+LBSI	Liberty Bancshares, Inc. (Ada, OH)
+LFGP	Ledyard Financial Group, Inc.
+LPBC	Lincoln Park Bancorp.
+LSFG	Lifestore Financial Group, Inc.
+LYBC	Lyons Bancorp Inc.
+MANR	NIL
+MBVA	Millennium Bankshares Corporation
+MFGI	Merchants Financial Group, Inc.
+MNBP	Mars Bancorp, Inc.
+MSBC	Mission Bancorp
+MSLXP	MidSouth Bancorp, Inc.
+NACB	The National Capital Bank of Washington
+NCXS	NBC Bancorp, Inc.
+NEFB	Neffs Bancorp, Inc.
+NEFBP	Neffs Bancorp, Inc. PFD SER A
+NWYF	Northway Financial, Inc.
+OFSI	Omni Financial Services, Inc.
+PEBA	Penn Bancshares, Inc.
+PEBC	Peoples Bancorp, Inc.
+PGNN	Paragon Financial Solutions, Inc.
+PNBC	Princeton National Bancorp, Inc.
+PNBI	Pioneer Bankshares, Inc.
+PNCFO	NIL
+PPBN	Pinnacle Bankshares Corporation
+PUNB	NIL
+RBAZ	Republic Bank of Arizona
+SCSG	SouthCrest Financial Group, Inc.
+SLRK	Solera National Bancorp, Inc.
+SMAL	Summit Bancshares, Inc.
+SOME	Somerset Trust Holding Company
+THVB	Thomasville Bancshares, Inc.
+TMAK	Touchmark Bancshares, Inc.
+UNPA	UNB Corp.
+USBK	U.S.A Bank
+VABK	Virginia National Bankshares Corporation
+WBHC	
+WDFN	Woodlands Financial Services Company
+WGNAP	WGNB Corp. CONV PFD9% SR A
+WNRP	West Suburban Bancorp, Inc.
+IDTA	IDenta Corp.
+EGTK	Energtek, Inc.
+NICRL	NIL
+SLNG	Stabilis Solutions, Inc.
+ALTMW	NIL
+SOCGM	Southern California Gas Company PFD 6%
+SOCGP	Southern California Gas Company PFD SER A 6%
+HLTEF	Hilan Ltd.
+ACNI	American Community Newspapers Inc.
+NWDVW	GANNETT CO INC
+BIONQ	BioNitrogen Holdings Corp.
+PHOS	Phosphate Holdings, Inc.
+AWHI	ANGO World Holdings, Inc.
+CCAJ	Coastal Capital Acquisition Corp.
+CFPI	California Style Palms, Inc.
+DPBE	Deep Blue Marine, Inc.
+INAR	InternetArray, Inc.
+INTO	INITIO INC
+PTSH	PTS Inc.
+SPSO	Spectacular Solar, Inc.
+TASY	NIL
+UGEIF	UGE International Ltd.
+WTCG	W Technologies, Inc.
+ZNNC	Zann Corp.
+BIOQ	Bioqual, Inc.
+BNOW	Boon Industries Inc.
+PECD	Pet Ecology Brands, Inc.
+IAALF	IBC Advanced Alloys Corp.
+THRR	Thresher Industries, Inc.
+WTLC	Western Metals Corporation
+CATG	Capstone Technologies Group, Inc.
+ADIA	Adia Nutrition, Inc.
+AVGG	Advanced Technologies Group, Ltd.
+AVRI	Averox, Inc.
+BTAM	Ben Tam, Inc.
+BTSC	Bitcoin Services, Inc.
+GMTU	NIL
+KICK	HPN Holdings, Inc.
+KMFI	The Keller Manufacturing Company, Inc.
+LSKA	Liska Biometry, Inc.
+LTSY	Litian Group Inc.
+MKRO	Monkey Rock Group, Inc.
+NLAB	NuOncology Labs, Inc.
+RFNS	Reliant Financial Service Corp.
+SLUP	Solucorp Industries, Ltd.
+SYNJ	Day Tradexchange, Inc.
+TWSI	Tristar Wellness Solutions Inc.
+ZSYC	Smart Closet Inc.
+EMITF	Elbit Imaging Ltd.
+ABCP	AmBase Corporation
+ASZP	JV Group, Inc.
+HEME	Healthmed Services Ltd.
+MLLS	Miller Industries, Inc.
+ZDPY	Zoned Properties, Inc.
+AMLC	Amelco Corporation
+AMXX	Maxx Sports TV Inc.
+BNYN	Banyan Corp.
+CGHC	Capital Group Holdings, Inc.
+HLYK	HealthLynked Corp.
+WEQL	WellQuest Medical & Wellness Corporation
+BMCS	BioTech Medics, Inc.
+SETO	SETO Holdings, Inc.
+HOVVB	Hovnanian Enterprises, Inc.
+VNJA	Vanjia Corporation
+XTRM	Extreme Biodiesel, Inc.
+SEYE	Signature Eyewear, Inc.
+SCTC	ScoutCam Inc.
+SVSO	SheerVision, Inc.
+DEWY	The Dewey Electronics Corporation
+SGTM	Sustainable Green Team, Ltd.
+ATYG	Atlas Technology Group, Inc.
+GSPI	Green Star Products, Inc.
+AUTR	Autris
+HAIPF	Hadera Paper Ltd.
+BPMI	BPM Inc.
+INPAP	International Paper Company PFD $4
+VRSZW	VERSO CORPORATION
+IDND	International Dispensing Corporation
+ABQQ	AB International Group Corp.
+BHNGF	Bhang Inc.
+BKUH	Bakhu Holdings, Corp.
+ECPL	EcoPlus Inc.
+EIPC	Enable IPC Corporation
+EXCC	Excel Corporation
+HDVY	Health Discovery Corporation
+MGTI	MGT Capital Investments, Inc.
+MMTC	Micro Imaging Technology, Inc.
+MMTRS	Mills Music Trust
+PCOA	Pendrell Corporation
+PUPS	Pick-Ups Plus, Inc.
+RLLY	ARC Group, Inc.
+SCGY	Scientific Energy, Inc.
+SKDI	Sun Kissed Industries Inc.
+SSRC	Sentisearch, Inc.
+USBL	United States Basketball League, Inc.
+WGEI	WindGen Energy, Inc.
+CSJT	Changsheng International Group Limited
+ERGN	Ergo Science Corporation
+HTHC	NIL
+MAHI	Monarch Services, Inc.
+MDPEB	Meredith Corporation
+SOBR	SOBR Safe, Inc.
+BERI	Blue Earth Resources, Inc.
+ENGY	Central Energy Partners LP
+RVTI	Rival Technologies, Inc.
+TICJ	Tritent International Corp.
+XCAN	Yutudao Marine Biotechnology Inc.
+STOHF	Equinor ASA
+WTKN	WellTek Incorporated
+TRPXY	Therapix Biosciences Ltd.
+WIZP	Wize Pharma, Inc.
+AAGH	America Great Health
+ABMC	American Bio Medica Corporation
+ACUS	Acusphere, Inc.
+ADIWW	NIL
+AFFY	Affymax, Inc.
+AGGX	ANGIOGENEX INC
+AHROQ	AtheroNova Inc.
+AKAOQ	Achaogen, Inc.
+ALSE	Alseres Pharmaceuticals, Inc.
+ALST	Allstar Health Brands, Inc.
+AMAR	Amarillo Biosciences, Inc.
+AMBS	Amarantus BioScience Holdings, Inc.
+ANTI	Antigenics, Inc.
+AOLS	Aeolus Pharmaceuticals, Inc.
+AOXG	Aoxing Pharmaceutical Company, Inc.
+APVTW	NIL
+ARNI	Arno Therapeutics, Inc.
+ARYX	ARYx Therapeutics, Inc.
+ATLEW	NIL
+ATOWW	Atossa Genetics Inc. WT EXP 052421
+ATRX	Adhera Therapeutics, Inc.
+AVVH	AVVAA World Health Care Products, Inc.
+AVXT	AVAX Technologies, Inc.
+AXIM	AXIM Biotechnologies, Inc.
+AYTUW	AYTU BIOSCIENCE INC
+AYTUZ	AYTU BIOSCIENCE INC
+BCTXF	BriaCell Therapeutics Corp.
+BGES	BIO-BRIDGE SCIENCE INC
+BMYMP	Bristol-Myers Squibb Company PFD CONV 2
+BSPK	Bespoke Extracts, Inc.
+BTHE	Boston Therapeutics, Inc.
+CAPS	Capstone Therapeutics Corp.
+CBIA	Canopus BioPharma Incorporated
+CDXI	Cardax, Inc.
+CLCS	Cell Source, Inc.
+COTQF	Cotinga Pharmaceuticals Inc.
+CTBO	Cantabio Pharmaceuticals Inc.
+CTRVP	ContraVir Pharmaceuticals, Inc.
+CTRVW	NIL
+CURR	CURE Pharmaceutical Holding Corp.
+CVSI	CV Sciences, Inc.
+CYDY	CytoDyn Inc.
+DVAXW	
+EEGI	Eline Entertainment Group, Inc.
+ELTP	Elite Pharmaceuticals, Inc.
+EMBT	Ember Therapeutics, Inc.
+EMMA	Emmaus Life Sciences, Inc.
+EMMAW	Emmaus Life Sciences, Inc.
+ENDV	Endonovo Therapeutics, Inc.
+ENZC	Enzolytics Inc.\t
+ENZH	Enzymes America Holding Corp.
+EPRSQ	EPIRUS Biopharmaceuticals, Inc.
+EQLB	EQ Energy Drink, Inc.
+ETST	Earth Science Tech, Inc.
+FWDG	FutureWorld Corp.
+GLAXF	GlaxoSmithKline plc
+GMVPD	Gridiron BioNutrients, Inc.
+GNBT	Generex Biotechnology Corporation
+GNMSF	Genmab A/S
+GTBP	GT Biopharma, Inc.
+HRBR	Harbor Diversified, Inc.
+HSTC	HST Global, Inc.
+HXBM	Helix BioMedix, Inc.
+IAGX	Imagenetix, Inc.
+ILIM	IL2M International Corp
+IMNPQ	Immune Pharmaceuticals, Inc.
+IMUCW	ImmunoCellular Therapeutics, Ltd.
+IMUN	Immune Therapeutics, Inc.
+INBP	Integrated BioPharma, Inc.
+INNTW	NIL
+IPIX	Innovation Pharmaceuticals Inc.
+ISCO	International Stem Cell Corporation
+IVHI	Invech Holdings, Inc.
+KAST	Kasten, Inc.
+KAYS	Kaya Holdings, Inc.
+KBPH	Kyto Technology and Life Science, Inc.
+LGNDZ	LIGAND PHARMACEUTICAL INC
+LGNXZ	LIGAND PHARMACEUTICAL INC
+LGNYZ	LIGAND PHARMACEUTICAL INC
+LGNZZ	LIGAND PHARMACEUTICAL INC
+LTUS	Lotus Pharmaceuticals, Inc.
+LVGI	Limitless Venture Group Inc.
+LWEL	Luckwel Pharmaceuticals Inc.
+MCET	MultiCell Technologies, Inc.
+MDKM	MDEChem, Inc.
+MIXX	Mix1 Life, Inc.
+MRZM	Marizyme, Inc.
+MSLP	MusclePharm Corporation
+MTST	MetaStat, Inc.
+MYRX	Myrexis, Inc.
+NBIO	Nascent Biotech, Inc.
+NEUN	Neurogenesis, Inc.
+NOVNW	NOVAN INC
+NPTX	Neuropathix, Inc.
+NSPX	Inspyr Therapeutics, Inc.
+NVSEF	Novartis AG
+NXEN	Nexien BioPharma, Inc.
+OBMP	Theralink Technologies, Inc.
+OMHE	Omni Health, Inc.
+OMMH	Omnimmune Holdings, Inc.
+ONPH	Oncology Pharma Inc.
+OVIT	OncoVista Innovative Therapies, Inc.
+OWPC	One World Pharma, Inc.
+PARD	Poniard Pharmaceuticals, Inc.
+PARDP	Poniard Pharmaceuticals, Inc. PFD CV$2.4375
+PCYN	Procyon Corporation
+PKPH	Peak Pharmaceuticals, Inc.
+PKTX	ProtoKinetix, Incorporated
+PRNAF	Alterity Therapeutics Limited
+PROT	Proteonomix, Inc.
+PRTT	Protect Pharmaceutical Corporation
+PTEO	Proteo, Inc.
+PVCT	Provectus Biopharmaceuticals, Inc.
+RAFA	Rafarma Pharmaceuticals, Inc.
+RASP	Rasna Therapeutics, Inc.
+RCHA	Rich Pharmaceuticals, Inc.
+RELVD	Reliv' International, Inc.
+RGBP	Regen BioPharma, Inc.
+RGBPP	Regen BioPharma, Inc.
+RGRX	RegeneRx Biopharmaceuticals, Inc.
+RSPID	RespireRx Pharmaceuticals Inc.
+RTSL	Rapid Therapeutic Science Laboratories, Inc.
+SIGO	Sunset Island Group, Inc.
+SKVI	Skinvisible, Inc.
+SKYE	Skye Bioscience, Inc.
+SNNAQ	Sienna Biopharmaceuticals, Inc.
+SNNC	Sibannac, Inc.
+SNPX	Synaptogenix
+SNST	Sunset Capital Assets, Inc.
+SOAN	AngioSoma, Inc.
+SUVZ	Suvanza Pharma, LLC
+SYRSW	NIL
+TLFE	Elfato Inc.
+TLOG	TetraLogic Pharmaceuticals Corporation
+TRGM	Targeted Medical Pharma, Inc.
+ULUR	ULURU Inc.
+VEST	Vestiage, Inc.
+VICP	Vicapsys Life Sciences, Inc.
+WCUI	Wellness Center USA, Inc.
+WHCA	Williston Holding Company, Inc.
+WPHM	Winston Pharmaceuticals, Inc.
+WWHC	W World Corp.
+BEIGF	NIL
+KITVF	NIL
+MNKKQ	Mallinckrodt plc
+ROSGQ	Rosetta Genomics Ltd.
+DAFL	Du-Art Film Laboratories, Inc.
+HWKE	Hawkeye Systems, Inc.
+IWKS	ImageWorks Corporation
+LCLP	Life Clips, Inc.
+MPLXP	MPLX LP
+GLTC	GelTech Solutions, Inc.
+KBLB	Kraig Biocraft Laboratories, Inc.
+AGRS	Agristar, Inc.
+EQUI	EquiFin, Inc.
+AGTX	Agentix Corp.
+HXOH	Hexion Holdings Corp.
+LPHM	Lee Pharmaceuticals, Inc.
+SLMNP	A. Schulman, Inc.
+ZYRX	Zyrox Mining International, Inc.
+ABLT	American Biltrite Inc.
+AREB	American Rebel Holdings, Inc.
+BRKK	BRK, Inc.
+GETH	Green EnviroTech Holdings Corp.
+MRGE	Mirage Energy Corporation
+PHGD	Phil-Good Products, Inc
+RDVA	RDVA, Inc.
+REOP	Reo Plastics, Inc.
+TZPC	ThermaFreeze Products Corporation
+OATN	O.A.T., Inc.
+EAUI	EAU Technologies, Inc.
+FLKI	Falken Industries Ltd.
+MGON	Megola, Inc.
+PNAT	Pura Naturals, Inc.
+QSAM	QSAM Biosciences, Inc.
+CPMMF	Crystal Peak Minerals Inc.
+UPCO	Universal Potash Corp.
+JCDAF	Jacada Ltd.
+RDVWF	RadView Software Ltd.
+VBIX	Viewbix Inc.
+AASL	America's Suppliers Inc.
+ADST	ADSTAR INC
+AHGIF	Alternate Health Corp.
+AMWK	AmeriStar Network, Inc.
+ANMP	Anacomp, Inc.
+APCX	AppTech Corp.
+ASFT	AppSoft Technologies, Inc.
+ASNT	Arias Intel Corp.
+ATDS	Data443 Risk Mitigation, Inc.
+ATIW	ATI Networks, Inc.
+BRTI	BlackRidge Technology International, Inc.
+BTCS	BTCS Inc.
+BZWR	Business Warrior Corporation
+CDWD	Cloudward, Inc.
+CGLO	Coro Global Inc.
+CLIS	ClickStream Corporation
+CLOQ	Cyberloq Technologies, Inc.
+CLTY	Celerity Solutions, Inc.
+CNGFF	Change Financial Limited
+CRSM	CarSmartt, Inc.
+CTGL	Citrine Global Corp.
+CYBF	Cyberfort Software, Inc.
+CYRP	CYBRA Corporation
+DEQI	Direct Equity International, Inc.
+DPLS	DarkPulse, Inc.
+DVAR	Dovarri, Inc.
+ELRA	Elray Resources, Inc.
+EMMD	eMedia Group Inc.
+EPAZ	Epazz, Inc.
+EXBX	Exobox Technologies Corp.
+FALC	FalconStor Software, Inc.
+FCGY	Forecastagility Corporation
+FDBL	Friendable, Inc.
+FDCT	FDCTech, Inc.
+FLXI	FlexiInternational Software Inc.
+FNGR	FingerMotion, Inc.
+FRXX	Forecross Corp.
+FRZT	Freeze Tag, Inc.
+FZRO	FlashZero Corp.
+GLPT	Global Profit Technologies, Inc.
+GOPG	
+HPTO	hopTo Inc.
+IAIC	Information Analysis Incorporated
+IBSS	Integrated Business Systems & Services, Inc.
+ICCT	iCoreConnect Inc.
+ICRD	International Card Establishment, Inc.
+IDTY	Ipsidy Inc.
+IENT	iEntertainment Network, Inc.
+IFAN	IFAN Financial, Inc.
+IMKI	Immediatek, Inc.
+INLX	Intellinetics, Inc.
+INSEW	INSPIRED ENTERTAINMENT INC
+IPLY	Interplay Entertainment Corp.
+IPUB	indiePub Entertainment, Inc.
+ISGN	iSign Solutions Inc.
+ISGNW	ISIGN SOLUTIONS INC
+ITCC	InsPro Technologies Corporation
+ITOX	IIOT-OXYS, Inc.
+IVDA	Iveda Solutions, Inc.
+IWSY	ImageWare Systems, Inc.
+IZNN	IZON Network, Inc.
+KIWB	Kiwibox.Com, Inc.
+KOAN	Resonate Blends Inc.
+LAAB	Startech Labs, Inc.
+LDSN	Luduson G Inc.
+LIQDQ	Liquid Holdings Group, Inc.
+LUSI	MMA Global Inc.
+LVBX	LevelBlox, Inc.
+LWLW	Longwen Group Corp.
+MCCX	MCX Technologies Corporation
+MOST	MobileSmith, Inc.
+OBCN	Obocon, Inc.
+OBTX	OBITX, Inc.
+OIDN	Oidon Co., Ltd.
+OMWS	Omnia Wellness Inc.
+OPLF	
+OXIHF	Oxford Investments Holdings Inc.
+PCPJ	PaperClip Incorporated
+PCYS	PrimeCare Systems, Inc.
+PDPR	Marathon Group Corp.
+PLFX	Pulse Evolution Corporation
+PMSO	Primal Solutions, Inc.
+QGSI	QuantGate Systems Inc.
+RCAT	Red Cat Holdings, Inc.
+RDML	Red Mile Entertainment Inc.
+RKFL	RocketFuel Blockchain, Inc.
+RPMT	Rego Payment Architectures, Inc.
+RWWI	Rand Worldwide, Inc.
+SCDA	B-Scada, Inc.
+SDVI	Signature Devices, Inc.
+SOPK	SouthPeak Interactive Corporation
+SSFT	Sonasoft Corp.
+TAPM	Tapinator, Inc.
+TMIX	Tarsin Mobile, Inc.
+TPPM	TMPOS, Inc.
+UPYY	NIL
+VITX	Vitana-X, Inc.
+VIZC	VizConnect, Inc.
+WDDD	Worlds Inc.
+WFCF	Where Food Comes From, Inc.
+WHEN	World Health Energy Holdings, Inc.
+WRFX	WorldFlix, Inc.
+XCLL	XcelMobility, Inc.
+XFCH	X-Factor Communications Holdings, Inc.
+XROLF	Xero Limited
+YIPI	Yippy, Inc.
+ABZT	Ablaze Technologies Inc
+BEMG	Beta Music Group, Inc.
+ITVI	Interact-TV, Inc.
+LGMH	Light Media Holdings, Inc.
+SMCE	SMC Entertainment, Inc.
+SMDM	The Singing Machine Company, Inc.
+WHLX	WLMG HOLDING INC
+KOGL	Kopp Glass, Inc.
+NORNQ	Noranda Aluminum Holding Corporation
+TNRK	TNR Technical, Inc.
+DDDX	3DX Industries, Inc.
+CETY	Clean Energy Technologies, Inc.
+SCIXF	Suny Cellular Communication Ltd
+ATCD	Altair Corp.
+DLPX	Delphax Technologies Inc.
+SORT	inc.jet Holding, Inc.
+AURT	Attune RTD, Inc
+CRAWA	Crawford United Corporation
+FCUV	Focus Universal Inc.
+INIS	International Isotopes Inc.
+INVI	Integral Vision, Inc.
+QURT	Quarta-Rad, Inc.
+PHOT	GrowLife, Inc.
+OPMC	Optimum Care Corporation
+MGTC	Megatech Corp.
+SGDH	SGD Holdings, Ltd.
+CLVFA	Cloverleaf Kennel Club
+EMBR	Embarr Downs, Inc.
+GPIW	Grand Perfecta, Inc.
+IYXI	Inyx, Inc.
+RCCC	43361
+ZDEC	Zenovia Digital Exchange Corporation
+AATV	Adaptive Ad Systems, Inc.
+AIRO	Airspan Networks Inc.
+ANDR	Andrea Electronics Corporation
+CATV	4Cable TV International, Inc.
+CONC	ConectiSys Corporation
+CRLI	Circuit Research Labs, Inc.
+CRVW	CareView Communications, Inc.
+FRMB	Forum Mobile, Inc.
+GTXO	GTX Corp
+HWAL	Hollywall Entertainment, Inc.
+LTEC	LOUD Technologies Inc.
+NEIK	Northstar Electronics, Inc.
+PCST	Pure Capital Solutions Inc.
+PRKR	ParkerVision, Inc.
+PRXM	Proxim Wireless Corporation
+SOFO	Sonic Foundry, Inc.
+WGNR	Wegener Corporation
+EMMS	Emmis Communications Corporation
+IHETW	iHeartMedia, Inc.
+IHRTB	iHeartMedia, Inc.
+KVIL	Kidville, Inc.
+LSYN	Liberated Syndication Inc.
+SBSAA	Spanish Broadcasting System, Inc.
+TMGI	The Marquie Group, Inc.
+WNRC	Superhero Scramble, Inc.
+HGGGQ	hhgregg, Inc.
+UCSO	United Consortium Ltd.
+IRBL	InRob Tech Ltd.
+AERS	Aerius International, Inc.
+CLRI	Cleartronic, Inc.
+JETR	Star Jets International, Inc.
+PHRZF	Pharol, SGPS S.A.
+PTEL	Pegasus Tel, Inc.
+RMTD	Remote Dynamics, Inc.
+TLFX	Telefix Communications Holdings, Inc.
+TLLEQ	Teletouch Communications, Inc.
+VODPF	Vodafone Group Plc
+WRMA	Wiremedia, Inc.
+VNLTF	NIL
+MAGP	Magplane Technology, Inc.
+AWRY	Allegheny and Western Railway Company
+DMRR	Dayton & Michigan Railroad Co.
+DMRRP	Dayton & Michigan Railroad Co. PFD 8%
+MDXL	MediXall Group, Inc.
+ACMC	American Church Mortgage Company
+ALPC	Alpha Investment Inc.
+AOXY	Advanced Oxygen Technologies, Inc.
+BRER	Bresler & Reiner, Inc.
+BRRE	Blue Ridge Real Estate Company
+BRST	MedAmerica Properties Inc.
+BTHR	Sports Venues of Florida, Inc.
+BTLN	Brightlane Corp.
+BVHBB	Bluegreen Vacations Holding Corporation
+CBYI	Cal Bay International, Inc.
+CCOB	Century Cobalt Corp.
+CEXE	Circle Entertainment Inc.
+CVHL	CV Holdings, Inc.
+DEVM	DevMar Equities, Inc.
+DUTV	Digital Utilities Ventures, Inc.
+ENTI	Encounter Development Technologies Inc.
+FAVO	Favo Realty, Inc.
+FHRT	First Hartford Corporation
+FRFR	Fritzy Tech Inc.
+GADS	Gadsden Properties, Inc.
+GMPW	GiveMePower Corporation
+GORL	Gordon (I.) Corp.
+GSFI	Green Stream Holdings Inc.
+HCGI	Huntwicke Capital Group Inc.
+IVCO	Investco Corporation
+JRIV	JAMES RIVER HOLDINGS CORP
+LPTC	Le@p Technology, Inc.
+LVDW	NIL
+MAJJ	Michael Anthony Holdings, Inc.
+MCAP	Mango Capital, Inc.
+MSPC	Metrospaces, Inc.
+NIHK	Video River Networks, Inc.
+NXCR	
+OMAGQ	Omagine, Inc.
+OMVE	Omni Ventures, Inc.
+PGAI	PGI Incorporated
+PRRE	Praetorian Property, Inc.
+SDAD	SH Resources & Development Corp.
+SFEF	Santa Fe Financial Corporation
+SRUS	Stratus Capital Corp.
+STHC	SouthCorp Capital, Inc.
+STMH	Stem Holdings, Inc.
+VTNA	VetaNova Inc.
+WBQNL	Woodbridge Liquidation Trust
+XMEX	Xemex Group, Inc.
+YRIV	Yangtze River Port and Logistics Limited
+GZTGF	Gazit Globe Ltd
+CDJM	Carnegie Development, Inc.
+CDNO	Consolidated Capital of North America, Inc.
+LIGA	LIG Assets, Inc.
+MPVR	NIL
+NOVC	Novation Companies, Inc.
+RDCO	Redefy Corporation
+REAC	REAC Group, Inc.
+SGOU	Strong Solutions, Inc.
+TPRP	Tower Properties Company
+XNDA	NIL
+EGXP	Eagle Exploration Co.
+UCASU	UC Asset, LP
+BELP	Belpointe REIT, Inc.
+BMNM	Bimini Capital Management, Inc.
+BUUZ	CalEthos, Inc.
+CBLAQ	CBL & Associates Properties, Inc.
+CBLDQ	CBL & Associates Properties, Inc.
+CBLEQ	CBL & Associates Properties, Inc.
+DVLN	DVL, Inc.
+ECRO	ECC Capital Corporation
+ELCI	Eastern Light Capital, Incorporated
+FREVS	First Real Estate Investment Trust of New Jersey
+GBCS	Global Healthcare REIT, Inc.
+GIPR	NIL
+HGPI	Horizon Group Properties, Inc.
+HLTC	NIL
+IMPHO	Impac Mortgage Holdings, Inc.
+IMPHP	Impac Mortgage Holdings, Inc.
+JERT	JER Investors Trust Inc.
+LANPP	Gladstone Land Corporation
+MRTI	Maxus Realty Trust, Inc.
+PDNLA	Presidential Realty Corporation
+PDNLB	Presidential Realty Corporation
+PLDGP	Prologis, Inc.
+PRLE	Pillarstone Capital REIT
+PTTTS	Palmetto Real Estate Trust
+STLY	HG Holdings, Inc.
+VNORP	Vornado Realty Trust
+VRTA	Vestin Realty Mortgage I, Inc
+VRTB	Vestin Realty Mortgage II, Inc.
+WPTIF	WPT Industrial Real Estate Investment Trust
+AVOA	Avoca LLC
+BKSH	BERKSHIRE HOMES INC
+FTPM	420 Property Management, Inc.
+UPOW	NIL
+SINX	Sionix Corp.
+WTNW	Water Now, Inc.
+AWGI	Ambient Water Corporation
+CNGA	Conair Corporation
+EAWD	Energy and Water Development Corp.
+WFCNP	Wells Fargo & Company PFD DIV EQUALIZ
+ALAN	Alanco Technologies, Inc.
+DLOC	Digital Locations, Inc.
+EWST	E-Waste Corp.
+MCIM	Macau Capital Investments, Inc.
+PRTR	Precicion Trim, Inc.
+ESTRF	Estre Ambiental, Inc.
+ESTWF	Estre Ambiental, Inc.
+STHI	Sprout Tiny Homes, Inc.
+ASNAQ	Ascena Retail Group, Inc.
+EXLA	Helmer Directional Drilling Corp.
+FRANQ	Francesca's Holdings Corporation
+HLWD	Almost Never Films Inc.
+AZRH	Azure Holding Group Corp.
+EVOA	EVO Transportation & Energy Services, Inc.
+LAZYW	Lazydays Holdings, Inc.
+NWAU	Consumer Automotive Finance, Inc.
+WRRI	Wari, Inc.
+KXINW	Kaixin Auto Holdings
+FFPM	FFP Marketing Company, Inc.
+HWIN	Hometown International, Inc.
+AMHG	Amergent Hospitality Group, Inc.
+BBUCQ	Big Buck Brewery & Steakhouse, Inc.
+BCCI	Baristas Coffee Company, Inc.
+GIGL	Giggles N' Hugs, Inc.
+HVCW	Harrison Vickers and Waterman Inc.
+KITL	Kisses From Italy Inc.
+RIBS	Southern Concepts Restaurant Group, Inc.
+SPYR	SPYR, Inc.
+WINR	Simplicity Esports and Gaming Company
+WINRW	Simplicity Esports and Gaming Company
+ANVI	NIL
+GPDB	Green PolkaDot Box Incorporated
+GSRX	GSRX Industries Inc.
+MJDS	Mojo Data Solutions, Inc.
+ZVTK	Zevotek, Inc.
+BCRD	Blueone Card Inc.
+TTSH	Tile Shop Holdings, Inc.
+AASP	All-American Sportpark, Inc.
+ACRDF	Acreage Holdings, Inc.
+ACRHF	Acreage Holdings, Inc.
+CLSH	CLS Holdings USA, Inc.
+CLWD	CloudCommerce, Inc.
+CMXC	Cell MedX Corp.
+FGPRQ	Ferrellgas Partners, L.P.
+FUTL	FutureLand, Corp.
+GWIN	Glorywin Entertainment Group, Inc.
+INTV	Integrated Ventures, Inc.
+ITHUF	iAnthus Capital Holdings, Inc.
+OGNT	Organa Technologies Group, Inc.
+SUFF	Ophir Resources Co.
+WCRS	Western Capital Resources, Inc.
+WPUR	WaterPure International, Inc.
+IDLM	Idle Media, Inc.
+AGTK	Agritek Holdings, Inc.
+BOXS	BoxScore Brands, Inc.
+BRAV	BRAVADA International Ltd
+HBIS	Home Bistro Inc.
+JRJRQ	JRjr33, Inc.
+MSTO	Masterbeat Corporation
+PDIV	Premier Development & Investment, Inc.
+SING	SinglePoint, Inc.
+SMGE	NIL
+SPLY	SocialPlay USA, Inc.
+TXGE	Texas Gulf Energy, Incorporated
+WORC	Wake Up Now, Inc.
+WSCO	Wall Street Media Co., Inc.
+BXXY	Boxxy Inc.
+ALTB	Balincan International Inc.
+CHNO	Chill N Out Cryotherapy, Inc.
+FPVD	Force Protection Video Equipment Corp.
+GBPT	Globe Photos, Inc.
+JADG	Jade Global Holdings, Inc.
+MRNJ	Metatron, Inc.
+MSSV	Meso Numismatics, Inc.
+NWMH	National Waste Management Holdings, Inc.
+VTEQ	VeriTeQ Corporation
+TCGN	Technology General Corporation
+IVST	Innovest Global, Inc.
+QEDN	QED Connect, Inc.
+ECEZ	Ecosciences, Inc.
+GERS	GreenShift Corporation
+GHST	Ghost Technology Inc
+IPWG	INTERNATIONAL POWER GROUP LTD
+YSGG	1399 Internet Technology Application Group Inc.
+MMMB	MamaMancini's Holdings, Inc.
+SMMR	Symmetry Technologies Inc.
+FBSI	First Bancshares, Inc.
+GFCJ	Guaranty Financial Corporation
+HLFN	Home Loan Financial Corporation
+HWIS	Home Bancorp Wisconsin, Inc.
+KSBI	KS Bancorp, Inc.
+LNXW	
+MLGF	Malaga Financial Corporation
+PFOH	Perpetual Federal Savings Bank
+QNTO	Quaint Oak Bancorp, Inc.
+RYFL	Royal Financial, Inc.
+TBBA	TEB Bancorp, Inc
+TDCB	Third Century Bancorp
+VERF	Versailles Financial Corporation
+USRI	USA Recycling Industries, Inc.
+FSCR	Federal Screw Works
+AERG	Applied Energetics, Inc.
+AERGP	NIL
+AJXGF	AgJunction Inc.
+GLEC	Global Ecology Corp.
+HSFI	Homeland Safety International, Inc.
+LBAS	Location Based Technologies, Inc.
+PSSR	PASSUR Aerospace, Inc.
+GLBR	Global Brokerage, Inc.
+MGHL	Morgan Group Holding Co.
+ONCP	
+SOHL	Southern Trust Securities Holding Corp.
+TRAC	Track Data Corporation, Inc.
+FORW	Forwardly Inc.
+OTCM	OTC Markets Group Inc.
+EZTD	EZTD Inc.
+CPFH	Capital Financial Holdings, Inc.
+CWGRP	Cowen Inc.
+DMCD	Detwiler Fenton Group, Inc.
+LHHMQ	LEHMAN BROS HLDGS CAP TST V
+LTSA	Ladenburg Thalmann Financial Services Inc.
+LTSF	Ladenburg Thalmann Financial Services Inc. 7.00% SN NT 28
+LTSH	LADENBURG THALMANN FINL SERVS I
+LTSK	LADENBURG THALMANN FINL SERVS I
+LTSL	Ladenburg Thalmann Financial Services Inc. 6.50% NT 27
+MERR	Merriman Holdings, Inc.
+WNMLA	Winmill & Co. Incorporated
+WSFL	Woodstock Holdings, Inc.
+ABPR	Airborne Security & Protective Services, Inc.
+IDIG	International Digital Holding Inc.
+MTLK	Metalink Ltd.
+OTIVF	On Track Innovations Ltd.
+GTAT	GT Advanced Technologies Inc.
+HDIH	H-D International Holdings Group
+HOOB	Holobeam, Inc.
+ISUNW	The Peck Company Holdings, Inc.
+MPAD	Micropac Industries, Inc.
+MTNX	Meltronix, Inc.
+NLST	Netlist, Inc.
+NMGC	NeoMagic Corporation
+ODII	Odyssey Semiconductor Technologies, Inc.
+POETF	POET Technologies Inc.
+SODI	Solitron Devices, Inc.
+SOEN	Solar Enertech Corp.
+SPCO	The Stephan Co.
+ALPE	alpha-En Corporation
+BSEG	Big Screen Entertainment Group, Inc.
+GBXI	GBX International Group Inc.
+GRCV	Grand Capital Ventures, Inc.
+MMEX	MMEX Resources Corporation
+RGMP	Regnum Corp.
+AMCY	ACS Global, Inc.
+CNXS	Connexus Corporation
+ILDO	International Daleco Corp.
+ITNS	Itonis, Inc.
+PBHG	PBS Holding, Inc.
+PERL	Perla Group International, Inc.
+SNTX	Suntex Enterprises, Inc.
+STGZ	Stargaze Entertainment Group Inc.
+WGIH	WGI Holdings, Inc.
+ADMQ	ADM Endeavors, Inc.
+ADTM	Adaptive Medias, Inc.
+ADTY	Adtegrity.com International, Inc.
+BLIS	Treasure & Shipwreck Recovery, Inc.
+CMGO	CMG Holdings Group, Inc.
+COFI	Credit One Financial, Inc.
+EAIN	Enabling Asia, Inc.
+IRME	IR-Med Inc.
+KNIT	Kinetics Group, Inc.
+MMND	Mastermind, Inc.
+MOBQ	Mobiquity Technologies, Inc.
+OSCN	OneScreen Inc.
+PTAM	Potash America, Inc.
+QPSF	QPS Die Cutters and Finishers Corp.
+SLNM	Salon Media Group, Inc.
+SMAA	SMA Alliance, Inc.
+SURG	SurgePays, Inc.
+TGLO	theglobe.com, inc.
+TREP	Trucept, Inc.
+UCPA	United Communications Partners Inc.
+WWIO	Wowio, Inc.
+ACBM	Acro Biomedical Co., Ltd.
+AESEW	NIL
+AFOM	All For One Media Corp.
+CMGR	Clubhouse Media Group Inc.
+CRVH	Chilco River Holdings, Inc.
+ECXJ	CXJ Group Co., Limited
+FFZY	Fansfrenzy Corporation
+FUGI	Fuego Enterprises, Inc.
+GLXZ	Galaxy Gaming, Inc.
+HITC	Healthcare Integrated Technologies, Inc.
+KNBA	Kinbasha Gaming International, Inc.
+LINUF	LiNiu Technology Group
+MLFB	Major League Football, Inc.
+PRXIQ	Premier Exhibitions, Inc.
+RCMH	Reach Messaging Holdings, Inc.
+SAKL	Sack Lunch Productions, Inc.
+SCRH	Scores Holding Company, Inc.
+SFRX	Seafarer Exploration Corp.
+WIZD	Wizard Entertainment, Inc.
+HTZGQ	Hertz Global Holdings, Inc.
+PTSS	Enigma-Bulwark, Limited
+STNT	Stevia Nutra Corp
+CRLKP	Central Parking Finance Trust PFD TR CV SECS
+SPMI	Speedemissions, Inc.
+ADVC	Advant-e Corp.
+AHAHF	Design Milk Co Limited
+AIFS	Agent Information Software, Inc.
+AYRWF	Ayr Strategies Inc.
+BHPA	BHPA Inc.
+CGUD	Com-Guard.com, Inc.
+CLOW	Cloudweb, Inc.
+COCM	Comerton Corp.
+DGIF	D7 Enterprises Inc.
+DPSI	Decisionpoint Systems, Inc.
+DPSIP	Decisionpoint Systems, Inc.
+EVTI	Eventure Interactive, Inc.
+FDIT	Findit, Inc.
+FMHS	Farmhouse, Inc
+GAWK	Gawk Incorporated
+GIFX	GIFA, Inc.
+GRMM	Grom Social Enterprises, Inc.
+IMCI	Infinite Group, Inc.
+IMHC	Imperalis Holding Corp.
+KLDI	KLDiscovery Inc.
+KLDIW	NIL
+LTCP	Life's Time Capsule Services, Inc.
+MSMY	MC Endeavors, Inc.
+MSNI	Mon Space Net Inc.
+MSRT	MassRoots, Inc.
+SLLN	Searchlight Solutions Ltd.
+SOUG	Sou 300 Group Holding Company
+VMSI	Vita Mobile Systems, Inc.
+VSMR	Verify Smart Corp.
+WEWA	Wewards, Inc.
+XSPT	XSport Global, Inc.
+LOVA	NIL
+HALN	Halo Companies, Inc.
+TCNT	Toucan Interactive Corp.
+AMCT	American Education Center, Inc.
+CIIX	Chineseinvestors.com, Inc.
+CINV	Crucial Innovations, Corp.
+CLCN	Creative Learning Corporation
+DPWW	Diego Pellicer Worldwide, Inc.
+DREM	Dream Homes & Development Corporation
+EOSI	EOS International, Inc.
+ESINQ	ITT Educational Services, Inc.
+EVCI	EVCI Career Colleges Holding Corp.
+GJCU	GJ Culture Group US, Inc.
+HQGE	HQ Global Education Inc.
+KUSA	
+LEAI	Legacy Education Alliance, Inc.
+LTRE	Learning Tree International, Inc.
+NAUH	National American University Holdings, Inc.
+NOHO	Dragon Life Science Holdings Group, Inc.
+OTED	Oak Tree Educational Partners, Inc.
+PBYA	ProBility Media Corporation
+PCSV	PCS Edventures!.com, Inc.
+PEDH	Mastery Education
+SIBE	Sibling Group Holdings, Inc.
+TDCH	30DC, Inc.
+TIGE	Tigrent Inc.
+WARM	Cool Technologies, Inc.
+NICH	Nitches Inc.
+TLED	Curtis Mathes Corporation
+UNEX	Unex Holdings Inc.
+ACNV	Accelera Innovations, Inc
+AMIH	American International Holdings Corp.
+BSEM	BioStem Technologies, Inc.
+ECSL	EncounterCare Solutions, Inc.
+IHAI	Innovative Holdings Alliance, Inc.
+KLGG	Klegg Electronics, Inc.
+SHOM	Southern Home Medical, Inc.
+EXCL	Excellerant, Inc.
+CTVEF	Certive Solutions Inc.
+LLBO	Lifeline Biotechnologies, Inc.
+SPIN	Spine Injury Solutions, Inc.
+PSCR	Proto Script Pharmaceutical Corp.
+VGREF	VIASPACE Green Energy Inc.
+VSPC	VIASPACE Inc.
+BRTX	BioRestorative Therapies, Inc.
+CCEL	Cryo-Cell International, Inc.
+CMPD	CompuMed, Inc.
+CRYO	American CryoStem Corporation
+DPAT	Dental Patient Care America, Inc.
+ELNX	Elinx Corp.\t
+GNOW	American Caresource Holdings, Inc.
+PASO	Patient Access Solutions, Inc.
+PFHO	Pacific Health Care Organization, Inc.
+BLAB	Bio Lab Naturals, Inc.
+BRVO	Bravo Multinational Incorporated
+BUKS	Butler National Corporation
+CRKT	Cirmaker Technology Corporation
+EFLS	Exercise For Life Systems, Inc.
+EVUS	EV Charging USA, Inc.
+FCNE	Four Corners, Inc.
+HWSY	Hawk Systems, Inc.
+KENS	Kenilworth Systems Corp.
+LTFD	Littlefield Corporation
+PRKA	Parks! America, Inc.
+RIII	Renavotio, Inc.
+TBTC	Table Trac, Inc.
+VIVC	Vivic Corp.
+WCVC	West Coast Ventures Group Corp.
+WSGF	WSOG LLC
+APPDW	NIL
+ARMC	Asiarim Corporation
+CBDD	CBD of Denver Inc.
+CBDL	CBD Life Sciences Inc.
+CCTL	Coin Citadel
+CEOA	CEO America, Inc.
+CMTX	COMTEX News Network, Inc.
+COGV	Cognitiv, Inc.
+DTHR	Dthera Sciences
+EARI	Entertainment Arts Research Inc.
+EVSV	Enviro-Serv, Inc.
+FFNTF	4Front Ventures Corp.
+FRNV	Frontera Investment, Inc.
+GCLT	GainClients, Inc.
+GLCO	Global Links Corp.
+GNAL	Generation Alpha, Inc.
+GRCU	Green Cures & Botanical Distribution Inc.
+GSML	G&S Minerals, Inc.
+HAON	Halitron, Inc.
+HMNY	Helios and Matheson Analytics Inc.
+HUBV	HUBB Ventures, Inc.
+INCC	International Consolidated Companies, Inc.
+KNKT	Kunekt Corporation
+KRPI	KRIPTECH INTERNATIONAL CORP
+MRPT	MacReport.Net, Inc.
+PGLO	Pan Global Corp.
+PUBC	PureBase Corporation
+RMRI	
+SCTY	Monitronics International, Inc.
+SPEC	SpectralCast, Inc.
+AMMX	AmeraMex International, Inc.
+CPSO	CapSource Financial, Inc.
+LEAS	Strategic Asset Leasing Inc.
+WSCTW	NIL
+ARECW	NIL
+EVIO	EVIO, Inc.
+SVTE	Service Team Inc.
+GAXY	Galaxy Next Generation, Inc.
+AJIA	Ajia Innogroup Holdings, Ltd.
+ARPC	Arem Pacific Corporation
+ASCC	Aristocrat Group Corp.
+CATI	Clone Algo Technologies Inc.
+DLTI	DLT Resolution Inc.
+DSOL	Drug Free Solution, Inc.
+ECMT	Ecomat Inc.
+JNSH	JNS Holdings Corporation
+KMWE	KM Wedding Events Management, Inc.
+MNMT	Motivating the Masses, Inc.
+MTXS	Matches, Inc.
+MXMG	Maxima Group Inc.
+RMSL	REMSleep Holdings, Inc.
+RWRDP	iConsumer Corp.
+SLBG	Slinger Bag Inc.
+SRMX	Saddle Ranch Media, Inc.
+YOGAQ	YogaWorks, Inc.
+SIGP	NIL
+CBMJ	Conservative Broadcast Media & Journalism Inc.
+GPOX	GPO Plus, Inc.
+NUGL	NUGL, Inc.
+SMKG	Smart Card Marketing Systems Inc.
+HQDA	HQDA Elderly Life Network Corp.
+CRWTF	Crow Technologies 1977 Ltd.
+WLAN	Wialan Technologies, Inc.
+EVSP	Environmental Service Professionals, Inc.
+FDFT	Foodfest International 2000 Inc.
+YGTYF	SSLJ.com Limited
+GBBT	Global Boatworks Holdings, Inc.
+JMIH	Jupiter Marine International Holdings, Inc.
+CNRD	Conrad Industries, Inc.
+ACBD	Annabidiol Corp.
+BEGI	BlackStar Enterprise Group, Inc.
+CFGX	Capital Financial Global, Inc.
+HBTC	Harbourton Capital Group, Inc.
+JMON	James Monroe Capital Corporation
+LTMP	Alltemp, Inc.
+NFSE	nFinanSe Inc.
+PMTS	CPI Card Group Inc.
+ASLM	American Silver Mining Co.
+DVCR	Diversicare Healthcare Services, Inc.
+BMRK	Benchmark Energy Corporation
+FTEG	For The Earth Corp.
+GYSN	Greyson International, Inc.
+HPTN	Happy Town Holdings Inc.
+IPLB	iPure Labs, Inc.
+KYZN	Kyzen Corp.
+SDTCD	GivBux, Inc.
+TOOD	Thermwood Corporation
+AACS	American Commerce Solutions, Inc.
+EVTN	Enviro Technologies U.S., Inc.
+GLGI	Greystone Logistics, Inc.
+NYLE	Nyle International Corp.
+STRB	Strasbaugh
+TNRG	Thunder Energies Corporation
+LAACZ	LAACO, Ltd.
+BICX	BioCorRx Inc.
+CEVE	Ceres Ventures, Inc.
+USNU	U.S. NeuroSurgical Holdings, Inc.
+ZICX	Zicix Corporation
+BWMG	Brownie's Marine Group, Inc.
+JKRO	Jakroo Inc.
+NSPT	Newron Sport
+QSMG	Quest Management Inc.
+XFTB	XFit Brands, Inc.
+ENCW	Enchanted World Inc.
+BOLL	Alliance Sports Group, L.P.
+ODRS	NIL
+ACBCQ	Albina Community Bancorp
+AMBZ	American Business Bank
+ARBV	American Riviera Bank
+ATFS	
+BAYK	Bay Banks of Virginia, Inc.
+BBME	BORDER BANCSHARES INC/ME
+BERK	Berkshire Bancorp Inc.
+BFCC	BankFirst Capital Corporation
+BFTL	The Bank of Fincastle
+BHDB	Bank of Labor Bancshares, Inc.
+BHWB	Blackhawk Bancorp, Inc.
+BKUT	Bank of Utica
+BKUTK	Bank of Utica
+BKYT	NIL
+BMBN	Benchmark Bankshares, Inc.
+BOID	Bank of Idaho Holding Company
+BOLB	BOL Bancshares Inc.
+BOLBP	BOL Bancshares Inc. PFD
+BPOPO	Popular, Inc.
+BRBW	Brunswick Bancorp
+BSCA	Bank of Santa Clarita
+BSFO	Bank of San Francisco
+BSSC	Bank of Southside Virginia Corporation, The
+CAPB	CapitalSouth Bancorp.
+CBFC	CNB Financial Services, Inc.
+CBHC	CBC HOLDING COMPANY
+CBMI	CSB Bancorp Inc.
+CBOBA	Bay Community Bancorp
+CBOF	CBOA Financial, Inc.
+CBSI	
+CBWA	Commencement Bancorp Inc.
+CCBK	NIL
+CCFN	CCFNB Bancorp, Inc.
+CEFC	Commercial National Financial Corporation
+CFOK	Community First Bancorporation
+CHBH	Croghan Bancshares, Inc.
+CIBH	CIB Marine Bancshares, Inc.
+CIWV	Citizens Financial Corp.
+CKCB	Clark County Bancorporation
+CMRB	First Commerce Bank
+CNAF	Commercial National Financial Corporation
+CNBKB	Century Bancorp, Inc.
+CNUN	Community Bancshares, Inc. (McArthur, OH)
+COSO	CoastalSouth Bancshares, Inc.
+CPKB	NIL
+CSBB	CSB Bancorp, Inc.
+CSHX	Cashmere Valley Bank
+CTDN	186
+CYSM	Community Bancorp of Santa Maria
+CZBC	Citizens Bancorp
+CZBS	Citizens Bancshares Corporation
+CZBT	Citizens Bancorp of Virginia, Inc.
+CZFS	Citizens Financial Services, Inc.
+CZNB	Citizens Bancorp (Nevada City, CA)
+DBIN	Dacotah Banks, Inc.
+DIMC	Dimeco, Inc.
+DMKBA	Denmark Bancshares, Inc.
+DMKBB	Denmark Bancshares, Inc.
+DMNB	Diamond Bancshares, Inc.
+DSBX	Dogwood State Bank
+EASB	
+EBSH	Empire Bancshares, Inc.
+EDVR	Endeavor Bank
+EFSI	Eagle Financial Services, Inc.
+EMYB	Embassy Bancorp, Inc.
+EXCH	Exchange Bankshares, Inc.
+EXSR	Exchange Bank (Santa Rosa, CA)
+FABP	Farmers Bancorp (Frankfort IN)
+FAHE	The Fahey Banking Company
+FBPRL	First BanCorp. PFD PERP SER E
+FBPRM	First BanCorp.
+FBPRN	First BanCorp.
+FBPRO	First BanCorp. PFD PERP B 8.35%
+FBPRP	First BanCorp. PFD A 7.125%
+FBVA	Farmers Bankshares, Inc.
+FCNCB	First Citizens BancShares, Inc.
+FETM	Fentura Financial, Inc.
+FFMH	First Farmers and Merchants Corporation
+FHBI	First Home Bancorp, Inc.
+FISB	1st Capital Bancorp
+FIZN	First Citizens Bancshares, Inc.
+FKYS	First Keystone Corporation
+FMBM	F & M Bank Corp.
+FMBN	Farmers & Merchants Bancshares, Inc. (Burlington, IA)
+FMFG	Farmers and Merchants Bancshares, Inc.
+FMOO	F&M Bancorp
+FNSB	FNS Bancshares, Inc.
+FOTB	First Ottawa Bancshares, Inc.
+FRSB	First Resource Bank
+FSBB	NIL
+FSMK	1ST SUMMIT BANCORP of Johnstown, Inc.
+FSTF	First State Financial Corporation
+FXLG	FS Bancorp
+GNRV	Grand River Commerce, Inc.
+GRRB	GrandSouth Bancorporation
+GRRBP	GrandSouth Bancorporation PFD SER A
+HABC	Habersham Bancorp
+HBIA	Hills Bancorporation
+HBSI	Highlands Bankshares, Inc.
+HCKG	Hocking Valley Bancshares Inc.
+HFBK	Harford Bank
+HMLN	Hamlin Bank & Trust Co. (Smethport, PA)
+HRBK	Harbor Bankshares Corporation
+HSBI	Heritage Southeast Bancorporation Inc.
+HVLM	Huron Valley Bancorp, Inc.
+HWEN	Home Financial Bancorp
+IBTN	InsCorp, Inc.
+IDFB	Idaho First Bank
+IFHI	Integrated Financial Holdings, Inc.
+ILCM	
+INBC	InBankshares, Corp
+ISBA	Isabella Bank Corporation
+JDVB	JD Bancshares Inc.
+JFBC	Jeffersonville Bancorp
+JMSB	John Marshall Bancorp, Inc.
+JNES	Jonestown Bank & Trust Co.
+JUVF	Juniata Valley Financial Corp.
+KTYB	Kentucky Bancshares, Inc.
+LUMB	Lumbee Guaranty Bank
+MBLU	Morris State Bancshares, Inc.
+MBOF	Marine Bancorp of Florida, Inc.
+MCBI	Mountain Commerce Bancorp, Inc.
+MCHB	Mechanics Bank
+MFBP	M&F Bancorp, Inc.
+MNAT	Marquette National Corporation
+MNBO	MNB Holdings Corporation
+NCNB	Northern California National Bank
+NIDB	Northeast Indiana Bancorp, Inc.
+NRLB	Northern California Bancorp, Inc.
+NSBK	Northern Star Financial Inc.
+NWPP	New Peoples Bankshares, Inc.
+NXTYQ	Nexity Financial Corporation
+OHBK	Old Harbor Bank
+ORPB	Oregon Pacific Bancorp
+OSBK	Oconee Financial Corporation
+OXBC	Oxford Bank Corporation
+PBKC	Pioneer Bankcorp, Inc.
+PBKX	Partners Bank of California
+PBNK	Pinnacle Bank
+PCBN	Piedmont Community Bank Group, Inc.
+PCLB	Pinnacle Bancshares, Inc.
+PFBX	Peoples Financial Corporation
+PKKW	Parkway Acquisition Corp.
+PMHG	Prime Meridian Holding Company
+PONB	Pioneer Bancshares, Inc.
+PONT	Pontiac Bancorp, Inc.
+PSBP	PSB Holding Corp.
+PSBQ	PSB Holdings, Inc.
+PTBS	Potomac Bancshares, Inc.
+PVBK	Pacific Valley Bank
+QNBC	QNB Corp.
+QRRY	Quarry City Savings & Loan Association
+RPFG	Rainier Pacific Financial Group Inc.
+RSAM	Rising Sun Bancorp
+RVCB	River Valley Community Bancorp
+RVRF	River Financial Corporation
+SABK	South Atlantic Bancshares, Inc.
+SBKK	Suncrest Bank
+SBKO	Summit Bank Group, Inc.
+SBKT	NIL
+SBNCM	Southern BancShares (N.C.), Inc. PFD CV B
+SBNCN	Southern BancShares (N.C.), Inc. PFD CL C
+SCZC	Santa Cruz County Bank
+SEBC	Southeastern Banking Corporation
+SFDL	Security Federal Corporation
+SGBG	Signature Bank of Georgia
+SNNY	Sunnyside Bancorp, Inc.
+SOBS	Solvay Bank Corp.
+SOMC	Southern Michigan Bancorp, Inc.
+SOUB	SouthPoint Bancshares, Inc.
+SQCF	Susquehanna Community Financial, Inc.
+SRYB	Surrey Bancorp
+SVRH	Sevier County Bancshares, Inc.
+TCNB	Town Center Bank
+TGRF	TGR Financial, Inc.
+TRCY	Tri City Bankshares Corporation
+TSBA	Touchstone Bankshares Inc.
+TSFGN	NIL
+TYFG	Tri-County Financial Group, Inc.
+UBAB	United Bancorporation of Alabama, Inc.
+UWHR	Uwharrie Capital Corp
+WBBW	Westbury Bancorp, Inc.
+WBZB	Washington Business Bank
+WRIV	White River Bancshares Co
+WSFGQ	WSB Financial Group, Inc.
+YRKB	York Traditions Bank
+WEBC	Webco Industries, Inc.
+EVRC	Evercel, Inc.
+TPII	Triad Pro Innovators, Inc.
+LGNC	Logan Clay Products Company
+ASPZ	Asia Properties, Inc.
+BPCP	Bishop Capital Corp.
+CDVM	Carson Development Corporation
+EVLI	Everlert, Inc.
+FGNV	Forge Innovation Development Corp.
+ILAL	International Land Alliance, Inc.
+KANP	Kaanapali Land, LLC
+MNPP	Merchants' National Properties, Inc.
+PRSI	Portsmouth Square, Inc.
+VINO	Gaucho Group Holdings, Inc.
+WCCP	Wealthcraft Capital, Inc.
+WCHS	Winchester Holding Group
+AHFD	Active Health Foods, Inc.
+LVVV	Livewire Ergogenics, Inc.
+NGTF	NightFood Holdings, Inc.
+NXTH	NXT Nutritionals Holdings, Inc.
+PARF	Paradise, Inc.
+PLPRF	Plus Products Inc.
+TROLB	Tootsie Roll Industries, Inc.
+ACMT	ACMAT Corporation
+ACMTA	ACMAT Corporation
+SYCRF	Syncora Holdings Ltd.
+IGAP	Integrity Applications, Inc.
+MTTCF	Meat-Tech 3D Ltd
+OWCP	OWC Pharmaceutical Research Corp.
+ADYX	Adynxx, Inc.
+AMDDW	NIL
+ARBI	Arbios Systems, Inc.
+ARTH	Arch Therapeutics, Inc.
+ASFX	American Scientific Resources, Incorporated
+ASNB	EKIMAS Corporation
+ATAO	Altair International Corp.
+AURX	Nuo Therapeutics, Inc.
+AVHHL	AVITA Medical, Inc.
+AVMR	AVRA Medical Robotics, Inc.
+AVTD	
+BRSF	Brain Scientific Inc.
+BTCY	Biotricity, Inc.
+CPYT	CarePayment Technologies, Inc.
+CTTC	Calmare Therapeutics Incorporated
+CYDX	CYduct Diagnostics, Inc.
+ECIA	Encision Inc.
+EMDF	XL Rent, Inc.
+EMED	Electromedical Technologies, Inc.
+FSMEM	Fresenius Medical Care Holdings, Inc. PFD 6%
+FSMEN	Fresenius Medical Care Holdings, Inc. PFD CL B 8%
+FSMEO	Fresenius Medical Care Holdings, Inc. PFD CL A 8
+GMMVF	G Medical Innovations Holdings Ltd
+HCYT	H-CYTE, Inc.
+IDGGW	INTERPACE BIOSCIENCES INC
+IGNT	Ingen Technologies, Inc.
+LCAR	Lescarden Inc.
+LCDX	Caliber Imaging & Diagnostics, Inc.
+MDFZF	Medifocus Inc.
+MDIT	Medite Cancer Diagnostics, Inc.
+MODD	Modular Medical, Inc.
+NEMD	iNeedMD Holdings, Inc.
+NMTC	NeuroOne Medical Technologies Corporation
+NUMD	Nu-Med Plus, Inc.
+NVCP	NVCN Corp.
+OCLG	Oncologix Tech, Inc.
+ODYY	Odyssey Group International, Inc.
+PDMI	Paradigm Medical Industries, Inc.
+PETVD	PetVivo Holdings, Inc.
+QMDT	Quick-Med Technologies, Inc.
+QTXB	QuantRx Biomedical Corporation
+RCAR	RenovaCare, Inc.
+RDGL	Vivos Inc.
+RGBOQ	ReGen Biologics Inc.
+RGIN	Regenicin, Inc.
+SIGY	Sigyn Therapeutics, Inc.
+SNWV	SANUWAVE Health, Inc.
+SPDE	Speedus Corp.
+SSUR	StatSure Diagnostic Systems, Inc.
+TRXCW	NIL
+TRXDW	NIL
+UAHC	United American Healthcare Corporation
+VRTT	Viatar CTC Solutions Inc.
+VSMD	Vasamed, Inc.
+ABMT	Advanced Biomedical Technologies, Inc.
+BBLG	Bone Biologics Corporation
+KLYG	Kelyniam Global, Inc.
+MNESP	MSA Safety Incorporated
+NTRB	Nutriband Inc.
+PCGR	PC Group, Inc.
+PFND	Pathfinder Cell Therapy, Inc.
+SNNUF	Smith & Nephew plc
+UEEC	United Health Products, Inc.
+CLWA	FuzeBox, Inc.
+ALVRQ	Alvarion Ltd.
+ARTM	American Nortel Communications, Inc.
+ATGN	Altigen Communications, Inc.
+AVYAW	AVAYA HOLDINGS CORP
+BOGN	Bogen Communications International, Inc.
+CRMK	Cermetek Microelectronics, Inc.
+CYBD	Cyber Digital, Inc.
+ETCIA	Electronic Tele-Communications, Inc.
+FKWL	Franklin Wireless Corp.
+GNRD	General Datacomm Industries Inc.
+LMSC	Live Microsystems, Inc.
+LTTC	Lattice Incorporated
+WSTL	Westell Technologies, Inc.
+XCOMQ	Xtera Communications, Inc.
+AFFU	Affluence Corporation
+AIKO	Alternative Investment Corporation
+AMOVF	América Móvil, S.A.B. de C.V.
+AMXVF	América Móvil, S.A.B. de C.V.
+APTL	Alaska Power & Telephone Company
+AWEB	Areti Web Innovations, Inc.
+AXLX	Axiologix, Inc.
+CIBY	CIBL, Inc.
+COUV	Corporate Universe, Inc.
+DFTC	Defentect Group, Inc.
+ENDO	Omnicanna Health Solutions, Inc.
+FCAA	
+FRTN	Fortran Corporation
+FTRCQ	Frontier Communications Corporation
+FULO	FullNet Communications, Inc.
+ICOA	ICOA, Inc.
+IMTO	InterMetro Communications, Inc.
+INVT	Inventergy Global, Inc.
+IQST	iQSTEL Inc.
+JUMT	Juma Technology Corp.
+NEXD	Next Dynamics Inc.
+NUVR	Nuvera Communications, Inc.
+NWTT	NW Tech Capital, Inc.
+OSAT	Orbsat Corp.
+PSTO	Powerstorm Holdings, Inc.
+PTNL	NIL
+SGSI	Spectrum Global Solutions, Inc.
+STCO	StratoComm Corporation
+TAPP	Tap Resources, Inc.
+TLIF	TOCCA Life Holdings, Inc.
+UAMA	United American Corp, Inc.
+BATRB	The Liberty Braves Group
+FWONB	Formula One Group
+JKSM	Jacksam Corporation
+NHGP	New Horizon Group, Inc.
+PEGX	The Pegasus Companies, Incorporated
+URBT	Urban Television Network Corporation
+BNCM	Bounce Mobile Systems, Inc.
+SUNC	Suncast Solar Energy, Inc.
+HCLC	Health-Chem Corporation
+UNIR	Uniroyal Global Engineered Products, Inc.
+WGTG	NIL
+LNKG	The Link Group, Inc.
+SVSN	Stereo Vision Entertainment, Inc.
+UMGP	Universal Media Group Inc.
+TCOR	TreeCon Resources, Inc.
+AMTY	Amerityre Corporation
+CAWW	CCA Industries, Inc.
+EMPO	Empowered Products, Inc.
+EROX	Human Pheromone Sciences, Inc.
+GDSI	Global Digital Solutions, Inc.
+INBI	Infusion Brands International, Inc.
+NTPY	NetPay International, Inc.
+NUGN	NuGene International, Inc.
+NWYU	New You Inc.
+RVIV	Reviv3 Procare Company
+TRPS	Trip Technologies Inc.
+VMHG	Victory Marine Holdings Corp.
+ACMB	Agro Capital Management Corp.
+BANM	Banner Energy Services Corp.
+BSSP	Reve Technologies, Inc.
+DFHL	Dong Fang Hui Le Inc.
+LBUY	Leafbuyer Technologies, Inc.
+MAPT	Maptelligent, Inc.
+MVPT	MVP Holdings Inc.
+MYFT	myFreightWorld Technologies, Inc.
+SLOT	San Lotus Holding Inc.
+UNXP	NIL
+VRRMW	Verra Mobility Corporation
+WESC	W&E Source Corp.
+UTRK	Universal Tracking Solutions, Inc.
+ONVC	Online Vacation Center Holdings Corp.
+LGAH	LGA Holdings, Inc.
+TEAH	Worry Free Tea House Holdings Company
+ARBU	American Business Corp.
+CGIPQ	Celadon Group, Inc.
+PTAH	PTA Holdings, Inc.
+GBTC	Grayscale Bitcoin Trust (BTC)
+BETW	Bettwork Industries Inc.
+BRTE	Brightec, Inc.
+BSRC	BioSolar, Inc.
+STRI	STR Holdings, Inc.
+VKSC	Viskase Companies, Inc.
+XSNX	NovAccess Global Inc.
+SSOK	Sunstock, Inc.
+TUEM	Tuesday Morning Corporation
+BLIAQ	BB Liquidating Inc.
+BLIBQ	BB Liquidating Inc.
+INCT	InCapta, Inc.
+FTDL	FirsTime Design Limited
+ILXP	International Luxury Products Inc.
+MOVAA	NIL
+AEPT	American Energy Partners, Inc.
+ARTNB	Artesian Resources Corporation
+BUHF	Buck Hill Falls Company
+GWTR	Global Water Technologies, Inc.
+MSEXP	Middlesex Water Company PFD 7%
+NESW	New England Service Company, Inc.
+OWUV	One World Universe Inc.
+TORW	The Torrington Water Company
+WVAW	NIL
+CSSV	Caspian Services, Inc.
+GFWQZ	PLM Equipment Growth Fund III
+TDDWW	TIDEWATER INC NEW
+TDGMW	Tidewater Inc.
+BINFF	Brookfield Infrastructure Partners L.P.
+BIPAF	Brookfield Infrastructure Partners L.P.
+BIPFF	Brookfield Infrastructure Partners L.P.
+BCAP	Baron Capital Enterprise, Inc.
+ESOA	Energy Services of America Corporation
+RWCI	RWC, Inc.
+GFTX	Global Fiber Technologies, Inc.
+TALN	Talon International, Inc.
+ENCB	ENCORE BRANDS INC
+NXEOW	Nexeo Solutions, Inc.
+SCOO	School Specialty, Inc.
+TMXN	Trimax Corporation
+YPPN	Yappn Corp.
+KTDR	
+ALKM	Alkame Holdings, Inc.
+CUEN	Cuentas Inc.
+HDUP	HeadsUp Entertainment International Inc.
+HIPH	American Premium Water Corporation
+OGSM	Organic Sales and Marketing, Inc.
+CCOM	CCOM Group, Inc.
+CCOMP	CCOM Group, Inc. PFD CONV
+WXMN	Waxman Industries, Inc.
+BEHL	Biocentric Energy Holdings, Inc.
+UGROD	urban-gro, Inc.
+CCNCW	NIL
+RGST	Rogue Station Companies, Inc.
+APXX	NIL
+ARGC	Arion Group Corp.
+AVOZ	Altavoz Entertainment, Inc.
+CWNR	Crosswind Renewable Energy Corp.
+EQUR	E-Qure Corp.
+IMGI	ImaginOn, Inc.
+NAEX	NATIONAL ART EXCHANGE INC
+APRO	Allegiant Professional Business Services, Inc.
+BEES	BEESFREE, Inc.
+GIBX	GIB Capital Group, Inc.
+HUMT	Humatech, Inc.
+NUUU	Rejuvel Bio-Sciences, Inc.
+QPRC	Quest Patent Research Corporation
+RBCL	RBC Life Sciences, Inc.
+ACCA	Acacia Diversified Holdings, Inc.
+SGMD	Sugarmade, Inc.
+FRHV	Fresh Harvest Products, Inc.
+MLMN	Millennium Prime, Inc.
+MRIB	Marani Brands, Inc.
+RSAU	Rooshine, Inc.
+AWGL	AWG, Ltd.
+PBEV	Premium Beverage Group, Inc.
+SVIN	Scheid Vineyards Inc.
+CACH	Cache, Inc.
+CBKCQ	Christopher & Banks Corporation
+DESTQ	Destination Maternity Corporation
+LTCO	Long Term Care Operations 360 Inc.
+TRUA	Triumph Apparel Corporation
+APEX	Apex Global Brands Inc.
+CRCW	The Crypto Company
+TOPZ	Topaz Resources, Inc.
+ILUS	Ilustrato Pictures International Inc.
+BSTO	Blue Star Opportunities Corp.
+HIMR	Hollund Industrial Marine, Inc.
+GPFT	Grapefruit USA, Inc.
+OMRX	Orthometrix, Inc.
+ARPTF	Airport City Ltd.
+BABYF	Else Nutrition Holdings Inc.
+BRSYF	Brainsway Ltd.
+BZQIF	Bezeq The Israel Telecommunication Corporation Limited
+BZQIY	Bezeq The Israel Telecommunication Corporation Limited
+FRUTF	Frutarom Industries Ltd.
+IRCLF	InterCure Ltd.
+ISDAY	Israel Discount Bank Limited
+ITMMF	Itamar Medical Ltd.
+SILLF	Sarine Technologies Ltd.
+TTTPF	Tremor International Ltd
+AASZF	Atlantic Sapphire ASA
+AATRL	Amg Capital Trust II
+AAWCD	Canning Str Corp.
+ABNC	
+ADDC	Addmaster Corporation
+ADFT	Adfitech, Inc.
+ADTC	Advanced Deposition Technologies, Inc.
+AFIPA	AMFI Corp.
+AFNL	AmFin Financial Corporation
+AGLY	Agiliti, Inc.
+AHFI	Absolute Health and Fitness, Inc.
+AMBD	American Mobile Dental Corp.
+AMBKP	American Capital Trust I PFD TR SECS 6%
+AMEUF	Anteris Technologies Ltd
+ANDC	Andover Bancorp, Inc.
+ANDD	ANR, Inc.
+APLN	AE Holding I, Inc.
+ASFZ	Associates First Capital Corporation
+ASTO	Astro Communications, Inc.
+ATOR	Astor Explorations Corp.
+AUNM	Auction Mills Inc.
+AVBH	Avidbank Holdings, Inc.
+AWSI	ARIA Wireless Systems, Inc.
+AZLCZ	Aztec Land and Cattle Company, Limited
+BBXIA	BBX Capital, Inc.
+BBXIB	BBX Capital, Inc.
+BCBF	Beach Community Bancshares, Inc.
+BDWGP	BRCOM Inc. JR PFDEX 12.50%
+BDYS	BodyScan Corp.
+BMWLF	Bluma Wellness Inc.
+BSRTF	BSR Real Estate Investment Trust
+BTOF	Benton Financial Corporation
+BVERS	Beaver Coal Company, Limited
+BWAL	NIL
+BWEL	JG Boswell Company
+BWLKF	Boardwalktech Software Corp.
+CAIB	California International Bank, N.A.
+CANY	
+CAVR	CAVU Resources Inc.
+CBCY	Central Bancompany, Inc.
+CBCYB	Central Bancompany, Inc.
+CBTH	NIL
+CCYY	CCCB Bancorp Inc.
+CDAB	Coeur d'Alene Bancorp, Inc.
+CFCC	Corfacts, Inc.
+CFCX	Centric Financial Corporation
+CLPE	Clear Peak Energy, Inc.
+CMIT	CMARK International, Inc.
+CNTMF	Cansortium Inc.
+CODQL	CORONADO GLOBAL RESOURCES INC.
+CRLFF	Cardinal Energy Ltd.
+CRSQ	NIL
+CSGU	Consolidated Sports Media Group
+CSKL	Catskill Hudson Bancorp, Inc.
+CTBK	City Bank
+CURN	Currency Exchange International, Corp.
+CVST	Covista Communications, Inc.
+CWPS	Conwest Associates, LP
+CYPS	Cyclo3pss Corporation
+DENI	Denali Bancorporation, Inc.
+DNIF	Dividend and Income Fund
+DNVB	Denver Bankshares, Inc.
+DRWB	NIL
+DVDR	Divide Drives Inc.
+ECDD	Ecrid, Inc.
+ECGR	Bellatora Inc.
+EDMCQ	Education Management Corporation
+EFLI	New Earth Life Sciences, Inc.
+ELAMF	Elamex SA de CV
+ELLH	Elah Holdings, Inc.
+EMOR	Emerald Organic Products Inc.
+ERKH	Eureka Homestead Bancorp, Inc.
+ESDF	East Side Financial, Inc.
+EXSO	Consolidated Eco-Systems, Inc.
+FBLV	First Bancorp Inc., Lebanon
+FBOO	First Bank of Ohio
+FCIT	First Citrus Bancorporation, Inc.
+FDBH	Founders Bay Holdings
+FGEB	NIL
+FIBH	First Bancshares Inc. (Bellevue, OH)
+FLOL	NIL
+FNBM	NIL
+FSBH	First Southern Bank
+FSOYF	F-Secure Oyj
+FTFY	Fit After Fifty, Inc.
+FXBY	Foxby Corp.
+GAFL	Great American Financial Corporation
+GBEI	Great Basin Energies, Inc.
+GBIM	GlobeImmune, Inc.
+GCCO	Garden City Co.
+GCIN	GC International, Inc.
+GDDN	NIL
+GDVTZ	Gould Investors L.P.
+GEAGF	GEA Group Aktiengesellschaft
+GFSZF	G4S plc
+GLNV	Glenville Bank Holding Company, Inc.
+GNBF	GNB Financial Services, Inc.
+GNSG	The GNS Group Inc.
+GRAMF	TPCO Holding Corp.
+GRGG	Green For Energy, Inc.
+GROLF	Petrotarg AB (publ)
+GRTYA	Guaranty Corporation
+GSFD	Global Seafood Technologies, Inc.
+GYST	The Graystone Company, Inc.
+HAHI	Help At Home, LLC
+HBORF	Harborside Inc.
+HERF	Red Oak Hereford Farms, Inc.
+HGUBP	16
+HIHI	Holiday Island Holdings, Inc.
+HIUH	NIL
+HKTTF	HKT Trust and HKT Limited
+HRRB	Horizon Bancorp, Inc. (Lake Havasu City, AZ)
+HSCM	Highland Surprise Consolidated Mining Co.
+HTRC	Hunter Creek Mining Co.
+HWVI	Hawaiian Vintage Chocolate Co.
+IFBH	IFB Holdings, Inc.
+ILDIA	Inspiration Lead Co., Inc.
+INDXF	Indus Holdings, Inc.
+INFT	Infinity Bank (Santa Ana, CA)
+IONKF	Ionic Brands Corp.
+IRWPQ	IFC Capital Trust VI PFD GTD TR SEC
+ITXXF	Itaconix plc
+JCDS	JC Data Solutions Inc.
+JLMC	JLM Couture, Inc.
+JUSHF	Jushi Holdings Inc.
+KATA	NIL
+KBEVF	Koios Beverage Corp.
+KEFI	Keweenaw Financial Corporation
+KPCM	King Pine Mining Ltd.
+KPOC	Kimberly Parry Organics Inc.
+KWIK	KwikClick, Inc.
+LDKB	Landmark Bancorp, Inc.
+LDSI	Life Design Station International, Inc.
+LEHKQ	LEHMAN BROTHERS HOLDINGS CAP TS
+LEHLQ	LEHMAN BROTHERS HOLDINGS CAP TS
+LEHNQ	Lehman Brothers Holdings Capital Trust VI
+LIDM	Limco Del Mar, Ltd.
+LIHC	Liberty International Holding Corp.
+LKSB	Lakeside Bancshares, Inc.
+LMWW	LMWW Holdings, Inc.
+LNKB	LINKBANCORP, Inc.
+LWCL	Lewis & Clark Bancorp
+MCHN	Mchenry Bancorp, Inc.
+MDVT	Middlebury National Corporation
+MERT	Metropolitan Realty Company, L.L.C.
+MGCV	MGC Ventures, Inc.
+MGMA	Metro Global Media, Inc.
+MKIN	MCNB Banks, Inc.
+MPHD	Media Pal Holdings, Corp.
+MPHX	Metro Phoenix Bank, Inc.
+MPIN	Message Processing International, Inc.
+MRPS	Microphonics, Inc.
+MSIU	Medical Supply International USA, Inc.\t
+MSWV	Main Street Financial Services Corp.
+MTPP	Mountain Top Properties, Inc.
+MTVB	Mountain Valley Bancshares, Inc.
+MYCOF	Mydecine Innovations Group Inc.
+NDEV	Novus Acquisition & Development Corp.
+NEEB	Nebraska Book Holdings, Inc.
+NMBF	Nmb Financial Corp
+NRCD	Nashville Records, Inc.
+NRPI	NRP Stone Inc.
+NTXVF	Nexteer Automotive Group Limited
+NWCOP	
+NWXJ	
+NXGM	NexGen Mining Incorporated
+NXGT	Nexteligent Holdings, Inc.
+NXSI	Nexis International Industries, Inc.
+OAKV	Oak View National Bank
+OBDP	Orbit Drop, Inc.
+OCNB	Oconomowoc Bancshares, Inc.
+OLDF	
+OLVI	Oliveda International, Inc.
+ORVRF	Orchid Ventures, Inc.
+PAWH	Pennsylvania Warehousing Safe Deposit
+PBNC	PB Financial Corporation
+PCMC	Public Company Management Corp.
+PEBN	Pacific Enterprise Bancorp
+PFBN	Pacific Alliance Bank
+PFNL	Plymouth Financial Corporation
+PGQWF	1-Page Limited
+PIHN	Polaris International Holdings Inc.
+PKWY	Parkway Bank
+PLWN	Pinelawn Cemetery
+PLYR	Polymeric Resources Corporation
+PMEA	PM&E, Inc.
+PNNB	Pinnacle Bank of Oregon (Beaverton)
+PPAL	Peoples Trust Company
+PPBB	Peoples Bancorp
+PPLL	Peoples Ltd.
+PRCK	Placer Creek Mining Co.
+PRMY	Primary Bank
+PTQQF	Protech Home Medical Corp.
+QUCT	Queen City Investments, Inc.
+RADR	Radium Resources Corp.
+RAMPF	Polaris Infrastructure Inc.
+RBCI	
+RBTI	Red Branch Technologies, Inc.
+RCCB	Rochester Community Baseball Inc.
+REDW	Redwood Financial, Inc.
+RESCU	Rescap Liquidating Trust
+RGXX	RemeGenix, Inc.
+RIGG	Richland Resources International Group Inc.
+RRIF	Rainforest Resources Inc.
+RSMDF	ResMed Inc.
+RWCB	Redwood Capital Bancorp
+SABB	
+SBGSF	Schneider Electric S.E.
+SBUM	Silver Buckle Mines, Inc.
+SBVQF	TPCO Holding Corp.
+SBVRF	Subversive Real Estate Acquisition REIT LP
+SCNTQ	Scient, Inc.
+SDEC	Smart Decision Inc
+SDGB	SSNB Inc
+SFIGA	STAR Financial Group, Inc.
+SHDC	Surety Holdings Corp.
+SHGYD	SearchGuy.com, Inc.
+SIRR	Sierra Income Corporation
+SKRJ	Silk Road Entertainment Inc
+SLSR	Silver Surprize, Inc.
+SODE	Social Detention, Inc.
+SRLY	Southern Realty Co.
+SRSN	Strategic Resources International, Inc.
+SSBP	SSB Bancorp, Inc.
+SSHC	SOUTHSHORE COMMUNITY BK APOLLO
+STLM	St Elmo Silver Mines Corp.
+SVNJ	727 Communications, Inc.
+SVVB	Savi Financial Corporation, Inc.
+TALC	Tal-Cap, Inc.
+TAUX	Terre aux Boeufs Land Co., Inc.
+TBBC	Triad Business Bank
+TGONF	Tetragon Financial Group Limited
+THDS	3DShopping.com
+TLLTF	TILT Holdings Inc.
+TLPC	Telpac Industries, Inc.
+TNMD	Tianrong Medical Group Inc.
+TRVR	Two Rivers Financial Group, Inc.
+TTWSF	TTW Public Company Limited
+TWNE	Towne Bancorp, Inc.
+TYBT	Trinity Bank, N.A.
+UFCP	Union Financial Corporation
+UNBK	United National Bank
+URAL	United Rail, Inc.
+USMT	US Metro Bancorp, Inc.
+USRC	Unisource Corporate Corporation
+USWF	U.S. Wind Farming, Inc.
+VCII	ViviCells International, Inc.
+VINS	Vindicator Silver Lead Mining Co.
+VKVEF	VanEck Vectors Preferred US Equity UCITS ETF
+VNTN	VentureNet Capital Group, Inc.
+VOBIF	VOBILE GROUP LTD
+WDSL	Wireless Data Solutions, Inc.
+WEDG	NIL
+WFCL	1867 Western Financial Corporation
+WMCB	Willamette Community Bank
+WPFH	World Poker Fund Holdings, Inc.
+WPKS	The World Poker Store, Inc.
+WRLC	Windrock Land Company
+WSCC	Waterside Capital Corporation
+WSSH	West Shore Bank Corp.
+WWDH	Worldwide Holdings Corp.
+XSHLF	XS Financial Inc.
+ZMWYF	ZoomAway Travel Inc.
+ZVLO	zvelo, Inc.
+AAGEF	AAG Energy Holdings Limited
+AALBF	Aalberts N.V.
+AANNF	Aroundtown SA
+ABANF	Automatic Bank Services Limited
+ABGLF	NIL
+ABGSF	ABG Sundal Collier Holding ASA
+ABMAF	Albioma
+ACHKF	Achiko AG
+ACPGF	Acacia Pharma Group plc
+ACPIF	NIL
+ACPRF	ArcPacific Resources Corp.
+ACUCF	NIL
+ADBKF	Addiko Bank AG
+ADBRF	Aldebaran Resources Inc.
+ADCOF	Adcore Inc.
+ADCUF	ADS Maritime Holding Plc
+ADEVF	ADEVINTA ASA
+ADSGF	adesso SE
+ADTEF	NIL
+ADVYF	NIL
+AEPLF	Anglo-Eastern Plantations Plc
+AEVIF	NIL
+AEWRF	NIL
+AEYYF	NIL
+AFGYF	AFC Energy plc
+AFHFF	AFH Financial Group Plc
+AFTLF	NIL
+AFTTF	NIL
+AGFXF	DEUTSCHE BANK AG LONDON
+AGRIP	AgriBank, FCB
+AGXKF	Anglo Asian Mining PLC
+AGYTF	Allergy Therapeutics plc
+AHGHF	Althea Group Holdings Limited
+AIABF	AirAsia Group Berhad
+AIBEF	Air Berlin PLC
+AILTF	NIL
+AIRMF	NIL
+AITVF	Asian Television Network International Limited
+AJPLF	NIL
+AKAAF	Aker ASA
+AKAFF	Akatsuki Inc.
+AKOWF	NIL
+AKSLF	NIL
+ALABF	Aurora Labs Limited
+ALAVF	NIL
+ALBAF	Alba Mineral Resources plc
+ALBHF	Alibaba Health Information Technology Limited
+ALDRF	NIL
+ALEGF	Allegro.eu SA
+ALFNF	Alfen N.V.
+ALHLF	NIL
+ALHPF	NIL
+ALLPF	AroCell AB (publ)
+ALLWF	Allied Minds plc
+ALOXF	NIL
+ALRHF	NIL
+ALTHF	NIL
+ALVNF	ALVIVA HOLDINGS LTD
+ALZPF	ALONY HETZ PROPERTIES & INVESTM
+AMBEF	NIL
+AMDUF	Amundi SA
+AMHLF	NIL
+AMIUF	Abra Mining and Industrial Corporation
+AMLLF	AEON Mall Co., Ltd.
+AMMCF	Amur Minerals Corporation
+AMOSF	Atomos Limited
+AMRPF	Amorepacific Corporation
+AMRT	American Mart Corporation
+ANDHF	Andlauer Healthcare Group Inc.
+ANHTF	NIL
+ANSNF	NIL
+ANTOF	Iida Group Holdings Co., Ltd.
+ANXNF	NIL
+AOMUF	NIL
+AORGF	Argos Resources Ltd
+APDSF	Autopistas Del Sol SA
+APEAF	NIL
+APIAF	NIL
+APMBF	NIL
+APMOF	NIL
+APNIF	APN Industria REIT
+APNLF	APN Property Group Limited
+APXYY	NIL
+AQAAF	NIL
+AQXNF	NIL
+ARDNF	Argent Minerals Limited
+AROZF	NIL
+ARPPF	NIL
+ARRJF	Arjo AB (publ)
+ARRXF	Archer Materials Limited
+ARSSF	Assura Plc
+ARWMF	Airway Medix S.A.
+ARWPF	NIL
+ASAIF	Artificial Solutions International AB (publ)
+ASBIF	NIL
+ASCLF	Ascletis Pharma Inc.
+ASCOF	NIL
+ASPGF	Aspire Global plc
+ASPHF	NIL
+ASPT	Haber, Inc.
+ASRPF	Asarina Pharma AB (publ)
+ATMQF	NIL
+ATRHF	NIL
+ATRTF	
+ATVVF	Australian Vanadium Limited
+AUDGF	Audinate Group Limited
+AUMTF	Aurelia Metals Limited
+AUUMF	Aumann AG
+AUXIF	Auxico Resources Canada Inc.
+AVAAF	NIL
+AVCGF	NIL
+AVEFF	NIL
+AVGTF	
+AVITF	NIL
+AVTXF	Avantium N.V.
+AVVFF	NIL
+AWLNF	NIL
+AXLMF	NIL
+AYAAF	Ayala Land, Inc.
+AYFGF	NIL
+AYPCF	NIL
+AZKLF	Aziana Limited
+AZLOF	Azelio AB (publ)
+BAGFF	A.G. BARR p.l.c.
+BAINF	BASE, Inc.
+BBAJF	Banco del Bajío, S.A., Institución de Banca Múltiple
+BBIXF	Bonus BioGroup Ltd.
+BBSCF	NIL
+BBXMF	NIL
+BBYLF	Abra Information Technologies Ltd.
+BBYTF	NIL
+BCINF	NIL
+BCLMF	Bacanora Lithium Plc
+BCMKF	NIL
+BCOLF	BrainCool AB (publ)
+BDDXF	DB Base Metals Double Long ETN
+BDIXF	NIL
+BDMMF	NIL
+BDWBF	Budweiser Brewing Company APAC Limited
+BGAIF	BioGaia AB (publ)
+BGGYF	NIL
+BGOPF	Bango plc
+BGSWF	BW Offshore Limited
+BHGCF	NIL
+BICEF	Société BIC SA
+BILBF	Bilby Plc
+BITGY	NIL
+BIVWF	NIL
+BJGBF	NIL
+BJPUF	NIL
+BKCQF	Bespoke Capital Acquisition Corp.
+BKKCF	BLOCKCHAIN TECHNOLOGIES ETF UNI
+BKKVF	Bakkavor Group plc
+BKLIF	Blockmint Technologies Inc.
+BLGFF	Baillie Gifford US Growth Trust PLC
+BLMIF	Israel B.M.
+BLRNF	NIL
+BLSYF	NIL
+BMBRF	BIM BIRLESIK MAGAZALAR
+BMGRF	NIL
+BMIXF	Beacon Minerals Limited
+BMLLF	NIL
+BMMPF	BMO Equal Weight Banks Index ETF
+BNGFF	NIL
+BNHUF	Bonheur ASA
+BNNNF	NIL
+BNTRF	Benton Resources Inc.
+BOIRF	Boiron SA
+BOLSF	Brasil, Bolsa, Balcão
+BOMMF	DB Base Metals Double Short ETN
+BORUF	Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien
+BOSXF	DEUTSCHE BANK AG LONDON
+BPCVF	CREDITO VALTELLINESE
+BPHMF	Biofermin Pharmaceutical Co., Ltd.
+BQSSF	Boss Resources Limited
+BRDBF	Bumi Armada Berhad
+BRFIF	NIL
+BRNCF	NIL
+BRTZF	Berentzen-Gruppe Aktiengesellschaft
+BRVDF	NIL
+BSFFF	Basic-Fit N.V.
+BSHVF	Bushveld Minerals Limited
+BSKZF	Bambuser AB (publ)
+BTAVF	BATM Advanced Communications Ltd.
+BTGGF	NIL
+BTPNF	NIL
+BTRYF	Battery Minerals Limited
+BTSEF	NIL
+BTSGF	NIL
+BTUMF	BTU Metals Corp.
+BUENF	BLUE ENERGY LIMITED
+BUIQL	NIL
+BUOPF	NIL
+BWNGF	NIL
+BWPPF	NIL
+BXPHF	Botanix Pharmaceuticals Limited
+BYCBF	Barry Callebaut AG
+BYCRF	NIL
+BYDGF	Boyd Group Services Inc.
+CABHF	Carlsberg A/S
+CADLF	Cadeler A/S
+CAEEF	NIL
+CAGPF	NIL
+CAPTF	Capitan Mining Inc.
+CASBF	CanSino Biologics Inc.
+CAWRF	NIL
+CBAOF	Fibra Terrafina
+CBIXF	Carna Biosciences, Inc.
+CBUTF	NIL
+CCCHF	NIL
+CCFYF	NIL
+CCYNF	cyan AG
+CDTLF	NIL
+CELMF	NIL
+CERAF	NIL
+CERWF	NIL
+CESF	CE Software, Inc.
+CEVMF	CTS Eventim AG & Co. KGaA
+CGLOF	NIL
+CHBKF	NIL
+CHHCF	CHC Group LLC
+CHLTF	ARA LOGOS LOGISTICS TRUS
+CHMOF	NIL
+CHRLF	Charle Co.,Ltd.
+CHYMF	NIL
+CIGHF	NIL
+CIHEF	NIL
+CKZAF	Chuokeizai-Sha Holdings, Inc.
+CLLEF	NIL
+CLLIF	NIL
+CLMHF	NIL
+CLOEF	Cloetta AB (publ)
+CLPIF	Compagnie des Alpes SA
+CLSPF	Canadian Life Companies Split Corp.
+CLTEF	Calliditas Therapeutics AB (publ)
+CLVCF	
+CLYMF	Catalyst Metals Limited
+CMMXF	NIL
+CMSYF	COMSYS HOLDINGS CORP
+CMTUF	Comture Corporation
+CMZZF	Cairo Mezz PLC
+CNDHF	NIL
+CNIEF	NIL
+CNNWF	Cineworld Group plc
+CNSHF	NIL
+CNSMF	NIL
+CNTCF	Contel Technology Company Limited
+CNTSF	NIL
+COCCF	NIL
+COFJF	NIL
+COFRF	NIL
+COFSF	NIL
+COMHF	NIL
+COOSF	Carbios SAS
+COPGF	NIL
+COSDF	NIL
+COZIF	NIL
+CPEVF	NIL
+CPHGF	NIL
+CRAYF	Crayon Group Holding ASA
+CRJTF	Crossject Société Anonyme
+CRKHF	Cartrack Holdings Limited
+CRMWF	NIL
+CROTF	NIL
+CRQZF	NIL
+CRSTF	Crest Resources Inc.
+CRWKF	NIL
+CRYIF	NIL
+CRZNF	NIL
+CSCPF	NIL
+CSRVF	Cross River Ventures Corp.
+CSTNL	iShares Core S&P 500 UCITS ETF
+CSYT	Communications Synergy Technologies, Inc.
+CSZZF	NIL
+CTHCF	NIL
+CTILF	CTI LOGISTICS LIMITED
+CTPR	CTPartners Executive Search Inc.
+CTRGF	Country Garden Services Holdings Company Limited
+CUFHF	CRUNCHFISH AB
+CURHF	NIL
+CVNZF	Comvita Limited
+CVUEF	ClearVue Technologies Limited
+CXGEF	
+CYBQF	CYBERDYNE Inc.
+CYWDF	Countrywide plc
+DAGXF	DB Agriculture Double Long ETN
+DAHLF	Damstra Holdings Limited
+DALQF	NIL
+DAVNF	NIL
+DAWUF	NIL
+DAXXF	iShares Core DAX UCITS ETF (DE)
+DBKSF	NIL
+DCHRF	Discovery Harbour Resources Corp.
+DDPXF	DEUTSCHE BANK AG LONDON
+DEITF	Devro plc
+DETRF	NIL
+DEUIF	Deutsche Industrie REIT-AG
+DFNNF	DFNN, Inc.
+DGUPF	NIL
+DHSBF	NIL
+DIUXF	DIACEUTICS PLC
+DKKGF	NIL
+DKSSF	NIL
+DLELY	NIL
+DLRWF	Delta Drone SA
+DLVHF	Delivery Hero SE
+DNCVF	Defiance Silver Corp.
+DNOPF	NIL
+DNPUF	Sumitomo Dainippon Pharma Co., Ltd.
+DODXF	DEUTSCHE BANK AG LONDON
+DOEGF	NIL
+DOMWF	Dominion Water Reserves Corp.
+DOVXF	doValue S.p.A.
+DRDNF	DREADNOUGHT RESOUR
+DRMMF	Dream International Limited
+DRTMF	Dart Mining NL
+DSRLF	DiaSorin S.p.A.
+DTATF	NIL
+DTPKF	Directa Plus Plc
+DTREF	NIL
+DTSOF	DTS CORPORATION
+DTTOF	NIL
+DUBRF	DUBBER CORPORATION LIMITED
+DUERF	Dürr Aktiengesellschaft
+DUKMF	NIL
+DUSXF	Dustin Group AB (publ)
+DVLTF	NIL
+DVRNF	Deveron Corp.
+DWNYF	NIL
+DYYXF	DB Commodity Double Long ETN
+ECGFF	NIL
+ECKTF	Checkit plc
+ECWDF	NIL
+EDEYF	Eden Innovations Ltd
+EDRVF	EDP Renováveis, S.A.
+EGINF	EUROGAS INTERNATIONAL INC
+EGLNF	NIL
+EGMMF	Eagle Mountain Mining Limited
+EGRGF	Eagle Energy Inc.
+EIHLF	NIL
+EJVDF	NIL
+ELALF	El Al Israel Airlines Ltd.
+ELECF	Electric Royalties Ltd.
+ELMFF	Elmo Software Limited
+ELSBF	NIL
+ELSLF	Elsight Limited
+ELWSF	Electreon Wireless Ltd
+EMHLF	European Metals Holdings Limited
+EMLZF	Emmi AG
+EMNSF	Elementis plc
+EMPYF	Empress Royalty Corp.
+EMRH	Emerging Holdings Inc.
+EMSNF	Emmerson PLC
+EMTKF	NIL
+ENDRF	Endor AG
+ENGH	Energy Harbor Corp.
+ENIHF	NIL
+ENLTF	NIL
+ENPGF	NIL
+ENREF	NIL
+EOFBF	Ecofibre Limited
+EOFBY	NIL
+EOPAF	Europa Metals Limited
+EPCFF	Empiric Student Property plc
+EPLYF	EPS Holdings, Inc.
+EPSFF	Episurf Medical AB (publ)
+EQBBF	EQT AB (publ)
+EROMF	Euro Manganese Inc.
+ERPNF	European Metals Holdings Limited
+ESCNF	NIL
+ESLGF	Eddie Stobart Logistics plc
+ESRCF	NIL
+ETRUF	Etruscus Resources Corp.
+EUITF	Baillie Gifford European Growth Trust plc
+EULIF	NIL
+EVHEF	NIL
+EVMGF	NIL
+EVREF	EverArc Holdings Limited
+EVRFF	NIL
+EVRZF	EVRAZ plc
+EVSLF	eve Sleep plc
+EWOOF	Eastwood Bio-Medical Canada Inc.
+EXCLF	NIL
+EXOPF	NIL
+EYGNF	NIL
+EZYMF	Enzymatica AB
+FATLF	Fattal Holdings (1998) Ltd
+FBIHF	NIL
+FBSBF	NIL
+FCAFF	Firm Capital Apartment Real Estate Investment Trust
+FCLOF	NIL
+FCODF	Financière de l'Odet SA
+FDLPF	Fondul Proprietatea SA
+FDMDF	NIL
+FEHTF	NIL
+FFDGF	NIL
+FGHQF	Frontage Holdings Corporation
+FGPHF	First Graphene Limited
+FGPPF	NIL
+FGSGF	Flat Glass Group Co., Ltd.
+FHILF	NIL
+FIEGF	
+FIKVF	NIL
+FITGF	FIT Hon Teng Limited
+FJSGF	NIL
+FJSIY	NIL
+FKRAF	Fiskars Oyj Abp
+FKSHF	NIL
+FLGMF	Flagship Communities Real Estate Investment Trust
+FLRAF	Essentra plc
+FMEQF	FUNDSMITH EMERGING EQUITIES TR
+FNBCQ	First NBC Bank Holding Company
+FNBLF	Finablr PLC
+FNCIF	NIL
+FNDTF	FriendTimes Inc.
+FNGGF	Fargo Enterprises Limited
+FNNCF	Financial 15 Split Corp.
+FNVAF	NIL
+FPHAF	Faron Pharmaceuticals Oy
+FPHHF	First Philippine Holdings Corporation
+FPIBF	NIL
+FREKF	NIL
+FRFTF	TFF Group
+FRPRF	4D pharma plc
+FRRLF	NIL
+FRSRF	NIL
+FTTRF	Forterra plc
+FTZZF	Fertoz Limited
+FUNWF	4fun Media S.A.
+FXWZF	Fox-Wizel Ltd.
+GAMCF	Gamma Communications plc
+GBGPF	GB Group plc
+GBMRF	GBM Resources Limited
+GCEC	Clarymore CEF GS Connect ETN
+GCPL	Global Capital Partners Inc.
+GCPSF	GCP STUDENT LIVING PLC
+GCRPF	NIL
+GDPHF	Godolphin Resources Limited
+GENPF	NIL
+GEOVF	NIL
+GETBF	NIL
+GFIZF	Gfinity plc
+GFKAF	NIL
+GFLDF	NIL
+GIBBF	NIL
+GLDAF	NIL
+GLFGF	Global Fashion Group S.A.
+GLMGF	NIL
+GLOFF	ContourGlobal plc
+GLVNF	Gallant Venture Ltd.
+GLWHF	NIL
+GMDMF	Gem Diamonds Limited
+GMJOF	NIL
+GMOFF	GMO Financial Gate, Inc.
+GMOYF	GMO Internet, Inc.
+GMPUF	Gestamp Automoción, S.A.
+GMWKF	Games Workshop Group PLC
+GMXTF	GMéxico Transportes, S.A.B. de C.V.
+GNCLF	Gencell Ltd
+GNHAF	Vifor Pharma AG
+GOTNF	Götenehus Group AB (publ)
+GPPYF	NIL
+GPRHF	NIL
+GPTGF	GPT Group
+GRGCF	Georgia Capital PLC
+GRGTF	NIL
+GRNWF	Greenlane Renewables Inc.
+GRPOF	Grupo Traxion, S.A.B. de C.V.
+GRPRF	Grupo Rotoplas S.A.B. de C.V.
+GRTNF	NIL
+GRYG	Green Energy Group, Inc.
+GSEFF	Covivio
+GSISF	NIL
+GSRCF	GSP Resource Corp.
+GSSPF	NIL
+GTNLF	NIL
+GULDF	Guild Esports Plc
+GUMIF	NIL
+GUNYF	NIL
+GUROF	GURU Organic Energy Corp.
+GWYNF	NIL
+GYPPF	NIL
+GYYMF	The Gym Group plc
+HALXF	NIL
+HAVLF	HAVN Life Sciences Inc.
+HAWWF	NIL
+HBGHF	NIL
+HCGOF	NIL
+HCPHF	Holcim Philippines, Inc.
+HDGHF	Haydale Graphene Industries plc
+HFIAF	Hafnia Limited
+HHUSF	NIL
+HINVF	NIL
+HLEGF	NIL
+HLFFF	HelloFresh SE
+HLSTF	NIL
+HMAGF	home24 SE
+HMMLF	NIL
+HMTGF	NIL
+HNGZY	NIL
+HNTGF	NIL
+HOCMF	NIL
+HOPHF	Hemogenyx Pharmaceuticals Plc
+HOSHF	NIL
+HOYFF	Huhtamäki Oyj
+HPCRF	Home Product Center Public Company Limited
+HPGSF	Hipgnosis Songs Fund Limited
+HPHGF	NIL
+HRDI	Here Media Inc.
+HRNBF	Hornby PLC
+HRNTF	NIL
+HROEY	NIL
+HRSHF	Haier Smart Home Co., Ltd.
+HRZSF	Horizons S&P/TSX 60 Index ETF
+HSCNF	House of Control Group AS
+HSHZY	NIL
+HSWLF	Hostelworld Group plc
+HTPIF	NIL
+HTSUF	Hisamitsu Pharmaceutical Co., Inc.
+HTWSF	NIL
+HUAKF	NIL
+HUATF	Huatai Securities Co., Ltd.
+HUICF	NIL
+HUIVF	NIL
+HUZNF	NIL
+HWKMF	HAWKSTONE MINING
+HYPLF	
+HYPOF	Hypoport SE
+HZMMF	Horizonte Minerals Plc
+HZRGF	HAZER GROUP LIMITED
+IAFNF	iA Financial Corporation Inc.
+IBXXF	Imagion Biosystems Limited
+ICGHF	NIL
+ICHBF	Industrias CH, S. A. B. de C. V.
+ICHGF	InterContinental Hotels Group PLC
+ICTAF	NIL
+ICTEF	International Container Terminal Services, Inc.
+ICUSF	IceCure Medical Ltd
+IDGXF	Integrated Diagnostics Holdings plc
+IDJEF	NIL
+IELLF	Integrated Micro-Electronics, Inc.
+IGRXF	INTEGA GROUP LTD
+IHSRF	iShares Edge S&P 500 Minimum Volatility UCITS ETF
+IHSWF	NIL
+IKGPF	NIL
+IMCUF	I.M.A. Industria Macchine Automatiche S.p.A.
+IMMQF	Immobiliare Grande Distribuzione SIIQ S.p.A.
+IMMVF	Immunovia AB (publ)
+IMPNF	Imperial Mining Group Ltd.
+INCPF	NIL
+INDPF	InnovaDerma PLC
+INEOF	NIL
+ININF	NIL
+INLCF	NIL
+INOTF	Predictiv AI Inc.
+IOWFF	NIL
+IPHLF	NIL
+IPLNF	Implenia AG
+IPSBF	Impulsora del Desarrollo y el Empleo en América Latina, S.A.B. de C.V.
+IRJHF	NIL
+IRRAF	IRRAS AB
+ISHFF	iShares $ Short Duration Corporate Bond UCITS ETF
+ITCTY	ITC Limited
+ITMPF	ITM Power Plc
+ITVMF	NIL
+IVBXF	Innovent Biologics, Inc.
+IVCTF	NIL
+IVECF	INVESCO MARKETS PLC INVESCO CNS
+IVEVF	Inventiva S.A.
+IVUFF	IVU Traffic Technologies AG
+IVUSF	INVESCO MARKETS PLC INVESCO FIN
+IWBCF	NIL
+IWGFF	IWG plc
+IWTNF	Iwatani Corporation
+IXBOF	NIL
+IXRRF	NIL
+JALC	Adams (JOHN) Life Corp.
+JAXAF	Jaxsta Limited
+JCBXF	NIL
+JCRRF	NIL
+JDCMF	JD.com, Inc.
+JDEPF	JDE PEETS N.V.
+JDHIF	JD Health International Inc.
+JFHHF	JUPITER FUND MANAGEMENT PLC
+JGLCF	JS Global Lifestyle Company Limited
+JIUMF	Jiumaojiu International Holdings Limited
+JMDMF	NIL
+JPPMF	NIL
+JPPPF	NIL
+JQTMF	NIL
+JREIF	Japan Real Estate Investment Corporation
+JSEOF	Jerusalem Economy Ltd
+JYUAF	NIL
+KAMRF	Kalamazoo Resources Limited
+KANAF	G Mining Ventures Corp.
+KDIXF	NIL
+KDKWF	NIL
+KDSKF	Koninklijke DSM N.V.
+KEIHF	NIL
+KESPF	Kleos Space S.A.
+KEYCF	NIL
+KGAUF	Kongsberg Automotive ASA
+KHOTF	Kahoot! AS
+KISLF	NIL
+KIYOF	NIL
+KKMSF	NIL
+KKWFF	Royal Boskalis Westminster N.V.
+KLTHF	Koolearn Technology Holding Limited
+KMAAF	Komax Holding AG
+KMNCF	Kingsmen Creatives Ltd.
+KMNNF	NIL
+KMSHF	NIL
+KMUXF	NIL
+KNBHF	Knorr-Bremse Aktiengesellschaft
+KNDGF	Kindred Group plc
+KNGW	NIL
+KNMOF	NIL
+KNNCF	NIL
+KNTPF	Kintor Pharmaceutical Limited
+KNVKF	Kinnevik AB
+KPJHF	KPJ Healthcare Berhad
+KPSGF	NIL
+KREVF	Keppel REIT
+KRMCF	KRM22 Plc
+KRMMF	NIL
+KRSOF	Karsan Otomotiv Sanayii ve Ticaret A.S.
+KSOJF	NIL
+KTDYF	NIL
+KTGGF	NIL
+KTHUF	Kathmandu Holdings Limited
+KTITF	NIL
+KTPPF	Katipult Technology Corp.
+KVGOF	KAVANGO RESOURCES PLC
+KWLGF	KWG Living Group Holdings Limited
+KWWMF	Kew Media Group Inc.
+KYMCF	NIL
+LABFF	Laboratorios Farmaceuticos Rovi, S.A.
+LARRF	Laird PLC
+LBKLF	Linkbal Inc.
+LCHIF	Leoch International Technology Limited
+LCHTF	NIL
+LECNF	NIL
+LFCAF	Lifco AB (publ)
+LFTPF	NIL
+LFTSF	NIL
+LFYEF	NIL
+LGNRF	Legend Holdings Corporation
+LGUPF	NIL
+LIFX	Life360, Inc.
+LJUIF	SSY Group Limited
+LKADF	NIL
+LLAZF	NIL
+LLXXF	MULTI UNITS LUXEMBOURG
+LMGHF	LINK Mobility Group Holding ASA
+LMMPF	NIL
+LNDLF	NIL
+LNETF	NIL
+LNSPF	LondonMetric Property Plc
+LNTEF	LINTEC Corporation
+LOIMF	Loomis AB (publ)
+LOQPF	accesso Technology Group plc
+LPDNF	Clime Investment Management Limited
+LSIIF	Lisi S.A.
+LSRCF	Lasertec Corporation
+LSRCY	Lasertec Corporation
+LSXEF	LaSalle Exploration Corp.
+LTTZF	NIL
+LYPHF	NIL
+LYSGF	Lysogene S.A.
+MABHF	NIL
+MAKAF	MAKARA MINING CORP
+MAOFF	NIL
+MAOTF	Itissalat Al-Maghrib (IAM) S.A.
+MARZF	Marston's PLC
+MAUGF	NIL
+MAWAF	NIL
+MBHPF	NIL
+MCDBF	Mcdermott International Ltd.
+MCDIF	Mcdermott International Ltd.
+MCDTF	Mcdermott International Ltd.
+MCIAF	NIL
+MCKAF	McKay Securities Plc
+MCOIF	MultiChoice Group Limited
+MDBPF	Medibank Private Limited
+MDCLF	MedinCell S.A.
+MDDCF	NIL
+MDICF	Midland IC&I Limited
+MDRSF	MEDARTIS HOLDING AG
+MDTKF	MediaTek Inc.
+MDTWF	Mediterranean Towers Ltd.
+MEBUF	Mebuki Financial Group, Inc.
+MECNY	NIL
+MEDGF	Medacta Group SA
+MEISF	MAEDA SEISAKUSHO CO
+MEIUF	Meitu, Inc.
+MEKTF	NIL
+MEMI	Miracle Entertainment Inc.
+METOF	NIL
+MFLPF	NIL
+MGJNF	
+MGMGF	NIL
+MGPUF	M&G plc
+MGRLF	NIL
+MGTTF	NIL
+MGVMF	Musgrave Minerals Limited
+MGXRF	Zinc8 Energy Solutions Inc.
+MITPF	Mithra Pharmaceuticals SA
+MIURF	NIL
+MJWNF	Naked Wines plc
+MKENF	NIL
+MKNGF	Mkango Resources Ltd.
+MKYSF	NIL
+MLGRF	NIL
+MLPLF	NIL
+MLTCF	Multiconsult ASA
+MLYSF	Marley Spoon AG
+MMBMF	MásMóvil Ibercom, S.A.
+MMCOF	NIL
+MMHEF	NIL
+MMILF	NIL
+MNBRF	NIL
+MNFSF	ManifestSeven Holdings Corporation
+MNIVF	NIL
+MNKHF	Montauk Holdings Limited
+MNYFF	NIL
+MOBEF	NIL
+MOBVF	NIL
+MOBXF	Mobotix AG
+MOIFF	NIL
+MOYFF	Mynaric AG
+MPHBF	NIL
+MQCTF	NIL
+MRCIF	Mercari, Inc.
+MRCWF	Mercer Park Brand Acquisition Corp.
+MRGMF	NIL
+MRGN	Mergence Corp.
+MRLWF	Marlowe plc
+MROMF	Micromedic Technologies Ltd
+MRPRF	MERLIN Properties SOCIMI, S.A.
+MRTTF	NIL
+MRUHF	NIL
+MRVOF	NIL
+MSCZF	NIL
+MSHXF	MITSUBISHI SHOKUHIN CO LTD
+MSPAF	MailUp S.p.A.
+MSRDF	Mastrad Société Anonyme
+MTEI	Mountain Energy Inc
+MTFGF	Mountfield Group Plc
+MTRPF	Metro Systems Corporation Public Company Limited
+MTSKF	NIL
+MTVMF	Metro Ticari ve Mali Yatirimlar Holding A.S.
+MULPF	NIL
+MUPQF	NIL
+MXDHF	MDxHealth SA
+MXGBF	Molson Coors Canada Inc.
+MXLLF	
+MXSPF	Mondo TV S.p.A.
+MXVAF	NIL
+MYBUF	Meyer Burger Technology AG
+MYMRF	NIL
+MZPS	American Environmental, Inc.
+MZTFF	MIZRAHI TEFAHOT BANK LTD
+MZZMF	NIL
+NACQF	NextPoint Acquisition Corp.
+NAECF	NIL
+NBGLF	NIL
+NCTKF	Nabtesco Corporation
+NDDLF	Nedap N.V.
+NDMCF	New Destiny Mining Corp.
+NENTF	Nordic Entertainment Group AB (publ)
+NETGY	NIL
+NETLF	NIL
+NETTF	NIL
+NEWUF	Newtopia Inc.
+NEXNF	NEXE Innovations Inc.
+NEXPF	Nexi S.p.A.
+NFONF	NFON AG
+NFYEF	NFI Group Inc.
+NGXXF	NGEx Minerals Ltd.
+NHBAF	Nichiban Co., Ltd.
+NHCZF	Nihon Chouzai Co.,Ltd.
+NHMAF	Nihon M&A Center Inc.
+NHOXF	Nederman Holding AB (publ)
+NICMF	Nickel Mines Limited
+NIPCF	NIL
+NJMVF	Nichols plc
+NKZFF	NIL
+NLVGF	New Look Vision Group Inc.
+NMEHF	Nomura Real Estate Holdings, Inc.
+NNDNF	Nidec Corporation
+NNFSF	Nongfu Spring Co., Ltd.
+NNMTF	NIL
+NNOCF	Nanoco Group plc
+NNYAF	NIL
+NOGFY	NIL
+NOXOF	Noxopharm Limited
+NPCDF	NIL
+NPCPF	Nippon Paint Holdings Co., Ltd.
+NPEGF	Nippon Electric Glass Co., Ltd.
+NPMFF	NIL
+NPNGY	NIL
+NPONF	Nippon Prologis REIT, Inc.
+NPRTF	NIL
+NRFPF	NIL
+NRNVF	Nordic Nanovector ASA
+NRRMF	NIL
+NSPKF	NIL
+NTSGF	NIL
+NTTDF	NTT DATA Corporation
+NTTIF	NIL
+NUVCF	Nuvei Corporation
+NVLPF	Nova Leap Health Corp.
+NVMLF	NIL
+NVYYF	Navy Resources Corp.
+NWARF	Norwegian Air Shuttle ASA
+NWBTF	NIL
+NWTCF	NIL
+NXLLF	NIL
+NYLXF	NIL
+NZSTF	NZX Limited
+OARRF	NIL
+OKCTF	NIL
+OKENF	Okeanis Eco Tankers Corp.
+OLOXF	DB Crude Oil Long ETN
+OMLAF	NIL
+ONBPF	NIL
+ONPPF	Oncopeptides AB (publ)
+ONSTF	NIL
+ORIOF	NIL
+ORMIF	NIL
+ORPEF	Orpea SA
+ORWHF	Oriental Watch Holdings Limited
+ORYZF	Oryzon Genomics S.A.
+OSHIF	OISHI GROUP PUBLIC CO LTD
+OSOTF	NIL
+OSSDF	OssDsign AB (publ)
+OTGLF	CD Projekt S.A.
+OVACF	NIL
+OVWRF	NIL
+OWECF	NIL
+OXBDF	Oxford Biomedica plc
+PAAFF	NIL
+PANHF	Ping An Healthcare and Technology Company Limited
+PATLF	NIL
+PBCBF	PUBLICIS GROUPE SA
+PBGDF	NIL
+PBHDF	PARAMOUNT BED HOLDINGS CO LTD
+PBIIF	NIL
+PBLOF	Public Bank Berhad
+PBTDF	NIL
+PBYBF	NIL
+PBYYF	NIL
+PCCOF	NIL
+PCELF	PowerCell Sweden AB (publ)
+PCHG	NIL
+PCNEF	NIL
+PCSGF	NIL
+PCTNF	NIL
+PDIYF	NIL
+PECN	Photoelectron Corp.
+PETFF	PTT Public Company Limited
+PFFEF	Pool Safe Inc.
+PGYOF	NIL
+PHDVF	NIL
+PHIG	PHI Group Inc.
+PHIGW	PHI Group Inc.
+PIKL	Piksel, Inc.
+PINWF	Pinnacle Renewable Energy Inc.
+PKNHF	NIL
+PKNOF	Proteak Uno, S.A.B. de C.V.
+PKRSF	NIL
+PKSVF	Bank Polska Kasa Opieki S.A.
+PLLDF	NIL
+PLLWF	Polarean Imaging plc
+PLNBF	NIL
+PLPHF	NIL
+PLUNF	NIL
+PLXRF	NIL
+PMCUF	Pro Medicus Limited
+PMGMF	Play Magnus AS
+PMYLF	Boab Metals Limited
+PNEXF	Pharnext SA
+PNNLF	NIL
+PNSAF	NIL
+PONGF	Atari SA
+POSAF	POSaBIT Systems Corporation
+PPHOF	NIL
+PPLXF	People Corporation
+PPSSF	NIL
+PRBDF	Personal Group Holdings Plc
+PRCRF	NIL
+PROAF	NIL
+PRPRF	Prairie Provident Resources Inc.
+PRRCF	ProCredit Holding AG & Co. KGaA
+PRRUF	Immutep Limited
+PRWYF	Prodways Group SA
+PRXTF	Pure Extracts Technologies Corp.
+PSHZF	Pershing Square Holdings, Ltd.
+PSKXF	NIL
+PSSKF	NIL
+PTCHF	PureTech Health plc
+PTCXF	WILMAR CAHAYA INDONESIA TBK
+PTHXF	NIL
+PTJYF	NIL
+PTMIF	NIL
+PTPBF	NIL
+PTPLF	PT Puradelta Lestari Tbk
+PTRRF	NIL
+PTTCF	NIL
+PTTPF	PTT Public Company Limited
+QCKSF	Quickstep Holdings Limited
+QFEEF	NIL
+QNDPF	NIL
+QNTFF	Quantafuel ASA
+QTGPF	Qt Group Oyj
+RABSF	NIL
+RAMMF	RAMM Pharma Corp.
+RAONF	NIL
+RAZFF	Razer Inc.
+RBFBF	NIL
+RCLFF	RCL Foods Limited
+RCPUF	Recipe Unlimited Corporation
+RDBBF	Redbubble Limited
+RDLYF	Readly International AB (publ)
+RDTMF	Red Tiger Mining Inc.
+REBOF	NIL
+RECEF	NIL
+RECOF	NIL
+REEEF	NIL
+REFHF	NIL
+REGMF	RemeGen Co., Ltd.
+REOVF	NIL
+RETDF	Reit 1 Ltd
+RGEXF	Resource Generation Limited
+RGGGF	NIL
+RGGLF	Regional REIT Limited
+RGNNF	NIL
+RGNTF	NIL
+RGPCF	Ratch Group Public Company Limited
+RHCCF	Royal Helium Ltd.
+RHILF	Round Hill Music Royalty Fund Limited
+RINIF	Rinnai Corporation
+RIOXF	NIL
+RKSLF	NIL
+RKWAF	ROCKWOOL International A/S
+RLHCY	NIL
+RLLMF	Real Matters Inc.
+RLMLF	NIL
+RMIHF	NIL
+RMISF	RM2 International S.A.
+RMMRF	NIL
+RMRHF	Rand Merchant Investment Holdings Limited
+RNGUF	NIL
+RNNCF	NIL
+RNWHF	Renew Holdings plc
+ROYHF	
+RPSGF	RPS Group plc
+RPYTF	Reply S.p.A.
+RRHMF	NIL
+RROYF	RE Royalties Ltd.
+RSDEF	NIL
+RSTCF	NIL
+RTBBF	Rathbone Brothers Plc
+RTGIF	Roto-Gro International Limited
+RTGOF	ArtGo Holdings Limited
+RTNXF	Renalytix AI plc
+RTWFF	RTW Venture Fund Limited
+RUDQF	RBC QUANT U S DIVID LEADERS ETF
+RUEXF	
+RYGYF	NIL
+RYSKF	NIL
+SADMF	Sanatana Resources Inc.
+SAEOF	Sanden Holdings Corporation
+SAEYY	Shop Apotheke Europe N.V.
+SAHAF	NIL
+SCANF	NIL
+SCBGF	SIG COMBIBLOC GROUP AG
+SCLZF	NIL
+SCNFF	NIL
+SCOTF	Scout24 AG
+SCPKF	7C SOLARPARKEN AG
+SCPPF	S4 Capital plc
+SCRRF	NIL
+SCSKF	NIL
+SCTSF	Scottie Resources Corp.
+SDGCF	Sundrug Co.,Ltd.
+SDIIF	SDI Group plc
+SDOSF	ScandiDos AB (publ)
+SDXEF	SDX Energy plc
+SEAMF	NIL
+SEDKF	PT Sumber Energi Andalan Tbk
+SEIGF	Semperit Aktiengesellschaft Holding
+SENIF	NIL
+SEOTF	Seino Holdings Co., Ltd.
+SEQIF	NIL
+SERKF	Serko Limited
+SEZNL	Sezzle Inc.
+SFCCF	NIL
+SFFFF	FFP Société anonyme
+SFFRF	NIL
+SFIIF	Skyfii Limited
+SFSA	Sidney Federal Savings and Loan Association
+SFSHF	Safestore Holdings plc
+SGBCF	NIL
+SGFLF	NIL
+SGLLF	NIL
+SHBTF	NIL
+SHEZF	NIL
+SHIEF	Shield Therapeutics plc
+SHJBF	NIL
+SHKEF	NIL
+SHKRF	NIL
+SHMMF	NIL
+SHMTF	NIL
+SHOFF	NIL
+SHPHF	Sihuan Pharmaceutical Holdings Group Ltd.
+SHPOF	NIL
+SHPPF	Shop Apotheke Europe N.V.
+SHRRF	S Hotels and Resorts Public Company Limited
+SHUFF	Shufersal Ltd.
+SIACF	NIL
+SIGCY	NIL
+SIGRF	NIL
+SIIXF	NIL
+SIMEF	Sime Darby Property Berhad
+SISPF	NIL
+SIUAF	Stabilus S.A.
+SKBNF	Shikun & Binui Ltd.
+SKKRF	SKRR Exploration Inc.
+SLFFF	Future Mobility Solutions Limited
+SLGBF	good natured Products Inc.
+SLMCF	Salmones Camanchaca S.A.
+SLSCF	NIL
+SLUNF	Solutions 30 SE
+SLVFF	Silverlake Axis Ltd
+SLZNF	SLAVE LAKE ZINC CORP
+SMAYF	SIMEC Atlantis Energy Limited
+SMEGF	Siemens Energy AG
+SMHGF	NIL
+SMHRY	NIL
+SMIRF	NIL
+SMLKF	NIL
+SMNEY	Siemens Energy AG
+SMORF	NIL
+SNTNF	NIL
+SOAGY	Sartorius Aktiengesellschaft
+SORHF	Strategic Elements Ltd
+SOVTF	SONAECOM SGPS S.A
+SPCGF	NIL
+SPEYF	SPEY RESOURCES CORP
+SPGHF	NIL
+SPHNF	NIL
+SPPEF	Spice Private Equity AG
+SPQDF	Specialty Liquid Transportation Corp.
+SRAMF	SISRAM MEDICAL LTD
+SRGGF	NIL
+SRMGF	SpareBank 1 SMN
+SRPIF	NIL
+SSCHF	NIL
+SSHLF	NIL
+SSLLF	Siltronic AG
+SSSB	NIL
+SSTEF	NIL
+SSYNF	Sensyne Health plc
+STAOF	Sing Tao News Corporation Limited
+STBBF	Strabag SE
+STBK	STUDIO BK
+STCPF	NIL
+STECF	Scatec ASA
+STGRF	NIL
+STGXF	NIL
+STHHF	Steinhoff International Holdings N.V.
+STINF	NIL
+STKMF	Sotkamo Silver AB
+STLFF	Stillfront Group AB (publ)
+STMAF	NIL
+STMRF	NIL
+STNDF	Santander UK plc
+STPRF	NIL
+STRYF	Storytel AB (publ)
+STTTF	Splitit Payments Ltd
+STUPF	Straightup Resources Inc.
+STVMF	Stavely Minerals Limited
+STXPF	Stuhini Exploration Ltd.
+STYDF	NIL
+SULMF	Sulliden Mining Capital Inc.
+SUMGF	Sumo Group Plc
+SUNPF	Sun Peak Metals Corp.
+SUOXF	NIL
+SUPCF	NIL
+SUSRF	Surgical Science Sweden AB (publ)
+SVAKF	NIL
+SVBM	NIL
+SVCRF	NIL
+SXPHF	NIL
+SYDDF	Sydney Airport Limited
+SYGGF	Synairgen plc
+SYKKF	NIL
+SYMRF	NIL
+SZDEF	Dongjiang Environmental Company Limited
+SZGEF	SenzaGen AB
+SZOXF	DB Crude Oil Short ETN
+TAHIF	NIL
+TAJIF	Tajiri Resources Corp.
+TAOFF	NIL
+TAPCF	TAI PING CARPETS INTERNATIONAL
+TAVKF	NIL
+TBCRF	Timbercreek Financial Corp.
+TBET	Tibet Pharmaceuticals, Inc.
+TBIIF	Tobii AB (publ)
+TBUIF	Tubi Limited
+TCHGF	NIL
+TCLHF	TCL Electronics Holdings Limited
+TCLIF	Theraclion Société anonyme
+TCNRF	NIL
+TCPDF	NIL
+TDGDF	Transportadora de Gas del Norte S.A.
+TDRCF	NIL
+TDTRF	NIL
+TERNF	Tern Plc
+TGMEF	NIL
+TGPHF	NIL
+TGRNF	Tong Ren Tang Technologies Co. Ltd.
+THGHY	NIL
+THOXF	BioPorto A/S
+THPTF	NIL
+THXPF	
+TICSF	NIL
+TIEKF	NIL
+TIHRF	Tharisa plc
+TILCF	Till Capital Corporation
+TLTRF	NIL
+TMAUF	NIL
+TMKUF	NIL
+TMMTF	NIL
+TMPHF	Tempus Holdings Limited
+TMPTF	NIL
+TMSPF	NIL
+TMVWF	TeamViewer AG
+TNCMF	NIL
+TNEXY	Tinexta S.p.A.
+TNGZF	TNG Limited
+TNHDF	Times Neighborhood Holdings Limited
+TNISF	Técnicas Reunidas, S.A.
+TNLIF	Trainline Plc
+TNOXF	NIL
+TNPOF	NIL
+TNSMF	TITANIUM SANDS LTD
+TORIF	NIL
+TPCAF	Tipco Asphalt Public Company Limited
+TPGTF	NIL
+TPPIF	Palla Pharma Limited
+TPSRF	NIL
+TRATF	Traton SE
+TRCSY	NIL
+TRFNF	TruFin plc
+TRGNF	Transgene SA
+TRICF	Trichome Financial Corp.
+TRITF	Tri-Tech Holding Inc.
+TRSUF	NIL
+TRUFF	Red Light Holland Corp.
+TSAKF	NIL
+TSCRF	Score Media and Gaming Inc.
+TSEQF	NIL
+TSHCF	NIL
+TUERF	True North Commercial Real Estate Investment Trust
+TWMIF	Tidewater Midstream and Infrastructure Ltd.
+TWNAF	NIL
+TWRKF	
+TYCOF	NIL
+TYHOF	Toyota Tsusho Corporation
+TYNPF	Nippon Sanso Holdings Corporation
+TYPMF	Tyro Payments Limited
+TYXXF	Tyranna Resources Limited
+UBAZF	Uzabase, Inc.
+UBIHF	NIL
+UBLXF	u-blox Holding AG
+UBSSF	UBS Property Swiis Mixed Sima Fund
+UCLQF	UltraTech Cement Limited
+UCLQY	
+UFHGF	NIL
+ULTMF	NIL
+ULVAF	NIL
+UMRRF	NIL
+UMSSF	
+UPRM	USA Performance Products, Inc
+UQAIF	NIL
+USMHF	United Super Markets Holdings Inc.
+UTOLF	TraceSafe Inc.
+UTWTF	UCapital24 S.p.A.
+UVSTF	NIL
+VAQTF	va-Q-tec AG
+VBIZF	Viva Biotech Holdings
+VCHLF	NIL
+VERKF	NIL
+VGLIF	NIL
+VGPBF	VGP NV
+VKGLF	NIL
+VKMTF	Victory Metals Inc.
+VKSKF	Vital KSK Holdings, Inc.
+VLTLF	NIL
+VLXGF	Volex plc
+VOAXF	Voltabox AG
+VRSRF	Versarien plc
+VSBGF	VSBLTY Groupe Technologies Corp.
+VSIOF	NIL
+VSTKF	VNV Global AB (publ)
+VSYNF	NIL
+VTMXF	VITAL METALS LIMITED
+VULNF	Vulcan Energy Resources Limited
+WAKHF	
+WBTMU	Westbrook-Thompson Overriding Royalty Trust
+WCHEF	Winchester Energy Limited
+WDCTF	NIL
+WECMF	WeCommerce Holdings Ltd.
+WEMXF	Weimob Inc.
+WGNHF	NIL
+WHSPF	Whispir Limited
+WHWRF	World Houseware (Holdings) Limited
+WICOF	NIL
+WKAPF	NIL
+WKPPF	Workspace Group plc
+WLBEF	NIL
+WLCGF	NIL
+WLDBF	WildBrain Ltd.
+WLMTF	Wuling Motors Holdings Limited
+WMCLF	NIL
+WMWWF	West Wits Mining Limited
+WMWXF	DEUTSCHE BANK AG LONDON
+WOBK	NIL
+WONEF	WEQ Holdings Inc.
+WPMLF	Western Pacific Minerals Ltd.
+WPNTF	WARPAINT LONDON PLC
+WSEWF	NIL
+WSPCF	W-SCOPE CORPORATION
+WSRNF	NIL
+WTCHF	WiseTech Global Limited
+WTLLF	Water Intelligence plc
+WTWGF	NIL
+WUXIF	WuXi AppTec Co., Ltd.
+WWRL	World Wireless Communications, Inc.
+WXIBF	WuXi Biologics (Cayman) Inc.
+XDNCF	NIL
+XIORF	XIOR STUDENT HOUSING NV
+XRTEF	Xeros Technology Group plc
+YGETF	NIL
+YGMTF	NIL
+YGWAF	
+YIGRF	NIL
+YIHCF	NIL
+YKYOF	NIL
+YMZNF	NIL
+YOJEF	NIL
+YQUFF	Quonia Socimi, S.A.
+YRCCF	NIL
+YSHOF	YOSHITAKE INC
+YTOEF	YTO Express (International) Holdings Limited
+ZEUCF	ZeU Technologies Inc.
+ZHCLF	Zenith Capital Corp.
+ZHHHF	NIL
+ZIZTF	ZIP CO LTD
+ZLNWF	NIL
+ZMDTF	Zoomd Technologies Ltd.
+ZMPLF	Zimplats Holdings Limited
+ZNOGF	Zoono Group Limited
+ZOEFF	NIL
+ZSTTF	BMO ULTRA SHORT-TERM BD FD UNIT
+ZULU	Zulu-Tek Inc
+ZWPEF	NIL
+ZWTYF	ZHONGDE WASTE TECHNOLOGY AG
+ZZCLF	NIL
+TFRFF	Tefron Ltd.
+MAYX	Mayex USA, Inc.
+MGYOY	és Gázipari Nyilvánosan Muködo Részvénytársaság
+TTCNF	Telit Communications PLC
+ALORY	Alior Bank S.A.
+ASOZF	Asseco Poland S.A.
+ASOZY	Asseco Poland S.A.
+BREJY	mBank S.A.
+EUSHY	Eurocash S.A.
+KRKKF	KRUK Spólka Akcyjna
+MBAKF	NIL
+PGSWF	PGS SOFTWARE SA
+PSZKY	Powszechna Kasa Oszczednosci Bank Polski Spólka Akcyjna
+PTTWF	Orange Polska S.A.
+TNPGY	NIL
+MOBQD	Mobiquity Technologies, Inc.
+SCOR	comScore, Inc.
+OPXS	Optex Systems Holdings, Inc
+TURV	Two Rivers Water & Farming Company
+CBKC	Christopher & Banks Corporation
+RTWI	RTW Retailwinds, Inc.
+RTWIQ	RTW Retailwinds, Inc.
+SMRTQ	Stein Mart, Inc.
+SSINQ	Stage Stores, Inc.
+TLRDQ	Tailored Brands, Inc.
+CTRCQ	Centric Brands Inc.
+FJHLD	Fovea Jewelry Holdings, Ltd.
+RGNPD	Reign Resources Corporation
+GRWCD	Grow Capital, Inc.
+INTZ	Intrusion Inc.
+LVXID	Maptelligent, Inc.
+MNKGD	Blueone Card Inc.
+PRFCD	NIL
+UNEQD	NIL
+APHDD	NIL
+SWKH	SWK Holdings Corporation
+DYAI	Dyadic International, Inc.
+EMIS	Emisphere Technologies, Inc.
+HGEN	Humanigen, Inc.
+IMUCD	ImmunoCellular Therapeutics, Ltd.
+LIXT	Lixte Biotechnology Holdings, Inc.
+ONPHD	Oncology Pharma Inc.
+PARSD	W World Corp.
+PRED	Predictive Technology Group, Inc.
+QBIO	Q BioMed Inc.
+QPWRD	QSAM Biosciences, Inc.
+VBIO	Vitality Biopharma, Inc.
+VODG	Vitro Diagnostics, Inc.
+VVUSQ	VIVUS, Inc.
+WINTD	NIL
+ITRKD	Loop Media, Inc.
+MHHCD	MHHC Enterprises Inc.
+MGHLD	Morgan Group Holding Co.
+BBXTD	BBX Capital Corporation
+ZMTP	Zoom Telephonics, Inc.
+TSSI	TSS, Inc.
+PEIWD	Sante Technology Holdings Inc.
+SMID	Smith-Midland Corporation
+AGMFP	Federal Agricultural Mortgage Corporation
+COFKL	Capital One Financial Corporation
+JCPNQ	Old COPPER Company, Inc.
+GMOL	General Moly, Inc.
+LITH	BioELife Corp.
+EENXD	AI Technology Group Inc.
+ESRGD	NIL
+FLUX	Flux Power Holdings, Inc.
+LRDG	Lord Global Corporation
+TOMZD	TOMI Environmental Solutions, Inc.
+PACVD	NIL
+LBYYQ	Libbey Inc.
+INVO	INVO Bioscience, Inc.
+INVOD	INVO Bioscience, Inc.
+SOLI	Solei Systems, Inc.
+HNGR	Hanger, Inc.
+BIPHD	Safeplus International Holdings Limited
+ELGXQ	Endologix, Inc.
+STXS	Stereotaxis, Inc.
+TRDXD	Trend Exploration, Inc.
+VLRXQ	Valeritas Holdings, Inc.
+OPRX	OptimizeRx Corporation
+GXXMD	GEX Management, Inc.
+TUESQ	Tuesday Morning Corporation
+CPAA	Conyers Park II Acquisition Corp.
+GHHHD	GPO Plus, Inc.
+NTAHD	Richland Resources International Group Inc.
+VREOF	Vireo Health International, Inc.
+WISH	ContextLogic Inc.
+BGGSQ	Briggs & Stratton Corporation
+EVTND	Enviro Technologies, Inc.
+JASNQ	Jason Industries, Inc.
+GMGID	Golden Matrix Group, Inc.
+DEELD	Shonghoya Intl Group Inc.
+UBIDD	NIL
+JMDA	Jerrick Media Holdings, Inc.
+SFORD	StrikeForce Technologies, Inc.
+DRCO	NIL
+GOIGD	TransWorld Holdings, Inc.
+ROKKD	NIL
+SABRP	Sabre Corporation
+POWW	AMMO, Inc.
+EMGC	Emergent Capital, Inc.
+MDWTD	Midwest Holding Inc.
+AACH	AAC Holdings, Inc.
+QHCCQ	Quorum Health Corporation
+BRKKD	NIL
+FUBO	fuboTV Inc.
+ADPAJ	Adelphia Recovery Trust
+AHCOW	NIL
+JETMD	Global Crossing Airlines Inc.
+NEWTL	Newtek Business Services Corp.
+PAACR	NIL
+PAACW	Proficient Alpha Acquisition Corp.
+SHGY	SearchGuy.com, Inc.
+CDRLD	Torque Lifestyle Brands, Inc.
+GRTDD	Home Bistro Inc.
+MILVD	NIL
+OCSMD	Astra Energy Inc.
+VATED	NIL
+GNCIQ	GNC Holdings, Inc.
+ACRGF	Acreage Holdings, Inc.
+AKRXQ	Akorn, Inc.
+HSDEF	Harborside Inc.
+LVGID	Limitless Venture Group Inc.
+RLMD	Relmada Therapeutics, Inc.
+MNIQQ	The McClatchy Company
+URALD	United Rail, Inc.
+HIHID	Holiday Island Holdings, Inc.
+ECDPD	Eco Depot Inc.
+EXPI	eXp World Holdings, Inc.
+GLFWD	Wetouch Technology Inc.
+BCML	BayCom Corp
+CALB	California BanCorp
+CARE	Carter Bankshares, Inc.
+CIBHD	CIB Marine Bancshares, Inc.
+DBCP	Partners Bancorp
+FHNCL	First Horizon National Corporation
+FRCLL	First Republic Bank
+FVCB	FVCBankcorp, Inc.
+FXNC	First National Corporation
+MNSB	MainStreet Bancshares, Inc.
+MSVB	Mid-Southern Bancorp, Inc.
+SCBH	Seacoast Commerce Banc Holdings
+STND	Standard AVB Financial Corp.
+WSBKL	WesBanco, Inc.
+CRGED	Clenergen Corp.
+HCCCD	Vision Hydrogen Corporation
+IMLED	SOBR SAFE, Inc.
+VRME	VerifyMe, Inc.
+WRTC	Wrap Technologies, Inc.
+TGAN	Transphorm, Inc.
+NMGX	Nano Magic Inc.
+STTHD	NIL
+YAYO	Rideshare Rental, Inc.
+FCBP	First Choice Bancorp
+GFOOD	Genufood Energy Enzymes Corp.
+NDYND	Vinings Holdings Inc.
+TROND	All Things Mobile Analytic Inc.
+REVID	NIL
+AWSMD	Simply, Inc.
+PIRRQ	Pier 1 Imports, Inc.
+COMS	ComSovereign Holding Corp. Common Stock
+TRHFD	Fah Mai Hldgs Group Inc.
+TRNF	Taronis Fuels, Inc.
+GNOLF	Genoil Inc.
+TOAOF	TOA Oil Co., Ltd.
+TOILF	3D Oil Limited
+SPOC	Spectrum Technology Corporation
+ABVC	American BriVision (Holding) Corporation
+BASA	Basanite Inc.
+MFON	Mobivity Holdings Corp.
+SMSMY	Sims Limited
+BRTHY	Brother Industries, Ltd.
+LNVGY	Lenovo Group Limited
+LRLCY	L'Oréal S.A.
+TSGTY	Tsingtao Brewery Company Limited
+NFRMY	Nufarm Limited
+SBGSY	Schneider Electric S.E.
+BRRZY	Total Brain Limited
+SBNC	Southern BancShares (N.C.), Inc.
+GFSZY	G4S plc
+MHPC	Manufactured Housing Properties Inc.
+GEAGY	GEA Group Aktiengesellschaft
+TTAPY	TTW Public Company Limited
+SAFO	Save Foods, Inc.
+PANDY	Pandora A/S
+HKTTY	HKT Trust and HKT Limited
+ROSN	Rosinbomb
+NGLD	Nevada Canyon Gold Corp.
+CYBQY	CYBERDYNE Inc.
+KGJI	Kingold Jewelry, Inc.
+MGNT	Meganet Corporation
+MYTAY	Magyar Telekom Távközlési Nyilvánosan Müködö Részvénytársaság
+OTPIY	NIL
+GEDRY	
+TOMDF	Todos Medical Ltd.
+TEVJF	Teva Pharmaceutical Industries Limited
+IGLDF	Golden Lines Ltd.
+NPWI	Chengda Technology Co., Ltd.
+BKHPY	
+BITCF	First Bitcoin Capital Corp.
+PSKOF	NIL
+GBCEY	Globe Trade Centre S.A.
+TIXC	Tix Corporation
+CTAM	A.M. Castle & Co.
+UGRO	urban-gro, Inc.
+TNYYF	Tinybeans Group Limited
+SCON	Superconductor Technologies Inc.
+GLIBB	GCI Liberty, Inc.
+PWCO	PwrCor, Inc.
+TGHI	Touchpoint Group Holdings, Inc.
+PWVI	PowerVerde, Inc.
+KAYSD	Kaya Holdings, Inc.
+VPLM	Voip-Pal.com Inc.
+VYGVF	Voyager Digital Ltd.
+TKOI	Telkonet, Inc.
+WFCFD	Where Food Comes From, Inc.
+OPXXW	OPTEX SYSTEMS HOLDINGS INC
+YEWB	Yew Bio-Pharm Group, Inc.
+ZESTD	Ecoark Holdings, Inc.
+VYCO	Vycor Medical, Inc.
+VYST	Vystar Corporation
+MINM	Zoom Telephonics, Inc.
+BFGC	Bullfrog Gold Corp.
+TJBH	Tengjun Biotechnology Corp.
+PETV	PetVivo Holdings, Inc.
+TKCI	TurnKey Capital, Inc.
+GMVP	Gridiron BioNutrients, Inc.
+WINRD	Simplicity Esports and Gaming Company
+VYND	Vynleads, Inc.
+TVNB	The Turbotville National Bank
+SRCO	Sparta Commercial Services, Inc.
+SBDKP	NIL
+SASOF	Sasol Limited
+PTSCD	Mosaic ImmunoEngineering Inc.
+ORBT	Orbit International Corp.
+NTBP	New Tripoli Bancorp, Inc.
+MIFF	Mifflinburg Bancorp, Inc.
+SPRVD	Web To Door, Inc.
+YBGJ	Yubo International Biotech Limited
+PXFG	Phoenix Footwear Group, Inc.
+FGPR	Ferrellgas Partners, L.P.
+RSPI	RespireRx Pharmaceuticals Inc.
+SNLC	Security National Corporation
+SMUPF	Sims Limited
+TKSI	Turnkey Solutions Inc.
+OCBGD	Revium Recovery Inc.
+SNDYD	CYduct Diagnostics, Inc.
+IDAD	IR-Med Inc.
+TTCS	Humanatare Distribution Corp
+WAKE	Wake Forest Bancshares, Inc.
+TKPHF	Takeda Pharmaceutical Company Limited
+QBAK	Qualstar Corporation
+ORBN	Oregon Bancorp, Inc.
+TTBLF	Total Brain Limited
+ABCE	ABCO Energy, Inc.
+BLFE	BioLife Sciences Inc.
+PWBO	Pacific West Bank
+KNSCD	MedSmart Group Inc.
+BAYP	Bayport International Holdings, Inc.
+CERPQ	Cereplast, Inc.
+SCAY	Generations Bancorp NY, Inc.
+MILC	Millennium Investment & Acquisition Company Inc.
+TVLF	Tennessee Valley Financial Holdings, Inc.
+SBBI	S.B.C.P. Bancorp, Inc.
+PXHI	PhoneX Holdings, Inc.
+TONJ	Clubhouse Media Group Inc.
+DTNHF	NIL
+VPRB	VPR Brands, LP
+QUTRD	Born Inc.
+TSOI	Therapeutic Solutions International, Inc.
+DNAXD	DNA Brands, Inc.
+QBAN	Telco Cuba, Inc.
+TTCM	Tautachrome, Inc.
+VRUS	Verus International, Inc.
+VDRM	ViaDerma, Inc.
+TKLS	Trutankless, Inc.
+TTAPF	TTW Public Company Limited
+SXPLQ	NIL
+GOOOD	Winners, Inc.
+RAYT	Rayont, Inc.
+DPSM	3D Pioneer Systems Inc.
+JUDO	
+EMBI	Skye Bioscience, Inc.
+TLCC	Twinlab Consolidated Holdings, Inc.
+PECKW	NIL
+AFINO	American Finance Trust, Inc.
+HSSHF	Digihost Technology Inc.
+LSSDF	DIGITAL LANDSCAPE GROUP INC
+VENV	Venture Vanadium Inc.
+VCTM	NIL
+GHAR	FHT Future Technology Ltd
+VONI	Veroni Brands Corp.
+NSWEF	Nitro Software Limited
+CRBO	Carbon Energy Corporation
+NXPC	Tele Group Corp.
+TVTV	WhereverTV Broadcasting Corporation
+VSYM	View Systems, Inc.
+ZAAG	ZA Group Inc.
+SDTC	Givbux Inc.
+NTEI	Nova Tech Enterprises, Inc.
+SNDD	RedHawk Holdings Corp.
+TVPC	Twin Vee PowerCats, Inc.
+VDPH	VDO-Ph International
+INNO	Unique Logistics International Inc.
+VDKB	Vodka Brands Corp
+YDVL	Yadkin Valley Company
+SMRL	Simtrol, Inc.
+TGIC	Triad Guaranty Inc.
+TODM	Tonopah Divide Mining Co.
+TIRTZ	Tidelands Royalty Trust "B"
+TWAC	TWA Corp.
+VOQP	VioQuest Pharmaceuticals, Inc.
+SBBG	The Seibels Bruce Group, Inc.
+TSPG	TGI Solar Power Group Inc.
+VCTY	Videolocity International, Inc.
+OPST	OPT-Sciences Corporation
+NSYC	National Stock Yards Co.
+YBAO	YBCC, Inc.
+VPTV	VideoPropulsion Interactive Television, Inc.
+GANS	GAINSCO, Inc.
+TSSP	Trendsetter Solar Products, Inc.
+NSTM	NovelStem International Corp.
+ATPTD	Petro U.S.A. Inc.
+TIPS	Tianrong Internet Products and Services, Inc.
+NTGL	NanoTech Gaming, Inc.
+VPRO	Viropro Inc.
+ZCOM	Impreso, Inc.
+OPUS	Opus Magnum Ameris Inc
+ZCBD	Body Basics Inc.
+VUOC	Vu1 Corporation
+TUXS	Tuxis Corporation
+TEUM	Pareteum Corporation
+VCST	ViewCast.com, Inc.
+NTCI	Nutech, Inc.
+NTFY	Notify Technology Corp.
+VYDR	Vydrotech, Inc.
+OPTL	Optimum Interactive USA Ltd.
+TTHG	Titanium Holdings Group, Inc.
+TSRR	Tradestar Resources Corporation
+PVNO	ProVision Operation Systems, Inc.
+VVIT	Vista International Technologies, Inc.
+TURA	Turbine Aviation, Inc.
+NTFL	Network 1 Financial Group, Inc.
+PWLK	Powerlock International Corp.
+CAPD	CannaPowder, Inc.
+VCYE	Velocity Energy Inc.
+VCTL	Rainmaker Systems, Inc.
+SNLS	San Luis Trust Bank FSB
+VPER	Viper Networks, Inc.
+VPGI	Velocity Portfolio Group, Inc
+MIHL	Montague International Holding Ltd.
+PYCT	PayChest, Inc.
+SNLM	Homestead Gold and Silver Ltd
+TISDZ	Treasure Island Royalty Trust
+AAWC	Canning Str Corp.
+SNLP	Syntrol Corp.
+TEXG	Terax Energy, Inc.
+VYON	Viyya Technologies, Inc.
+TSHO	Tradeshow Marketing Company, Ltd.
+VRED	Virtual Ed Link, Inc.
+TEXC	TexCom, Inc.
+ORHB	ORHub, Inc.
+VPOR	Vapor Group, Inc.
+TOGL	Toga Limited
+SNDZ	Sunridge International, Inc.
+TSNI	TechniScan, Inc.
+AREXQ	Approach Resources, Inc.
+SBDG	Small Business Development Group, Inc.
+POTGD	OM Holdings International, Inc.
+SSOLD	Propellus Inc.
+NTEK	NanoTech Entertainment, Inc.
+VEGL	Vegalab, Inc.
+TKGL	TekeGldMpire Inc
+NTCXF	Natcore Technology Inc.
+PWON	Powin Energy Corporation
+VRCV	Varca Ventures, Inc.
+NSRS	North Springs Resources Corp
+ORHK	OrangeHook, Inc.
+SNGY	Synrgy Corp.
+PZOO	Pazoo, Inc.
+VEND	Generation Next Franchise Brands, Inc.
+TONR	Tonner-One World Holdings, Inc.
+OPVS	NanoFlex Power Corporation
+TSTS	That Marketing Solution, Inc.
+SBES	South Beach Spirits, Inc.
+YECO	EV Biologics, Inc.
+PZRXQ	PhaseRx, Inc.
+TTEN	Titan Energy, LLC
+GHHC	Vitana-X, Inc.
+XYNO	Xynomic Pharmaceuticals Holdings, Inc.
+XYNPW	Xynomic Pharmaceuticals Holdings, Inc.
+TNTRQ	Tintri, Inc.
+ZTNO	ZOOM Technologies, Inc.
+WWST	World Wide Stone Corporation
+MLKNA	MedLink International, Inc.
+VCSY	Vertical Computer Systems, Inc.
+DFTS	Defense Technology Systems Inc.
+ISBL	Ise Blu Equity Corp.
+GFCI	Grifco International, Inc.
+TXMC	The Tirex Corporation
+HYII	All Grade Mining, Inc.
+TBACQ	Tandy Brands Accessories, Inc.
+SFRI	Safari Corp.
+HSHL	Home Solutions Health Inc.
+RUNI	Reunion Industries, Inc.
+MHGI	Midnight Holdings Group, Inc.
+ISYX	In-Systcom Inc.
+QMED	QMed, Inc.
+SMAS	Somatic Systems, Inc.
+PTBTQ	Pope & Talbot Inc.
+RFMK	MediGreen Holdings Corporation
+PIED	Piedmont Mining Company, Inc.
+UBEX	United Bullion Exchange, Inc.
+SNMBQ	Sona Mobile Holdings Corp.
+AQIS	Aquis Communications Group, Inc.
+NWBD	New World Brands, Inc.
+SYVC	Synovics Pharmaceuticals, Inc.
+USAE	U.S. Aerospace, Inc.
+ETAR	Entertainment Arts, Inc.
+CSBF	Consolidated Biofuels, Inc.
+NVIC	N-Viro International Corporation
+CTCC	City Capital Corporation
+ATNP	Atlantis Technology Group
+MSLM	Mascot Mines Inc.
+CYPW	Cyclone Power Technologies, Inc.
+WODI	WOD Retail Solutions Inc.
+MSHE	MSH Entertainment Corp.
+ASFJ	ASFG, Inc.
+SYBRQ	Synergy Brands Inc.
+MHCC	Millennium Healthcare, Inc.
+AMNE	American Green Group, Inc.
+OBLR	Orbital Enterprises, Inc.
+INDR	Indie Ranch Media, Inc.
+UNLA	Unilava Corporation
+CSYS	ClearStory Systems, Inc.
+UVCL	Univercell Holdings Inc.
+HLOI	Previsto International Holdings, Inc.
+RCKE	Rock Energy Resources, Inc.
+WSTN	Westlin Corporation
+DRYN	Drayton Richdale Corp.
+MGFX	Monarch Gulf Exploration, Inc.
+GSNC	Global eScience Corp.
+FMFN	First Montauk Financial Corp.
+EPGRQ	Environmental Power Corporation
+DPER	Deep Earth Resources, Inc.
+PRTX	Protalex, Inc.
+ELGT	Electric & Gas Technology, Inc.
+EPEO	E'Prime Aerospace Corporation
+MDSI	Matrix Denture Systems International, Inc
+DYXC	DiaSys Corporation
+ERUC	ER Urgent Care Holdings, Inc.
+EMBA	eMamba International Corporation
+IRBS	IR Biosciences Holdings Inc.
+MDEA	Media 100 Inc.
+EGIL	EdgeTech International, Inc.
+EESO	Enzyme Environmental Solutions, Inc.
+ENCS	Encore Energy Systems, Inc.
+XYNH	Xynergy Holdings, Inc.
+THRA	Therma-Med, Inc.
+COWP	Canal Capital Corporation
+COWPP	Canal Capital Corporation PFD EXCH $1.30
+PMDP	Plateau Mineral Development, Inc.
+ATPL	Atlantis Plastics, Inc.
+KKUR	ChromoCure, Inc.
+BFRE	BlueFire Renewables, Inc.
+NNFC	Nanoforce, Inc.
+HKBV	Hat Trick Beverage, Inc.
+SVXA	Historic Discoveries, Inc.
+SLTZ	Solar Thin Films, Inc.
+ADVT	Advantis Corp.
+STBV	Strategic Global Investments, Inc.
+SYNI	Synvista Therapeutics, Inc.
+SOLU	Solutions Group, Inc.
+IMJX	Imagexpres Corp.
+AERN	AER Energy Resources, Inc
+RHWI	River Hawk Aviation, Inc.
+UDSG	UDS Group, Inc.
+BGII	BGI, Inc.
+VOYT	Voyant International Corp.
+RRIC	Resource Recovery International Corp.
+FBCE	FiberCore, Inc.
+IDCN	Indocan Resources Inc.
+UNDT	Universal Detection Technology
+VBTC	Vubotics, Inc.
+MNZO	Manzo Pharmaceuticals, Inc.
+TWOS	TeleData World Services, Inc.
+GMEI	Gambit Energy, Inc.
+USDC	USDATA Corp.
+TFZI	The Fight Zone, Inc.
+EXPH	Expo Holdings, Inc.
+IPAH	Interpharm Holdings, Inc.
+TERA	TeraForce Technology Corporation
+AVLS	Advanced Lighting Solutions, Inc.
+WKYN	WebSky, Inc.
+CBPJ	CBp Carbon Industries Inc.
+OPHI	Organic Plant Health, Inc.
+GLLA	Gilla Inc.
+SNRS	Sunrise Consulting Group, Inc.
+TNKY	TN-K Energy Group Inc.
+CORC	Cornwall Resources Corp.
+TVCE	TVC Telecom, Inc.
+NHLI	Nouveau Holdings, Ltd.
+NTUR	Natural Blue Resources, Inc.
+LHRP	LifeHOUSE Holdings, LLC
+EHYD	Ehydrogen Solutions, Inc.
+ELED	ExeLED Holdings Inc.
+AIGI	Axia International Group, Inc.
+CXIA	Commodore Applied Technologies, Inc.
+TGCM	Trans-Global Capital Management, Inc.
+TSYI	Terra Systems, Inc.
+ULFS	Ultimate Franchise Systems Inc.
+DNAG	DNAPrint Genomics, Inc.
+EACC	eAutoclaims Inc.
+VLBI	Valentine Beauty, Inc.
+CASG	Canadian Aerospace Group International, Inc.
+SRPX	Scorpex, Inc.
+GITH	Global IT Holdings, Inc.
+ARGW	Argus Worldwide Corp.
+VCMP	VCAMPUS CORP
+RELM	Relm Holdings, Inc.
+MMIO	Marmion Industries Corp.
+WTRO	Wi-Tron, Inc.
+GBDX	Global Diamond Exchange, Inc.
+ITKG	Integral Technologies, Inc.
+TRBD	Turbodyne Technologies, Inc.
+KGET	CaliPharms, Inc.
+ISON	Isonics Corporation
+PGIE	PGI Energy, Inc.
+HGLC	Hunt Gold Corporation
+SNRR	Super Nova Resources, Inc.
+PRHB	Pure H20 Bio-Technologies, Inc.
+SPHM	Spotlight Homes, Inc.
+CKYS	CyberKey Solutions, Inc.
+WWNG	WW Energy, Inc.
+WIFT	Wi-Fi TV, Inc.
+GPXM	Golden Phoenix Minerals, Inc.
+MIKP	Mike the Pike Productions, Inc.
+AVSA	Avisana Corp.
+CNWI	Cardiac Network, Inc.
+DTCO	
+MBAY	MediaBay, Inc.
+PWNX	Powerlinx Inc.
+POPM	PopMail.com, Inc.
+KCPC	Key Capital Corporation
+AENG	Advanced Engine Technologies, Inc.
+CPLT	Commerce Planet, Inc.
+GNPR	Genius Products, Inc.
+WNCP	Wineco Productions, Inc.
+WOAM	World Am, Inc.
+ARSC	Bitcoin Crypto Currency Exchange Corporation
+TEKI	Tek Digitel Corp.
+EMNC	E-Monee.com, Inc
+UWKI	uWink Inc. Del
+BZRT	BizRocket.com, Inc.
+BTSR	BrightStar Information Technology Group, Inc.
+PHMB	PharmaCom BioVet, Inc.
+DTEV	Data Evolution Holdings, Inc.
+KDCE	Kid Castle Educational Corporation
+SKGO	SkyBridge Technology Group, Inc.
+FRMC	Formcap Corp.
+TECO	Trimerica Energy Corporation
+UPPR	Upper Street Marketing Inc.
+UMLS	Ultimate Lifestyle Corp
+PANC	Panacos Pharmaceuticals, Inc.
+CPEU	Chapeau, Inc.
+EFTI	EarthFirst Technologies, Incorporated
+ORGH	OrgHarvest, Inc.
+SMVI	Social Media Ventures, Inc.
+DMEC	Domestic Energy Corporation
+CNDD	Concorde America, Inc.
+DLGI	DataLogic International, Inc.
+OTFT	Out Front Companies Inc.
+SSTU	Sandy Steele Unlimited, Inc.
+PPMH	Point to Point Methodics, Inc.
+HTDS	Hard to Treat Diseases Inc.
+PNPL	Pineapple, Inc.
+GMDP	Global Medical Products Holdings, Inc.
+SSTY	Sure Trace Security Corporation
+VMTF	VMT Scientific, Inc.
+GNPT	GreenParts International, Inc.
+FVRG	ForeverGreen Worldwide Corporation
+HTRE	H3Enterprises, Inc.
+NGBL	Notis Global, Inc.
+MCZAF	Mad Catz Interactive, Inc.
+EMOC	Extreme Motorsports of California, Inc.
+HSCO	Hi Score Corporation
+CVSC	Cardiovascular Sciences, Inc.
+SIDGQ	Stamford Industrial Group, Inc.
+NETO	NetObjects Inc.
+NXRA	Nextera Enterprises, Inc.
+RCTY	Rocket City Enterprises, Inc.
+ABLE	Able Energy, Inc.
+CBGI	The CannaBusiness Group, Inc.
+NXPS	NexPrise, Inc.
+BHBCQ	Beverly Hills Bancorp Inc.
+DGMS	digiMedical Solutions, Inc.
+EXER	Exact Energy Resources, Inc.
+ZMGD	Zamage Digital Art Imaging, Inc.
+MRDY	Mobile Ready Entertainment Corp.
+ASCBQ	Ascendia Brands, Inc.
+VSTCQ	Vision Technology Corp.
+SAHN	Saudi American Holdings Corp.
+PMXX	Primix Corporation
+ECCI	Ecoloclean Industries, Inc.
+GHTI	G-H-3 International Inc.
+ADBN	Americana Distribution, Inc.
+SNDH	Standard Holdings Group Inc
+IREP	Interep National Radio Sales, Inc.
+AVNE	Aventura Equities, Inc.
+EFLN	eFUEL EFN CORPORATION
+SAVW	SavWatt USA, Inc.
+ECUI	Ecuity, Inc.
+SWNM	Southwestern Medical Solutions, Inc.
+SVTLQ	SiVault Systems Inc.
+LVCC	Las Vegas Central Reservations Corp.
+NBDR	No Borders, Inc.
+THLT	TechLite, Inc.
+IEVM	Integrated Environmental Technologies, Ltd.
+ARTD	ARTISTdirect, Inc.
+RYPE	Royalite Petroleum Company, Inc.
+RBII	Rising BioSciences, Inc.
+GHGH	GuanHua Corporation
+TMEN	ThermoEnergy Corporation
+ALRY	Allenergy, Inc.
+ARME	Armor Electric, Inc.
+AMRA	American Racing Capital, Inc.
+NKRN	Nikron Technologies, Inc.
+AXMP	AXM Pharma, Inc.
+FRTD	Fortitude Group, Inc.
+RPDT	Rapidtron, Inc.
+ARYC	Arrayit Corporation
+GTLA	GT Legend Automotive Holdings Inc.
+SGLN	SurgLine International, Inc.
+RMTN	Rocky Mountain Ayre, Inc.
+PACC	Pacific CMA, Inc.
+PWEI	PacWest Equities Inc.
+INFX	Infinex Ventures, Inc.
+SOYO	Soyo Group Inc.
+OGNG	Bravo Enterprises Ltd.
+WERU	We-R-You Corp.
+LCRE	Lecere Corporation
+DLAD	Cabal Communications Corporation
+WHKA	World Hockey Association Corp.
+WGEE	Consolidated Gold Holdings, Inc
+WNCG	Wyncrest Group, Inc.
+DECN	Decision Diagnostics Corp.
+IMMB	Immunotech Laboratories, Inc.
+XTMM	Xtreme Motorsports International, Inc.
+OLNK	OneLink Corporation
+DMSI	Dermisonics, Inc.
+GPTC	Golden Patriot Corp.
+ICTV	ICTV Brands Inc.
+HESV	Home Energy Savings Corp.
+SGLS	Signature Leisure, Inc.
+MSTF	Monarch Staffing, Inc.
+MSSI	Medical Staffing Solutions, Inc.
+HVYB	Home Valley Bancorp Inc.
+PUMD	ProUroCare Medical Inc.
+HMGP	Hemi Energy Group, Inc.
+EVSO	Evolution Solar Corp
+PHSL	PHSL Worldwide Inc.
+RKTE	Reflectkote, Inc.
+USNL	U.S. National Telecom, Inc.
+PTTL	Pure Transit Technologies, Inc.
+BGMO	Bergamo Acquisition Corp.
+MTRO	Metro One Development, Inc.
+BOLV	Bolivar Mining Corp.
+MMTV	Medical Media Television, Inc.
+GDAR	Golden Age Resources, Inc.
+DBMM	Digital Brand Media & Marketing Group, Inc.
+CAGR	California Grapes International, Inc.
+EVRN	Everock, Inc.
+SVSE	Silver Star Energy, Inc.
+FDEI	Fidelis Energy, Inc.
+BLHI	Blue Holdings Inc.
+CBCPQ	Colonial Capital Trust IV PFD SEC 7.875%
+CLBN	Navajo Wind Energy Corp.
+SGBP	
+GAEC	Gulf Alternative Energy Corp.
+SWCC	Southwest Casino Corp.
+GRUI	Grupo Resilient International Inc.
+GRGR	Green Energy Resources, Inc.
+SNYL	Sunnylife Global, Inc.
+VIPV	VIPR Corp.
+MODC	Modern Technology Corp.
+IGRU	International Gold Resources Inc.
+GPKE	Graystone Park Enterprises Inc.
+MENI	Mobilized Entertainment, Inc
+PIPI	Premier Investment Properties Inc.
+CEFB	CENTRAL FLA ST BANK BELLEVIEW
+INIX	IFinix Corporation
+NSMG	National Storm Management, Inc.
+STYS	Stinger Systems, Inc.
+KCMH	KCM Holdings Corporation
+SMRN	Smartag International, Inc.
+CNCM	Connected Media Technologies Inc.
+FRLI	Frélii, Inc.
+WLSI	Wellstar International, Inc.
+GTSO	Green Technology Solutions, Inc.
+ECOS	EcoloCap Solutions Inc.
+VNCI	Vancord Capital Inc.
+CABE	Calibre Energy, Inc.
+GTGP	Global Technologies Group, Inc.
+TATD	Tatyana Designs, Inc.
+ZENG	Zenergy International, Inc.
+RKLC	ROCKELLE CORP
+NRWS	Narrowstep Inc.
+DPFD	Deep Field Technologies, Inc.
+SRGE	Southridge Enterprises, Inc.
+TRBO	Turbo Global Partners, Inc.
+NCTW	Nascent Wine Company, Inc.
+RVNG	Raven Gold Corp.
+AKVA	Arkanova Energy Corporation
+HYGN	Hydrogenetics, Inc.
+ESPHQ	Ecosphere Technologies, Inc.
+SUUB	Sub-Urban Brands, Inc.
+CYPJ	Cyber Operations, Inc.
+CCOP	Competitive Companies, Inc.
+CDIV	Cascadia Investments, Inc.
+PGNE	PrimeGen Energy Corp.
+MDBS	Master Distribution Systems, Inc.
+SECI	Sector 10, Inc.
+ITLI	Intelligentias, Inc.
+MIHI	Medical Innovation Holdings, Inc.
+SALN	Salon City, Inc.
+PNGB	Panglobal Brands, Inc.
+GWPC	Wholehealth Products, Inc.
+PVHO	Provision Holding, Inc.
+BFTI	Befut Global, Inc.
+PMAH	PlasmaTech, Inc.
+CRQE	Cirque Energy, Inc.
+DRSV	Debt Resolve, Inc.
+SUBB	Suburban Minerals Corp.
+CXUS	Celexus, Inc.
+VICT	Victura Construction Group, Inc.
+SMVE	Smart Move, Inc.
+DTRO	Deltron, Inc.
+TBLZ	Trailblazer Resources, Inc.
+RBYC	Ruby Creek Resources, Inc.
+LBYE	Liberty Energy Corp.
+RXEI	RxElite, Inc.
+PRLX	Parallax Health Sciences, Inc.
+STLT	Spotlight Innovation Inc.
+PGOG	Perf Go Green Holdings, Inc.
+PDXP	PDX Partners, Inc.
+BEEI	Bald Eagle Energy, Inc.
+HFBG	Hall of Fame Beverages, Inc.
+DSPA	ANKAA Corp.
+CLXS	Collexis Holdings Inc.
+PXYN	Praxsyn Corporation
+TTXP	Trilliant Exploration Corporation
+EVTP	EV Transportation, Inc.
+HKEB	HK eBus Corporation
+EIGH	8000 Inc
+GOCH	MMI-GOC, LLC
+UMAM	Umami Sustainable Seafood Inc.
+ALME	Alamo Energy Corp.
+CYRS	Cheyenne Resources Corporation
+PSIQ	Profile Solutions, Inc.
+ATHI	American Transportation Holdings, Inc.
+KLEG	Blue Sugars Corporation
+PGEC	Prestige Capital Corporation
+JRDN	Jardinier Corporation
+OPMG	Options Media Group Holdings, Inc.
+CMEY	cMoney, Inc.
+TPAC	Trans-Pacific Aerospace Company, Inc.
+GGBL	Guar Global Limited
+GEFI	Geo Finance Corporation
+FNRG	ForceField Energy Inc.
+LEGX	LegacyXChange, Inc.
+FITX	Creative Edge Nutrition, Inc.
+CCPR	CaseyCorp Enterprises, Inc.
+CHIT	Cherubim Interests Inc.
+GNZR	Generation Zero Group, Inc.
+INHC	Innolog Holdings Corporation
+VOIP	NIL
+GSLO	Go Solar USA, Inc.
+VRCI	Verde Science, Inc.
+IGRW	Interactive Health Network
+SPDL	Spindle, Inc.
+SPXA	SpectrumDNA, Inc.
+NERG	NuTech Energy Resources, Inc.
+ROTH	PharmaRoth Labs, Inc.
+EMLL	El Maniel International, Inc.
+NEXS	Nexus BioPharma, Inc.
+GPRC	Biochar Now, Inc.
+IXEH	IX Energy Holdings, Inc.
+GELV	Green Energy Live, Inc.
+BDFH	FOUR G HLDGS CORP
+ATAR	Avatar Ventures Corp.
+CXBS	Corix Bioscience, Inc.
+CPCC	Striper Energy, Inc.
+PCPZ	Leeward Group Holdings Inc.
+LYNS	Lightyear Network Solutions, Inc.
+ADGL	AllDigital Holdings, Inc.
+SMVR	Smart Ventures, Inc.
+ADEC	Alternative Energy Development Corp.
+INVB	InventaBioTech Inc.
+SAEI	Supatcha Resources, Inc.
+PLSB	The Pulse Beverage Corporation
+BVTK	Bravatek Solutions, Inc.
+GEPC	Gepco, Ltd.
+NCAP	Northsight Capital, Inc.
+CPSV	Consumer Products Services Group, Inc.
+TSMI	Total Sports Media, Inc.
+MBST	Mobile Star Corp.
+AEGY	Alternative Energy Partners, Inc.
+BIXT	Bioxytran, Inc.
+GBEN	Global Resource Energy, Inc.
+SOPV	Solar Park Initiatives, Inc.
+GWPD	GP Solutions, Inc.
+EFLT	eFleets Corporation
+CPHB	China PharmaHub Corp.
+SOUPQ	Soupman, Inc.
+ESLP	Euro Solar Parks, Inc.
+USCZF	United Silver Corp.
+FUEG	Face Up Entertainment Group, Inc.
+MYGG	MyGo Games Holding Co.
+WSML	Williamsville Sears Management, Inc.
+VAPE	Vape Holdings, Inc.
+ESSI	Eco Science Solutions, Inc.
+SLCO	Sovereign Lithium, Inc.
+RBCC	Rainbow Coral Corp.
+ITEC	Intertech Solutions , Inc.
+CDFT	Citadel EFT, Inc.
+IMJN	Imerjn Inc.
+AEDC	American Energy Development Corp.
+GTCP	Georgetown Corporation
+ILCC	International Leaders Capital Corporation
+CIAU	CIAO Group, Inc.
+RNBI	Rainbow International Corp.
+CHMR	Chimera Energy Corporation
+ONIN	Online Internet Network, Inc.
+TPNI	The Pulse Network, Inc.
+NDDG	Nudg Media Inc.
+VCPS	VinCompass Corp.
+NORX	Norstra Energy, Inc.
+AHII	American Heritage International Inc.
+VMRI	Valmie Resources, Inc.
+GROG	GroGenesis, Inc.
+NNSV	NanoSave Technologies Inc.
+LIFS	Life Stem Genetics Inc.
+WMGR	Wellness Matrix Group, Inc.
+NEWG	Greenwind Holdings Inc.
+CURM	CÜR Media, Inc.
+BKIT	BioHemp International, Inc.
+UNEQ	UNEEQO, Inc.
+CHGT	Changing Technologies, Inc.
+IMMG	Immage Biotherapeutics Corp.
+DGLT	Digiliti Money Group, Inc.
+OGSWW	NIL
+OVSPW	NIL
+EVBC	Evolution Blockchain Group Inc.
+OLMM	OneLife Technologies Corp.
+ELTZ	Elite Group, Inc.
+DEVV	Bioscience Neutraceuticals, Inc.
+IDDR	IDdriven, Inc.
+ONCX	Oncolix, Inc.
+WMHH	
+CRBL	Carbon Credit International, Inc.
+SRUP	Sirrus Corp.
+ATLT	Atlas Technology International, Inc.
+GCTY	Gain Cities Limited
+APPB	Applied Biosciences Corp.
+PXRB	PixarBio Corporation
+GLBB	Global Quest Ltd.
+BEAG	Blue Eagle Lithium Inc.
+NHEL	Natural Health Farm Holdings Inc.
+HDVW	HD View 360, Inc.
+HLTY	PreCheck Health Services, Inc.
+ANVV	Anvia Holdings Corporation
+RIVX	Rivex Technology Corp.
+MICLF	Mycronic AB (publ)
+TTGPF	TT Electronics plc
+PXSTF	Phoenix Media Investment (Holdings) Limited
+INNCF	NIL
+TSSZF	NIL
+SNCJF	SNT Corporation
+VEGPF	Vectura Group plc
+YUGVF	YouGov plc
+YFGSF	Yamaguchi Financial Group, Inc.
+TULLF	TP ICAP plc
+YUMSF	Demae-Can Co.,Ltd
+VZHGF	VZ Holding AG
+PMPAF	NIL
+MINXF	The Mercantile Investment Trust plc
+YYINZ	NIL
+BGKYF	Pure Extracts Technologies Corp.
+SMZZF	NIL
+SNCVF	Rassini, S.A.B. de C.V.
+QBTIF	NIL
+JPELF	NIL
+MSNVF	Mission Ready Solutions Inc.
+VXLLF	Vaxil Bio Ltd.
+ATHDF	Athene Holding Ltd.
+APHWF	Apollo Healthcare Corp.
+WUXFF	NIL
+PYYRF	NIL
+TIPUF	MULTI UNITS LUXEMBOURG LYXOR CO
+OPPPF	NIL
+TGGLF	NIL
+TVDPF	NIL
+PXMBF	Paxman AB (publ)
+MILOF	Mobilicom Limited
+ZBISF	Zenabis Global Inc.
+SMWZF	SM Wirtschaftsberatungs AG
+TKAEF	NIL
+RFHRF	Renforth Resources Inc.
+SNGHF	NIL
+NSVGF	Nass Valley Gateway Ltd.
+MIRHF	
+ORESF	Orestone Mining Corp.
+SMTYF	NIL
+SNCLF	NIL
+SNKEF	NIL
+YUZHF	NIL
+NLPXF	Noble Mineral Exploration Inc.
+TKCGF	NIL
+PYCEF	NIL
+TTBXF	Tritax Big Box REIT plc
+TISNF	TIS Inc.
+SNLRF	Sentinel Resources Corp.
+TTAXF	Tritax EuroBox plc
+TSLMF	ThinkSmart Limited
+TKMTF	NIL
+PWLNF	NIL
+TUYIF	NIL
+TSLRF	NIL
+MDBJF	Medical & Biological Laboratories Co., Ltd.
+GCXXF	Granite Creek Copper Ltd.
+TGDLF	Tongdao Liepin Group
+GRDAF	Guardforce AI Co., Limited
+PXXXF	NIL
+VDRFF	Vidrala, S.A.
+VYGPF	NIL
+GPOTF	Gold Port Corporation
+FTRPF	Field Trip Health Ltd.
+PCRAF	Pucara Gold Ltd.
+SAVNF	Savannah Resources Plc
+SVNTF	NIL
+TUOAF	NIL
+BIGN	Bigeon
+LDOMF	NIL
+YAMNF	NIL
+PLCKF	Plurilock Security Inc.
+OPTZF	OptiFreeze AB (publ)
+ENTBF	Entheon Biomedical Corp.
+MIBP	NIL
+INNPF	InnoCan Pharma Corporation
+CRBKF	Carebook Technologies Inc.
+PGRCF	NIL
+HAPBF	Hapbee Technologies, Inc.
+YADGF	NIL
+TKURF	Tokyu REIT, Inc.
+TFRY	Tasty Fries, Inc.
+HYDN	Hayden Hall, Inc.
+PABN	PanAmerican BanCorp.
+CCCI	China Cable and Communication, Inc.
+NWGN	NewGen Technologies Inc.
+LAGR	L.A. Gear, Inc.
+IFSH	IFS International Holdings, Inc.
+CYRD	CybeRecord, Inc.
+DNAT	DNA Medical Technologies, Inc.
+GRBG	Green Bridge Industries, Inc.
+CSTJ	Creston Resources, Ltd.
+AKSY	Aksys Ltd.
+NTPL	The Netplex Group, Inc.
+MDRA	Medra Corporation
+IRIDQ	Iridium World Communications Ltd.
+GSIL	General Store International Corp.
+IBIN	IBSG International, Inc.
+SETY	Star Entertainment Group Inc.
+NPNTQ	NorthPoint Communications Group Inc.
+CLRN	Clarent Corporation
+SUZXY	NIL
+SSDIY	
+FNXBY	NIL
+PKSKY	
+LHFLY	NIL
+NTHD	NetImpact Holdings, Inc.
+FETLY	NIL
+IBXG	iBX Group, Inc.
+UHBTY	NIL
+IBOKY	NIL
+FDBAY	NIL
+SCPT	Sports Concepts, Inc.
+SVJTL	NIL
+GRSJY	
+FCTXZ	NIL
+CPGVY	NIL
+JKEHY	NIL
+TGIOY	NIL
+APOQF	NIL
+AACMZ	NIL
+BTGN	Bitcoin Generation Inc.
+IAMUY	NIL
+NISQY	NIL
+CPLFY	NIL
+OCRNL	
+TNSZY	
+HALYY	NIL
+MGMOL	NIL
+JSCVL	NIL
+UDBKL	NIL
+ALAXL	NIL
+OGKJL	NIL
+NVSKL	
+LSRGL	NIL
+SNTBL	NIL
+MGJCL	
+FGCUL	NIL
+IRAOL	NIL
+TLGNL	NIL
+CGKOY	NIL
+BFLD	Broadcast Live Digital Corp.
+CEZZY	NIL
+PTCYZ	NIL
+ESQF	Vanguard Energy Group, Inc.
+SCNQY	NIL
+MDDXZ	Mandatory Exchangeable Trust MNDTY EXC CL A

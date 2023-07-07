@@ -1,0 +1,926 @@
+Symbol,Description
+FIT,Fitbit Inc
+PLNT,Planet Fitness
+EVH,Evolent Health Inc Cl A Com
+CSLT,Castlight Health Inc
+PKE,Park Electrochemical Corp
+AGX,Argan Inc
+CIR,Circor International
+NVST,Envista Holdings Corp
+VCRA,Vocera Communications Inc
+NLS,Nautilus Group
+DFNS,LGL Systems Acquisition Corp
+HWM,Howmet Aerospace Inc
+ADT,ADT Inc
+IRR,VOYA Risk Managed Natural Resources Fund
+GDOT,Green Dot Corp
+WMS,Advanced Drainage Systems Inc
+CIXX,CI Financial Corp OR
+PACK,Ranpak Holdings Corp
+CALX,Calix Inc
+KMPR,Kemper Corp
+GRX,The Gabelli Healthcare & Wellness Trust
+YELP,Yelp Inc
+VRT,Vertiv Holdings Llc.
+STT,State Street Corp
+AMWL,American Well Corp Cl A
+RGA,Reinsurance Group of America Inc
+KODK,Eastman Kodak
+VCIF,Vertical Capital Income Fund Common Shares of BE
+PLAN,Anaplan Inc
+VVI,Viad Corp
+CNO,Cno Financial Group
+DBD,Diebold Nixdorf Inc
+OOMA,Ooma Inc
+NEA,Nuveen Insured Tax-Free Advantage Fund
+ESRT,Empire State Realty Trust Inc
+CNS,Cohn & Steers Inc
+AVTR,Avantor Inc
+RLI,Rli Corp
+BCX,Blackrock Resources
+RJF,Raymond James Financial
+WBS,Webster Financial Corp
+MHE,Massachusetts Health and Education Tax-Exempt TR
+EVRI,Everi Holdings Inc
+RGS,Regis Corp
+SF,Stifel Financial Corp
+BEN,Franklin Resources
+GHL,Greenhill & CO Inc
+ACM,Aecom Technology Corp
+KAMN,Kaman Corp
+YEXT,Yext Inc
+BDC,Belden Inc
+TFC,Truist Financial Corp
+TEAF,Tortoise Essential Assets Income Term Fund
+SRV,The Cushing MLP Total Return Fund
+PRA,Pro-Assurance Corp
+PNF,Pimco New York Muni
+PIPR,Piper Jaffray Companies
+OIA,Invesco Muni Income Trust
+NIE,Agic Equity & Convertible
+MPLN,Multiplan Corp
+IQI,Invesco Quality Muni Income Trust
+IIM,Invesco Insured Muni Income Trust
+HRB,H&R Block
+FCF,First Commonwealth Financial Corp
+EEX,Emerald Expositions Events Inc
+EB,Eventbrite Inc
+CSPR,Casper Sleep Inc
+BYM,Blackrock Muni Income Quality Trust
+ETM,Entercom Communications Corp
+BAF,Blackrock Income Inv Quality Trust
+AMBC,Ambac Financial Group
+BGR,Blackrock Energy and Resources Trust
+C,Citigroup Inc
+ZUO,Zuora Inc
+FUSE,Fusion Acquisition Corp Cl A
+AC,Associated Capital Group Inc
+RLGY,Realogy Holdings Corp
+KW,Kennedy-Wilson Holdings Inc
+AMG,Affiliated Managers Group
+WY,Weyerhaeuser Company
+PMO,Putnam Muni Opportunities Trust
+AVLR,Avalara Inc
+VRTV,Veritiv Corp
+HRTG,Heritage Insurance Holdings
+VLT,Invesco High
+VKQ,Invesco Muni Trust
+IVZ,Invesco Plc
+FHI,Federated Investors
+PRSP,Perspecta Inc
+SCHW,The Charles Schwab Corp
+DBI,Designer Brands Inc
+CBU,Community Bank System
+RICE,Rice Acquisition Corp Cl A
+RA,Brookfield Real Assets Income Fund Inc
+BSN,Broadstone Acquisition Corp Cl A
+BSIG,Brightsphere Investment Group Plc
+AIR,AAR Corp
+ASB,Associated Banc-Corp
+TSLX,Tpg Specialty Lending Inc
+DLX,Deluxe Corp
+BHLB,Berkshire Hills Bancorp
+SCM,Stellus Capital Investment Cor
+APAM,Artisan Partners Asset Mgmt
+AVYA,Avaya Holdings Corp
+GMRE,Global Medical REIT Inc
+MBI,MBIA Inc
+RM,Regional Managment Corp
+DOC,Physicians Realty Trust
+MAX,Mediaalpha Inc Cl A
+AB,Alliancebernstein Holding LP
+PZN,Pzena Investment Management Inc
+AJX,Great Ajax Corp
+PRI,Primerica Inc
+VVR,Invesco Senior Income Trust
+BK,Bank of New York Mellon Corp
+LPX,Louisiana-Pacific Corp
+MTB,M&T Bank Corp
+DTF,Duff & Phelps Utilities Tax-Free Income
+KEY,Keycorp
+HIL,Hill International Inc
+GAM,General American Investors
+GWB,Great Western Bancorp Inc
+VTN,Invesco Trust New York Muni
+WK,Workiva Llc
+VTA,Invesco Dynamic Credit Fund
+VPV,Invesco Pennsylvania Muni
+VOYA,VOYA Financial Inc
+VMO,Invesco Muni Opportunity Trust
+VGM,Invesco Trust For Investment Grade Municipals
+VCV,Invesco California Value Muni Income Trust
+MXL,Maxlinear Inc
+DS,Drive Shack Inc
+AGM,Federal Agricultural Mortgage Corp
+FEI,First Trust MLP and Energy Inc
+CLNC,Colony Northstar Credit Real Estate Inc Class
+ACRE,Ares Commercial Real Estate Cor
+PGZ,Principal Real Estate Income F
+XAN,Exantas Capital Corp
+RDN,Radian Group Inc
+STWD,Starwood Property Trust
+STK,Columbia Seligman Premium Technology
+TRTX,Tpg Re Finance Trust Inc
+PFS,Provident Financial Services
+SCU,Sculptor Capital Management Inc
+TPZ,Tortoise Power and Energy
+MFD,Macquarie/First Trust Global
+MIE,Cohen & Steers MLP Income and
+ARI,Apollo Commercial Real Estate
+HTY,John Hancock Tax-Advantaged Global
+CEM,Clearbridge Energy MLP Fund Inc
+WD,Walker & Dunlop
+FNF,Fidelity National Financial
+FBK,Fb Financial Corp
+HBB,Hamilton Beach Brands Holding Company Cl A
+ARR,Armour Residential R
+TCI,Transcontinental Realty Investors
+STPK,Star Peak Energy Transition Corp Cl A
+SI,Silvergate Capital Corp Cl A
+SCD,Lmp Capital and Income Fund Inc
+ABR,Arbor Realty Trust
+RQI,Cohen & Steers Quality Income Realty Fund Inc
+RNP,Cohen & Steers REIT and Preferred
+RFI,Cohen & Steers Total Return Realty Fund
+GPMT,Granite Point Mortgage Trust Inc
+BST,Blackrock Science and Technolo
+PDT,John Hancock Premium Dividend Fund
+NRZ,New Residential Investment Corp
+CIM,Chimera Investment Corp
+AMK,Assetmark Financial Holdings Inc
+GNW,Genworth Financial Inc
+DXC,Dxc Technology Company
+KYN,Kayne Anderson MLP Investment Company
+KREF,KKR Real Estate Finance Trust Inc
+TUFN,Tufin Software Technologies Ltd
+JRS,Nuveen Real Estate Fund
+CWK,Cushman & Wakefield Plc
+HTD,John Hancock Tax Advantaged Dividend
+GB,Global Blue Group Holding Ag
+JDD,Nuveen Diversified Dividend and
+BXMT,Blackstone Mortgage Trust Inc Cl A
+BGB,Blackstone / Gso Strategic Cre
+NXRT,Nexpoint Residential Trust Inc
+WFC,Wells Fargo & Company
+TSI,Tcw Strategic
+EARN,Ellington Residential Mortgage
+IHIT,Invesco High Income 2023 Target Term Fund
+IGR,VOYA Clarion Global Real Estate
+CHMI,Cherry Hill Mortgage Investmen
+EPR,Entertainment Properties Trust
+EOD,Wells Fargo Global Dividend Opportunity
+DNP,Duff & Phelps Utilities Income
+MITT,Ag Mortgage Investment Trust
+FLC,Flaherty & Crumrine/Claymore Total Return
+WMC,Western Asset Mortgage Capital
+MAC,Macerich Company
+ADCT,Adc Therapeutics Sa
+FOF,Cohen & Steers Closed-End Opportunity Fund
+ANH,Anworth Mortgage Asset Corp
+DX,Dynex Capital
+PROS,Prosight Global Inc
+BLW,Blackrock Ltd Duration Income Trust
+PMT,Pennymac Mortgage Investment Trust
+BKU,BankUnited Inc
+BKT,Blackrock Income Trust Inc
+FT,Franklin Universal Trust
+BGX,Blackstone Gso Long Short Credit Fund
+HOV,Hovnanian Enterprises Inc
+HPF,John Hancock Pfd II
+HPI,John Hancock Preferred
+HPS,John Hancock Preferred Income Fund III
+DIAX,Nuveen Dow
+DHF,Dreyfus High Yield Strategies Fund
+HYB,New America High
+IGI,Western Asset Investment Grade Defined
+IID,VOYA International High Dividend Equity
+DDF,Delaware Dividend & Income
+INSI,Insight Select Income Fund
+ISD,Prudential Short Duration High
+IVR,Invesco Mortgage Capital Inc
+TSQ,Townsquare Media Llc
+JCE,Nuveen Core Equity Alpha Fund
+JCO,Nuveen Credit Opportunities 2022 Target Term Fun
+CXH,Colonial Investment Grade Muni Trust
+JFR,Nuveen Floating Rate
+CXE,Colonial High Income Muni Trust
+JHS,John Hancock Income Securities Trust
+JLS,Nuveen Mortgage Opportunity Term Fund
+JPC,Nuveen Preferred and Convertible
+JPS,Nuveen Quality Preferred 2
+JQC,Nuveen Preferred and Convertible 2
+JRI,Nuveen Real Asset Income and Gr
+JRO,Nuveen Floating Rate Income Opportuntiy
+JTA,Nuveen Tax-Advantaged Total Return
+JTD,Nuveen Tax-Advantaged Dividend Growth
+CVNA,Carvana CO Cl A
+CTAC,Cerberus Telecom Acquisition Corp Cl A
+KSM,Scudder Strategic Municiple Income Trust
+KTF,Scudder Municiple Income Trust
+TWO,Two Harbors Investments Corp
+TY,Tri Continental Corp
+LEO,Dreyfus Strategic Municipals
+CPF,Central Pacific Financial Company
+CORR,Corenergy Infrastructure Trust Inc
+MAV,Pioneer Muni High Income Advantage Trust
+MCI,Massmutual Corporate Investors
+MCN,Madison/Claymore Covered Call & Equity Strategy
+MDLA,Medallia Inc
+MDP,Meredith Corp
+MEC,Mayville Engineering Company Inc
+MEN,Blackrock Munienhanced Fund
+MFA,MFA Financial Inc
+MFM,MFS Muni Income Trust
+MFV,MFS Special Value Trust
+MGF,MFS Government Markets Income Trust
+MHD,Blackrock Muniholdings Fund
+MHF,Western Asset Muni High
+MHI,Pioneer Muni High Income Trust
+CMU,Colonial Muni Income Trust
+MIY,Blackrock Muniyield Michigan Quality Fund
+MMD,Mainstay Defined Muni Opp Fund
+MMU,Western Asset Managed Municipals Fund
+MNP,Western Asset Muni Partners Fund
+CLNY,Colony Capital Inc
+MPV,Massmutual Participation Investors
+MSP,Datto Holding Corp
+MTG,Mgic Investment Corp
+USA,Liberty All-Star Equity Fund
+MTT,Western Asset Muni Defined Opportunity Trust Inc
+MUE,Blackrock Muniholdings Quality Fund II
+MUH,Blackrock Muniholdings Fund II
+MUJ,Blackrock Muniholdings New Jersey Insured Fund
+MVF,Munivest Fund
+MYJ,Blackrock Muniyield New Jersey Fund
+CIF,Colonial Intermediate High
+NAC,Nuveen California Divadv Fund
+NAD,Nuveen Divadv Fund
+NCV,Agic Convertible &
+NCZ,Agic Convertible & II
+NEV,Nuveen Enhanced Muni Value Fund
+NFJ,Nfj Dividend Interest & Premium Strategy Fund
+CEN,Center Coast MLP & Infrastructure
+NHA,Nuveen Municipal
+NHF,Nexpoint Credit Strategies Fund
+NID,Nuveen Intermediate Duration M
+NIM,Nuveen Maturities Fund
+UTF,Cohen & Steers Infrastructure Fund
+NIQ,Nuveen Intermediate Duration Q
+NKX,Nuveen Insured California Tax-Free
+NLY,Annaly Capital Management Inc
+NMI,Nuveen Muni
+NMS,Nuveen Minnesota Municipal Inco
+NMT,Nuveen Massachusetts Premium Fund
+NMZ,Nuveen Muni High Income Opportunity
+NSL,Nuveen Senior
+CBH,Allianzgi Convertible Income 2024 Target Term Fu
+NUV,Nuveen Muni Value Fund
+NUW,Nuveen Muni Value Fund
+NVG,Nuveen Insured Divadv Fund
+NXP,Nuveen Tax Free Income Portfolio
+NXQ,Nuveen Tax Free Income Portfolio II
+NXR,Nuveen Tax Free Income Portfolio III
+NYC,New York City REIT Inc Cl A
+NZF,Nuveen Divadv Fund 3
+BZM,Blackrock Maryland Muni Trust
+ORC,Orchid Island Capital Inc
+VEL,Velocity Financial Inc
+VER,Vereit Inc
+OUT,Outfront Media Inc
+BY,Byline Bancorp Inc
+BXMX,Nuveen Equity Premium
+BXG,Bluegreen Vacations Corp
+PAI,Pacific American Income Shares
+PCK,Pimco California Muni II
+PCN,Pimco Corporate
+BUI,Blackrock Utility and Infrastr
+PFD,Flaherty & Crumrine Preferred Inc
+PFN,Pimco Income Strategy Fund II
+PFO,Flaherty & Crumrine Preferred Fund
+BTA,Blackrock Long-Term Muni Advantage Trust
+PHD,Pioneer Floating Rate Trust
+PHT,Pioneer High Income Trust
+BSL,Blackstone Gso Senior Floating Rate
+PIM,Putnam Master Intermediate Income
+BSE,Blackrock New York Muni Income Trust
+BSD,Blackrock Strategic Muni Trust Inc
+PMF,Pimco Muni
+PMM,Putnam Managed Muni Income Trust
+PMX,Pimco Muni Income Fund III
+PNI,Pimco New York Muni II
+PPR,VOYA Prime Rate Trust
+PSF,Cohen & Steers Preferred Fund
+PSTG,Pure Storage Inc
+BOH,Bank of Hawaii Corp
+BNED,Barnes & Noble Education Inc C
+QTS,Qts Realty Trust Inc
+RCS,Rcm Strategic Global Government Fund
+ACC,American Campus Communities Inc
+RMM,Rivernorth Managed Duration Municipal Income Fun
+RMT,Royce Micro-Cap Trust
+BHV,Blackrock Virginia Muni Trust
+BHK,Blackrock Core Trust
+BGY,Blackrock International
+RTP,Reinvent Technology Partners Cl A
+RVT,Royce Value Trust
+RWT,Redwood Trust
+BGT,Blackrock Global
+SBI,Western Asset Intermediate Fund Inc
+BFY,Blackrock New York Muni Trust II
+SFTW,Osprey Technology Acquisition Corp Cl A
+WAL,Western Alliance Bancorp
+BDJ,Blackrock Enhanced Dividend Achievers
+ZTR,Virtus Global Divd & Income Fund
+BBN,Balckrock Build America Trust
+BBK,Blackrock Muni Trust
+AIRC,Apartment Income REIT Corp
+BBF,Blackrock Muni Income Trust
+BANC,First Pactrust Bancorp
+SNR,New Senior Investment Group Inc
+SOR,Source Capital
+SPXX,Nuveen Equity Premium and Growth Fund
+AX,Axos Financial Inc
+AVK,Advent Claymore Convertible Securities
+STL,Sterling Bancorp
+STON,Stonemor Partners LP
+SWZ,Swiss Helvetia Fund
+ATEN,A10 Networks Inc
+ASG,Liberty All-Star Growth Fund
+AGS,Playags Inc
+ETB,Eaton Vance Tax-Managed Buy-Write
+ETJ,Eaton Vance Risk-Managed Diversified Equity
+EOT,Eaton Vance Muni Income Trust
+EOS,Eaton Vance Enhanced Equity II
+EOI,Eaton Vance Enhance Equity
+ETV,Eaton Vance Corp
+ETY,Eaton Vance Tax-Managed Diversified Equity
+EVF,Eaton Vance Senior Income Trust
+EVG,Eaton Vance Short Diversified
+EVN,Eaton Vance Muni Income Trust
+FBC,Flagstar Bancorp
+FCT,Senior Floating Rate II
+FFA,First Trust Enhanced Equity Income Fund
+FFC,Flaherty Crumrine/Claymore Preferred Securities
+FGB,Specialty Finance and Financial Fund
+FHN,First Horizon Corp
+FIS,Fidelity National Information Services
+EHT,Eaton Vance High Income 2021 Ta
+FRA,Blackrock Floating Rate Income Fund
+EGF,Blackrock Enhanced Government Fund
+EFT,Eaton Vance Floating Rate Income Trust
+EFR,Eaton Vance Senior Floating-Rate Fund
+EFC,Ellington Financial Llc
+FVRR,Fiverr International Ltd
+GAB,Gabelli Equity Trust
+GCI,Gannett CO Inc
+GDV,Gabelli Dividend
+ECCB,Eagle Point Credit Company Inc
+ECC,Eagle Point Credit CO Inc
+GGM,Guggenheim Credit Allocation F
+GLEO,Galileo Acquisition Corp
+DSU,Blackrock Debt Strategies Fund
+AFB,Alliance National Municipal
+GPM,Guggenheim Enhanced Equity
+HEQ,John Hancock Hedged Eqty & Inc
+DMO,Western Asset Mortgage Defined Opp
+HIE,Miller/Howard High Income Eqty
+HIO,Western Asset High
+MYI,Blackrock Muniyield Quality Fund III
+EMF,Templeton Emerging Markets Fund
+MYN,Blackrock Muniyield New York Quality Fund
+MZA,Muniyield Arizona Fund
+UBP,Urstadt Biddle Properties Inc
+NAN,Nuveen New York Divadv Fund
+SITC,Site Centers Corp
+TWND,Tailwind Acquisition Corp Cl A
+HIX,Western Asset High Income Fund II Inc
+NAZ,Nuveen Arizona Premium Fund
+NCA,Nuveen California Muni Value Fund
+NCB,Nuveen California Muni Value Fund 2
+FC,Franklin Covey Company
+NET,Cloudflare Inc Cl A
+LUMN,Centurylink
+GHY,Prudential Global Short Durati
+GIK,Gigcapital3 Inc
+GIM,Templeton Global
+GIX,Gigcapital2 Inc
+EMD,Western Asset Emerging Market Debt Fund Inc
+NJV,Nuveen New Jersey Muni Value Fund
+NKG,Nuveen Georgia Divadv Fund 2
+WDR,Waddell & Reed Financial
+SNAP,Snap Inc
+AFT,Apollo Senior Floating Rate Fund Inc
+FEO,First Trust/Aberdeen Emerging Opportunity Fund
+NMY,Nuveen Maryland Premium Fund
+DSL,Doubleline Income Solutions Fun
+NNY,Nuveen New York Muni Value Fund
+ALX,Alexander's Inc
+SNV,Synovus Financial Corp
+NOM,Nuveen Missouri Premium Fund
+UVE,Universal Insurance Holdings Inc
+AIF,Apollo Tactical Income Fund Inc
+NPN,Nuveen Pennsylvania Muni Value Fund
+AHT,Ashford Hospitality Trust Inc
+SPE,Special Opportunities Fund Inc
+NPV,Nuveen Virginia Premium Fund
+NQP,Nuveen Pennsylvania Investment
+NRK,Nuveen Insured New York Tax-Free
+DVD,Dover Downs Entertainment
+FFG,Fbl Financial Group
+LC,Lendingclub Corp
+SRG,Seritage Growth Properties
+AWF,Alliancebernstein Global High Income Fund
+MCA,Blackrock Muniyield California Insured Fund
+MCB,Metropolitan Bank Holding Corp
+ARA,American Renal Associates
+TROX,Tronox Inc
+NUM,Nuveen Michigan Quality
+NUO,Nuveen Ohio Quality
+HUBS,Hubspot Inc
+ETG,Eaton Vance Tax-Advantaged Global Dividend
+DFS,Discover Financial Services
+HYI,Western Asset High Yield Defined
+NVRO,Nevro Corp
+HYT,Blackrock High Yield Fund Vi Inc
+MCR,MFS Charter Income Trust
+DFP,Flaherty & Crumrine Dynamic
+DEX,Delaware Enhanced Global Dividend
+IACA,ION Acquisition Corp 1 Ltd Cl A
+IAE,VOYA Asia Pacific High Dividend Equity
+CATO,Cato Corp
+MCS,Marcus Corp
+IGA,VOYA Global Advantage and Premium
+IGD,VOYA Global Equity Dividend and Premium
+MD,Mednax Inc
+NXC,Nuveen California Tax-Free Income
+NXJ,Nuveen New Jersey Divadv Fund
+IHD,VOYA Emerging Markets High Dividend
+NXN,Nuveen Insured New York Tax-Free
+WPG,Washington Prime Group Inc
+FIV,First Trust Senior Floating Rate 2022 Target Ter
+NYCB,New York Community Bancorp
+DBL,Doubleline Opportunistic Credi
+NYV,Nuveen New York Muni Value Fund 2
+DASH,Doordash Inc Cl A
+IPOD,Social Capital Hedosophia Corp IV Cl A
+IPOE,Social Capital Hedosophia Corp V Cl A
+IPOF,Social Capital Hedosophia Corp Vi Cl A
+IRL,Irish Investment Fund
+IVH,Ivy High Income Opportunities
+ADX,Adams Diversified Equity Fund
+CODI,Compass Diversified Holdings
+GOF,Claymore/Guggenheim Strategic Fund
+JEQ,Japan Equity Fund
+JGH,Nuveen Global High Income Fund
+JHI,John Hancock Investors Trust
+JMP,JMP Group Inc
+JOF,Japan Smaller Capitalization Fund Inc
+WIA,U.S. Treasury Inflation Prot Secs Fd
+JPI,Nuveen Preferred and Income Term Fund
+JPM,JP Morgan Chase & Company
+JSD,Nuveen Short Duration Credit O
+LEE,Lee Enterprises Inc
+OMF,Onemain Holdings Inc
+ETO,Eaton Vance Tax-Advantage Global Dividend Opp
+WIW,U.S Treasury Inflation Prot Secs Fd 2
+CUBI,Customers Bancorp
+OPP,Rivernorth/Doubleline Strategic Opportunity Fund
+KF,Korea Fund
+KFY,Korn/Ferry International
+KIO,KKR Income Opportunities Fund
+MFL,Blackrock Muniholdings Investment Quality Fund
+ORCC,Owl Rock Capital Corp
+THG,The Hanover Insurance Group
+MFT,Blackrock Muniyield Investment Qualityfund
+ETW,Eaton Vance Corp
+THQ,Tekla Healthcare Opportunities
+MGU,Macquarie Global Infrastructure Total Return Fun
+EHI,Western Asset Global High
+BXC,Bluelinx Holdings Inc
+ETX,Eaton Vance Municipal Income T
+PANW,Palo Alto Networks Inc
+PAYC,Paycom Software Inc
+BWG,Legg Mason Bw Global Income
+KRG,Kite Realty Group Trust
+EV,Eaton Vance Corp
+MHN,Blackrock Muniholdings New York Quality Fund
+PCI,Pimco Dynamic Credit Income Fun
+FMY,First Trust/Fidac Mortgage Income Fund
+PCM,Pimco Commercial Mortgage Securities
+LGI,Lazard Global Total Return and
+PCQ,Pimco California Muni
+FNB,F.N.B. Corp
+MIN,MFS Intermediate Income Trust
+PDI,Pimco Dynamic Income Fund
+BTZ,Blackrock Preferred
+PEI,Pennsylvania Real Estate Investment
+VGI,Virtus Global Multi-Sector Inc
+PFL,Pimco Income Strategy Fund
+BTT,Blackrock Municipal Target Term
+PGP,Pimco Global Stocksplus & Income
+PGRE,Paramount Group Inc
+BTO,John Hancock Bank and Thrift Fund
+FPF,First Trust Intermediate Durat
+FPH,Five Point Holdings Llc Cl A
+PHK,Pimco High Income Fund
+ACV,Allianzgi Diversified Income &
+PINE,Alpine Income Property Trust Inc
+DPG,Duff & Phelps Global Utility
+AMP,Ameriprise Financial Services
+PKO,Pimco Income Opportunity Fund
+TEI,Templeton Emerging Markets
+FSD,High Income Long Short Fund
+PML,Pimco Muni II
+FSK,FS KKR Capital Corp
+MMT,MFS Multimarket Income Trust
+THW,Tekla World Healthcare Fund
+EVR,Evercore Partners Inc
+BRT,BRT Realty Trust
+MN,Manning & Napier Inc
+PPT,Putnam Premier Income Trust
+CLPR,Clipper Realty Inc
+PSTL,Postal Realty Trust Cl A
+BOX,Box Inc
+PTY,Pimco Corporate Opportunity Fund
+MP,Mp Materials Corp
+MPA,Blackrock Muniyield Pennsylvania Quality Fund
+BOE,Blackrock Global
+BNY,Blackrock New York Muni Trust Inc
+PYN,Pimco New York Muni Income Fund III
+PZC,Pimco California Muni Income Fund III
+EFF,Eaton Vance Floating-Rate Inco
+LMND,Lemonade Inc
+EVT,Eaton Vance Tax Advantaged Dividend
+QUAD,Quad Graphics Inc
+MQT,Blackrock Muniyield Quality Fund II
+MQY,Blackrock Muniyield Quality Fund
+CLI,Mack-Cali Realty Corp
+BLE,Blackrock Muni Income Trust II
+ARDC,Ares Dynamic Credit Allocation
+BKN,Blackrock Investment Quality Municipal
+MSD,Morgan Stanley Emerging Markets Debt
+RGT,Royce Global Value Trust Inc
+BIT,Blackrock Multi-Sector Income T
+RKT,Rocket Companies Inc Cl A
+EXG,Eaton Vance Tax-Managed Global Diversified Equit
+BIF,Boulder Growth & Income Fund Inc
+RPAI,Retail Properties of America
+GCV,Gabelli Convertible and Income Securities
+GDL,The Gdl Fund
+GDO,Western Asset Global Corporate Defined
+EDI,Stone Harbor Emerging Markets
+EDF,Stone Harbor Emerging Markets
+BGIO,Blackrock 2022 Global Income Opportunity Trust
+EDD,Emerging Markets Domestic Debt Fund
+BGH,Babson Capital Global Short Du
+CIT,Cit Group Inc
+MUA,Blackrock Muniassets Fund
+SAR,Saratoga Investment Corp
+MUC,Blackrock Muniholdings California Quality Fund
+BFZ,Blackrock California Muni Trust
+BFT,Foley Trasimene Acquisition Corp. II Cl A
+MUI,Blackrock Muni Intermediate Duration Fund Inc
+VYGG,Vy Global Growth Cl A
+UBA,Urstadt Biddle Properties Inc
+BFK,Blackrock Muni Income Trust
+MUS,Blackrock Muniholdings Quality Fund
+SEAH,Sports Entertainment Acquisition Corp Cl A
+FAM,First Trust/Aberdeen Global Opportunity
+GSBD,Goldman Sachs Bdc Inc
+HFRO,Highland Floating Rate Opportunities Fund
+GGT,Gabelli Global Multi-Media Trust
+GGZ,Gabelli Global Small and Mid CA
+MVT,Blackrock Munivest Fund II
+CII,Blackrock Capital and Income Strategies
+MYC,Blackrock Muniyield California Fund
+MYD,Blackrock Muniyield Fund
+MYF,Blackrock Muniyield Investment Fund
+ASAQ,Atlantic Street Acquisition Corp Cl A
+ASAN,Asana Inc Cl A
+ARW,Arrow Electronics
+CRHC,Cohn Robbins Holdings Corp Cl A
+LEAP,Ribbit Leap Ltd Cl A
+EQD,Equity Distribution Acquisition Corp Cl A
+LGVW,Longview Acquisition Corp Cl A
+LOAK,Live Oak Acquisition Corp
+LYV,Live Nation Entertainment
+MDLY,Medley Management Inc
+GSAH,GS Acquisition Holdings Corp II Cl A
+MODN,Model N Inc
+MSGS,Madison Square Garden Sports Corp
+CLA,Colonnade Acquisition Corp Cl A
+ENPC,Executive Network Partnering Corp Cl A
+EMPW,Empower Ltd Cl A
+FAII,Fortress Value Acquisition Corp. II Cl A
+ACND,Ascendant Digital Acquisition Corp Cl A
+NEWR,New Relic Inc
+CHGG,Chegg Inc
+NGA,Northern Genesis Acquisition Corp
+AAIC,Arlington Asset Investment Corp
+NLSN,Nielsen Holdings Plc
+CCX,Churchill Capital II Cl A
+CCIV,Churchill Capital Corp IV Cl A
+FGNA,Fg New America Acquisition Corp Cl A
+AFI,Armstrong Flooring Inc
+NWHM,New Home CO Llc
+OAC,Oaktree Acquisition Corp Cl A
+OACB,Oaktree Acquisition Corp. II Cl A
+FMAC,Firstmark Horizon Acquisition Corp Cl A
+GWRE,Guidewire Software Inc
+PANA,Panacea Acquisition Corp Cl A
+VGAC,VG Acquisition Corp Cl A
+BVH,Bluegreen Vacations Hldg Corp.
+BUR,Burford Capital Limited
+PCPL,CC Neuberger Principal Holdings I Cl A
+PIAI,Prime Impact Acquisition I Cl A
+PLT,Plantronics
+PMVC,Pmv Consumer Acquisition Corp Cl A
+FSLF,First Eagle Senior Loan Fund
+FSR,Fisker Inc
+PRG,Prog Hldgs Inc
+PRPB,CC Neuberger Principal Holdings II Cl A
+PSTH,Pershing Square Tontine Hldgs Cl A
+DNB,Dun & Bradstreet Holdings Inc
+VRS,Verso Corp
+GBL,Gamco Investors
+RIV,Rivernorth Opportunities Fund
+BILL,Bill.com Holdings Inc
+AIZP,Assurant Inc 6.50% Series D Mandatory Converti
+XPOA,Dpcm Capital Inc Cl A
+AIZ,Assurant Inc
+RPLA,Replay Acquisition Corp
+RPT,Ramco-Gershenson Properties Trust
+RVI,Retail Value Inc
+AIW,Arlington Asset Investment Cor
+SBG,Sandbridge Acquisition Corporation Cl A
+YAC,Yucaipa Acquisition Corporation Cl A
+SCVX,Scvx Corp Cl A
+BCSF,Bain Capital Specialty Finance Inc
+BBDC,Barings Bdc Inc
+SNPR,Tortoise Acquisition Corp. II Cl A
+SPNV,Supernova Partners Acquisition Company Inc Cl A
+TREB,Trebia Acquisition Corp Cl A
+HPX,Hpx Corp Cl A
+DGNR,Dragoneer Growth Opportunities Corp Cl A
+HZAC,Horizon Acquisition Corporation Cl A
+HZON,Horizon Acquisition Corporation II Cl A
+DEH,D8 Holdings Corp Cl A
+WPF,Foley Trasimene Acquisition Cl A
+HIGA,H.I.G. Acquisition Corp Cl A
+AVAN,Avanti Acquisition Corp Cl A
+IMPX,Aea-Bridges Impact Corp Cl A
+INVH,Invitation Homes Inc
+IPV,Interprivate Acquisition Corp
+GOAC,Go Acquisition Corp Cl A
+APSG,Apollo Strategic Growth Capital Cl A
+ATAC,Altimar Acquisition Corp Cl A
+JWS,Jaws Acquisition Corp Cl A.
+ASPL,Aspirational Consumer Lifestyle Corp Cl A
+CULP,Culp Inc
+AONE,One Cl A
+SFE,Safeguard Scientifics
+NSCO,Nesco Holdings Inc
+WRB,W.R. Berkley Corp
+PDAC,Peridot Acquisition Corp Cl A
+OMI,Owens & Minor
+GL,Globe Life Inc
+VVNT,Vivint Smart Home Inc
+NREF,Nexpoint Real Estate Finance Inc
+CIA,Citizens Inc
+OI,Owens-Illinois
+BME,Blackrock Health Sciences Trust
+PD,Pagerduty Inc
+GRUB,Grubhub Inc
+UAN,Cvr Partners LP
+JBGS,Jbg Smith Properties
+CYH,Community Health Systems
+PHR,Phreesia Inc
+HMN,Horace Mann Educators Corp
+ESTC,Elastic N.V.
+BXS,Bancorpsouth Inc
+MEG,Montrose Environmental Group Inc
+FUBO,Fubotv Inc
+TPGY,Tpg Pace Beneficial Finance Corp Cl A
+EQH,Axa Equitable Holdings Inc
+CPSR,Capstar Special Acquisition Corp Cl A
+LNC,Lincoln National Corp
+GTT,Global Telcom & Technology Inc
+FSKR,FS KKR Capital Corp II
+HSC,Harsco Corp
+AFG,American Financial Group
+GNK,Genco Shipping & Trading Ltd
+ESGC,Eros Stx Global Corp.
+HIG,Hartford Financial Services Group
+AZEK,The Azek Company Inc Cl A
+TDOC,Teladoc Health Inc
+GATO,Gatos Silver Inc
+TDF,Templeton Dragon Fund
+OCN,Ocwen Financial Corp
+NNI,Nelnet Inc
+EVA,Enviva Partners LP
+CLW,Clearwater Paper Corp
+ARL,American Realty Investors
+MAIN,Main Street Capital Corp
+HQL,Tekla Life Sciences Investors
+SPR,Spirit Aerosystems Holdings
+USX,U.S. Xpress Enterprises Inc Cl A
+UNM,Unumprovident Corp
+HGV,Hilton Grand Vacations Inc
+UBER,Uber Technologies Inc
+TRV,The Travelers Companies Inc
+BDXB,Becton Dickinson & CO
+SOAC,Sustainable Opportunities Acquisition Corp Cl A
+GHLD,Guild Holdings Company Cl A
+BNL,Broadstone Net Lease Inc Cl A
+CRS,Carpenter Technology Corp
+FST,Fast Acquisition Corp Cl A
+VHC,Virnetx Holding Corp
+FMN,Federated Premier Muni
+RF,Regions Financial Corp
+GUT,Gabelli Utility Trust
+HCI,Homeowners Choice
+PINS,Pinterest Inc
+EIG,Employers Holdings Inc
+PING,Ping Identity Holding Corp
+FPL,First Trust New Opportunities M
+NTST,Netstreit Corp
+WHG,Westwood Holdings Group Inc
+DT,Dynatrace Inc
+SRT,Startek Inc
+HQH,Tekla Healthcare Investors
+CPLG,Corepoint Lodging Inc
+CTT,Catchmark Timber Trust Inc
+PACE,Tpg Pace Tech Opportunities Corp Cl A
+ALTG,Alta Equipment Group Inc
+ALEX,Alexander and Baldwin Inc
+APTS,Preferred Apartment Communities
+BZH,Beazer Homes USA
+SC,Santander Consumer USA Holdings
+NX,Quanex Building Products Corp
+ORI,Old Republic International Corp
+BBW,Build-A-Bear Workshop
+AZZ,Azz Inc
+HTH,Hilltop Holdings Inc
+HTGC,Hercules Technology Growth Capital
+THC,Tenet Healthcare Corp
+CDR,Cedar Realty Trust Inc
+HNGR,Hanger Inc
+SAIL,Sailpoint Technologies Holdings Inc
+DUC,Duff & Phelps Utility & Corporate Trust
+NBHC,National Bank Holdings Corp
+OSH,Oak Street Health Inc
+FAF,First American Corp
+CDAY,Ceridian Hcm Holding Inc
+HOME,At Home Group Inc
+BEPC,Brookfield Renewable Corp
+GER,Goldman Sachs MLP Energy Renai
+COF,Capital One Financial Corp
+EVC,Entravision Communications Corp
+CUB,Cubic Corp
+ALL,Allstate Corp
+CLF,Cleveland-Cliffs Inc
+PRU,Prudential Financial Inc
+FLOW,SPX Flow Inc
+QTWO,Q2 Holdings Inc
+EGHT,8X8 Inc
+CMO,Capstead Mortgage Corp
+PNC,PNC Bank
+LEAF,Leaf Group Ltd
+EFX,Equifax Inc
+ZEN,Zendesk Inc
+AQUA,Evoqua Water Technologies Corp
+TGI,Triumph Group
+UTI,Universal Technical Institute Inc
+BALY,Bally's Corp
+ARLO,Arlo Technologies Inc
+ASPN,Aspen Aerogels Inc
+RC,Ready Capital Corp
+EQS,Equus Total Return
+AXR,Amrep Corp
+TPC,Tutor Perini Corp
+AA,Alcoa Corp
+RAMP,Liveramp Holdings Inc
+AHC,A.H. Belo Corp
+CBB,Cincinnati Bell Inc
+SYF,Synchrony Financial
+CFG,Citizens Financial Group Inc/Ri
+WEX,Wex Inc
+CNR,Cornerstone Building Brands Inc
+DMS,Digital Media Solutions Inc
+UIS,Unisys Corp
+CTR,Clearbridge Energy MLP Fund IN
+SMAR,Smartsheet Inc Cl A
+SQZ,Sqz Biotechnologies Company
+CFR,Cullen/Frost Bankers
+CEL,Cellcom Israel
+MCY,Mercury General Corp
+CFXA,Colfax Corp Tangible Equity Unit
+YSG,Yatsen Holding Limited ADR
+R,Ryder System
+LTHM,Livent Corp
+ACEL,Accel Entertainment Inc
+CMA,Comerica Inc
+GKOS,Glaukos Corp
+CADE,Cadence Bancorp Cl A
+NVTA,Invitae Corp
+NTG,Tortoise MLP Fund
+VTOL,Bristow Group Inc
+MTR,Mesa Royalty Trust
+APG,Api Group Corp
+ADS,Alliance Data Systems Corp
+KMF,Kayne Anderson Midstream Energy Fund
+Y,Alleghany Corp
+TWI,Titan International
+TEL,Te Connectivity Ltd
+EMO,Clearbridge Energy MLP Opportu
+SBE,Switchback Energy Acquisition Corp Cl A
+TDC,Teradata Corp
+MTOR,Meritor Inc
+MNSO,Miniso Group Holding Ltd ADR
+CNA,Cna Financial Corp
+ATI,Allegheny Technologies Inc
+PAR,Par Technology Corp
+CARS,Cars.com Inc
+TPVG,Triplepoint Venture Growth Bdc
+QUOT,Quotient Technology Inc
+REX,Rex American Resources Corp
+RFL,Rafael Holdings Inc
+INSW,International Seaways Inc
+TDG,Transdigm Group Inc
+OLN,Olin Corp
+TREC,Trecora Resources
+AP,Ampco-Pittsburgh Corp
+CAF,Morgan Stanley China A Share Fund Inc
+AXL,American Axle & Manufacturing
+CMD,Cantel Medical
+RYI,Ryerson Holding Corp
+CWH,Camping World Holdings Inc
+PRO,Pros Holdings
+CHN,China Fund
+SCX,L.S. Starrett Company
+RYAM,Rayonier Advanced Materials Inc
+LU,Lufax Holding Ltd ADR
+PEO,Adams Natural Resources Fund Inc
+FLT,Fleetcor Technologies
+BW,Babcock & Wilcox Enterprises
+UFI,Unifi Inc
+SZC,The Cushing Renaissance Fund
+FTAI,Fortress Transportation & Infra
+AI,C3.Ai Inc Cl A
+X,United States Steel Corp
+GNT,Gabelli Natural Resources Gold
+ALLY,Ally Financial
+CHRA,Charah Solutions Inc
+TEN,Tenneco Automotive
+AES,The Aes Corp
+PB,Prosperity Bancshares
+ORN,Orion Group Holdings Inc
+TMST,Timken Steel Corp
+LDL,Lydall Inc
+FMO,Fiduciary/Claymore MLP Opportunity Fund
+KMT,Kennametal Inc
+HCHC,Hc2 Holdings Inc
+CAH,Cardinal Health
+MOD,Modine Manufacturing Company
+WCN,Waste Connections Inc
+KRA,Kraton Performance Polymers Inc
+FCX,Freeport-Mcmoran Inc
+KKR,KKR & CO LP
+UNVR,Univar Inc
+SMHI,Seacor Marine Holdings Inc
+DSE,Duff & Phelps Select Energy ML
+SLCA,U.S. Silica Holdings Inc
+SMM,Salient Midstream & MLP Fund
+FLR,Fluor Corp
+DEN,Denbury Inc
+RIG,Transocean Inc
+IPI,Intrepid Potash Inc
+SLB,Schlumberger N.V.
+MPC,Marathon Petroleum Corp
+WTTR,Select Energy Services Inc
+NAV,Navistar International Corp
+COP,Conocophillips
+TISI,Team Inc
+VLO,Valero Energy Corp
+CVX,Chevron Corp
+OXY,Occidental Petroleum Corp
